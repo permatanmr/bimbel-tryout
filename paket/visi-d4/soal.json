@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D4",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal, kata beda, dan pemahaman bacaan (laporan, wawancara, argumentasi, resensi, poster, cerita, pantun, syair, dan kata baku).",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Bersedih = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bahagia",
+        "B": "Menangis",
+        "C": "Tertawa",
+        "D": "Ceria"
+      },
+      "jawaban": "B",
+      "penjelasan": "Bersedih paling dekat dengan menangis di antara pilihan yang ada."
+    },
+    {
+      "no": 2,
+      "soal": "Bising = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ramai",
+        "B": "Sunyi",
+        "C": "Tenang",
+        "D": "Sepi"
+      },
+      "jawaban": "A",
+      "penjelasan": "Bising berarti ramai atau gaduh."
+    },
+    {
+      "no": 3,
+      "soal": "Takabur = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Penyayang",
+        "B": "Berburuk sangka",
+        "C": "Sombong",
+        "D": "Tidak peduli"
+      },
+      "jawaban": "C",
+      "penjelasan": "Takabur berarti sombong."
+    },
+    {
+      "no": 4,
+      "soal": "Berani = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Takut",
+        "B": "Percaya diri",
+        "C": "Cemas",
+        "D": "Malu"
+      },
+      "jawaban": "B",
+      "penjelasan": "Berani berarti tidak takut dan percaya diri; pilihan lain adalah sifat berlawanan."
+    },
+    {
+      "no": 5,
+      "soal": "Teman = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tetangga",
+        "B": "Lawan",
+        "C": "Sahabat",
+        "D": "Sepupu"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teman bersinonim dengan sahabat."
+    },
+    {
+      "no": 6,
+      "soal": "Hukuman = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Akibat",
+        "B": "Aturan",
+        "C": "Larangan",
+        "D": "Contoh"
+      },
+      "jawaban": "A",
+      "penjelasan": "Hukuman berarti akibat atau ganjaran yang diterima karena pelanggaran. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 7,
+      "soal": "Absen = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hadir",
+        "B": "Tidak hadir",
+        "C": "Curang",
+        "D": "Abai"
+      },
+      "jawaban": "B",
+      "penjelasan": "Absen berarti tidak hadir."
+    },
+    {
+      "no": 8,
+      "soal": "Cepat = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Perlahan",
+        "B": "Lambat",
+        "C": "Segera",
+        "D": "Lancang"
+      },
+      "jawaban": "C",
+      "penjelasan": "Cepat bersinonim dengan segera."
+    },
+    {
+      "no": 9,
+      "soal": "Semu = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Nyata",
+        "B": "Tipu",
+        "C": "Terlihat",
+        "D": "Trik"
+      },
+      "jawaban": "B",
+      "penjelasan": "Semu berarti palsu atau tidak sebenarnya, dekat dengan tipu."
+    },
+    {
+      "no": 10,
+      "soal": "Taat = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Takut",
+        "B": "Santun",
+        "C": "Patuh",
+        "D": "Hormat"
+      },
+      "jawaban": "C",
+      "penjelasan": "Taat berarti patuh."
+    },
+    {
+      "no": 11,
+      "soal": "Rawan >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Aman",
+        "B": "Nyaman",
+        "C": "Rahasia",
+        "D": "Khusus"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata rawan (berbahaya) adalah aman."
+    },
+    {
+      "no": 12,
+      "soal": "Tinggi >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bawah",
+        "B": "Rendah",
+        "C": "Pendek",
+        "D": "Samping"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata tinggi adalah rendah. Pilihan B dan D sama-sama tertulis 'Rendah' pada soal asli; B dipilih."
+    },
+    {
+      "no": 13,
+      "soal": "Ciut >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Besar",
+        "B": "Kuat",
+        "C": "Melar",
+        "D": "Padat"
+      },
+      "jawaban": "A",
+      "penjelasan": "Ciut berarti kecil atau mengecil; lawannya besar."
+    },
+    {
+      "no": 14,
+      "soal": "Curang >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Licik",
+        "B": "Jujur",
+        "C": "Bagus",
+        "D": "Cerdik"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata curang adalah jujur."
+    },
+    {
+      "no": 15,
+      "soal": "Kasar >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gradasi",
+        "B": "Rata",
+        "C": "Bentuk",
+        "D": "Halus"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata kasar adalah halus."
+    },
+    {
+      "no": 16,
+      "soal": "Sapu : Lantai = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gunting : Kertas",
+        "B": "Tanah : Tanaman",
+        "C": "Pupuk : Organik",
+        "D": "Bumbu : Dapur"
+      },
+      "jawaban": "A",
+      "penjelasan": "Sapu alat untuk membersihkan lantai, gunting alat untuk memotong kertas (alat : objek)."
+    },
+    {
+      "no": 17,
+      "soal": "Mawar : Merah = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Makan : Minum",
+        "B": "Susu : Stroberi",
+        "C": "Langit : Biru",
+        "D": "Burung : Sayap"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mawar identik dengan warna merah, langit identik dengan warna biru."
+    },
+    {
+      "no": 18,
+      "soal": "Baterai : Jam = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baju : Celana",
+        "B": "Pisau : Tajam",
+        "C": "Garam : Laut",
+        "D": "Api : Lilin"
+      },
+      "jawaban": "D",
+      "penjelasan": "Baterai sumber daya yang membuat jam bekerja; api sumber nyala lilin. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 19,
+      "soal": "Mata : Telinga = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jari : Tangan",
+        "B": "Lutut : Siku",
+        "C": "Lidah : Hidung",
+        "D": "Kepala : Berpikir"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mata dan telinga sama-sama panca indera; lidah dan hidung juga panca indera."
+    },
+    {
+      "no": 20,
+      "soal": "Pohon : Buah = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Telur : Ayam",
+        "B": "Sapi : Susu",
+        "C": "Domba : Sisik",
+        "D": "Jentik : Nyamuk"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pohon menghasilkan buah, sapi menghasilkan susu."
+    },
+    {
+      "no": 21,
+      "soal": "Berani : Gagah = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hasut : Tangis",
+        "B": "Air : Dingin",
+        "C": "Takut : Pengecut",
+        "D": "Tidur : Malam"
+      },
+      "jawaban": "C",
+      "penjelasan": "Gagah identik dengan sifat berani, pengecut identik dengan sifat takut. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 22,
+      "soal": "Lampu : Gelap = Minuman : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lapar",
+        "B": "Penuh",
+        "C": "Haus",
+        "D": "Gizi"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lampu mengatasi gelap, minuman mengatasi haus."
+    },
+    {
+      "no": 23,
+      "soal": "Ikan : Berenang : Air = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ibu : Memasak : Halaman",
+        "B": "Kuas : Cat : Tembok",
+        "C": "Makanan : Nasi : Meja",
+        "D": "Burung : Terbang : Udara"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ikan berenang di air, burung terbang di udara (makhluk : gerak : tempat)."
+    },
+    {
+      "no": 24,
+      "soal": "Stetoskop : Suntikan : Dokter = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ikan : Karang : Asin",
+        "B": "Dokter : Suster : Pasien",
+        "C": "Jala : Perahu : Nelayan",
+        "D": "Gedung : Kota : Macet"
+      },
+      "jawaban": "C",
+      "penjelasan": "Stetoskop dan suntikan alat dokter; jala dan perahu alat nelayan (alat : alat : profesi)."
+    },
+    {
+      "no": 25,
+      "soal": "Air : Es batu : Mencair = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tanah : Kering : Longsor",
+        "B": "Padat : Keras : Beku",
+        "C": "Udara : Uap Air : Menguap",
+        "D": "Gelembung : Udara : Pecah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Es batu mencair menjadi air; uap air menguap ke udara (hasil : bentuk awal : proses). Hubungan ini kurang tegas. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 26,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Komputer",
+        "B": "Televisi",
+        "C": "Mesin Jahit",
+        "D": "Flash Disk"
+      },
+      "jawaban": "C",
+      "penjelasan": "Komputer, televisi, dan flash disk adalah perangkat elektronik; mesin jahit pada dasarnya alat mekanik."
+    },
+    {
+      "no": 27,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bros",
+        "B": "Gaun",
+        "C": "Celana",
+        "D": "Kemeja"
+      },
+      "jawaban": "A",
+      "penjelasan": "Gaun, celana, dan kemeja adalah pakaian; bros adalah aksesori."
+    },
+    {
+      "no": 28,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hanoi",
+        "B": "Beijing",
+        "C": "Surabaya",
+        "D": "Manila"
+      },
+      "jawaban": "C",
+      "penjelasan": "Hanoi, Beijing, dan Manila adalah ibu kota negara; Surabaya bukan."
+    },
+    {
+      "no": 29,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kumbang",
+        "B": "Semut",
+        "C": "Belalang",
+        "D": "Kelelawar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kumbang, semut, dan belalang adalah serangga; kelelawar adalah mamalia."
+    },
+    {
+      "no": 30,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gunung",
+        "B": "Pantai",
+        "C": "Laut",
+        "D": "Danau"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pantai, laut, dan danau berhubungan dengan perairan; gunung tidak."
+    },
+    {
+      "no": 31,
+      "soal": "Semua kelinci di kebun binatang sangat lucu. Sebagian kelinci di kebun binatang memiliki badan yang gemuk. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua kelinci yang lucu adalah kelinci di kebun binatang.",
+        "B": "Sebagian kelinci di kebun binatang memiliki badan yang gemuk dan sangat lucu.",
+        "C": "Sebagian kelinci yang memiliki badan gemuk adalah kelinci di kebun binatang.",
+        "D": "Sebagian kelinci di kebun binatang memiliki badan yang gemuk dan tidak lucu."
+      },
+      "jawaban": "B",
+      "penjelasan": "Semua kelinci di kebun binatang lucu, jadi yang gemuk di antaranya pasti juga lucu."
+    },
+    {
+      "no": 32,
+      "soal": "Semua siswa kelas V pandai dalam mata pelajaran seni budaya. Semua siswa kelas V yang mengikuti ekstrakurikuler seni harus tampil di pentas seni. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua siswa kelas V yang mengikuti ekstrakurikuler seni pandai dalam mata pelajaran seni budaya.",
+        "B": "Sebagian siswa kelas VII yang mengikuti ekstrakurikuler seni pandai dalam mata pelajaran seni budaya.",
+        "C": "Semua siswa kelas VII yang mengikuti ekstrakurikuler seni pandai dalam mata pelajaran seni budaya dan harus tampil di pentas seni.",
+        "D": "Sebagian siswa kelas VII yang mengikuti ekstrakurikuler seni harus tampil di pentas seni."
+      },
+      "jawaban": "A",
+      "penjelasan": "Siswa kelas V yang ikut ekstrakurikuler seni adalah bagian dari semua siswa kelas V, jadi mereka pasti pandai seni budaya. Pilihan lain menyebut kelas VII yang tidak ada di premis."
+    },
+    {
+      "no": 33,
+      "soal": "Semua pemain bola yang rajin berlatih pasti akan bersinar. Sebagian pemain bola yang bersinar pasti akan mendapatkan tim sepak bola yang bagus. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sebagian pemain bola yang tidak bersinar akan mendapatkan tim sepak bola yang bagus.",
+        "B": "Sebagian pemain bola yang bersinar akan rajin berlatih agar mendapatkan tim yang bagus.",
+        "C": "Sebagian pemain sepak bola yang rajin berlatih akan mendapatkan tim sepak bola yang bagus.",
+        "D": "Sebagian pemain sepak bola yang tidak rajin berlatih tetap akan mendapatkan tim sepak bola yang bagus."
+      },
+      "jawaban": "C",
+      "penjelasan": "Yang rajin berlatih pasti bersinar, dan sebagian yang bersinar mendapat tim bagus; jadi sebagian yang rajin berlatih dapat mendapat tim bagus. Pilihan lain tidak didukung premis. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 34,
+      "soal": "Seorang tukang pos akan mengantarkan lima buah paket ke lima alamat yang berbeda, yaitu ke Jalan Jeruk, Jalan Apel, Jalan Mangga, Jalan Pisang, dan Jalan Anggur. Atas permintaan penerima, paket untuk penerima di Jeruk akan diantarkan terakhir setelah tukang pos mengantarkan ke alamat-alamat lain. Paket ke Apel akan diantarkan setelah tukang pos mengantar paket ke Pisang. Paket untuk penerima di Mangga dan Pisang akan diantarkan berurutan setelah mengantarkan paket ke Anggur. Urutan alamat yang menggambarkan rute tukang pos dalam mengantarkan paket adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pisang - Mangga - Apel - Anggur - Jeruk",
+        "B": "Pisang - Mangga - Anggur - Apel - Jeruk",
+        "C": "Anggur - Pisang - Mangga - Apel - Jeruk",
+        "D": "Anggur - Apel - Mangga - Pisang - Jeruk"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jeruk terakhir; Mangga dan Pisang setelah Anggur; Apel setelah Pisang. Hanya Anggur - Pisang - Mangga - Apel - Jeruk yang memenuhi semuanya."
+    },
+    {
+      "no": 35,
+      "soal": "Dari data tinggi badan beberapa anak diketahui bahwa Andi lebih tinggi dari Sari. Budi tidak lebih tinggi dari Tia. Tia lebih rendah dari Sari. Anak dengan tinggi badan tertinggi dan terendah adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Andi dan Sari",
+        "B": "Sari dan Tia",
+        "C": "Andi dan Budi",
+        "D": "Sari dan Budi"
+      },
+      "jawaban": "C",
+      "penjelasan": "Urutan: Andi > Sari > Tia ≥ Budi, jadi tertinggi Andi dan terendah Budi."
+    },
+    {
+      "no": 36,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sangat",
+        "B": "Selalu",
+        "C": "Tetapi",
+        "D": "Kadang-kadang"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sangat, selalu, dan kadang-kadang adalah kata keterangan; tetapi adalah kata sambung."
+    },
+    {
+      "no": 37,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Adik",
+        "B": "Buka",
+        "C": "Buku",
+        "D": "Matematika"
+      },
+      "jawaban": "B",
+      "penjelasan": "Adik, buku, dan matematika adalah kata benda; buka adalah kata kerja."
+    },
+    {
+      "no": 38,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baru",
+        "B": "Lihat",
+        "C": "Pukul",
+        "D": "Lari"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lihat, pukul, dan lari adalah kata kerja; baru adalah kata sifat."
+    },
+    {
+      "no": 39,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemalas",
+        "B": "Dekat",
+        "C": "Ceria",
+        "D": "Jauh"
+      },
+      "jawaban": "A",
+      "penjelasan": "Dekat, ceria, dan jauh adalah kata sifat; pemalas adalah kata benda."
+    },
+    {
+      "no": 40,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berkata",
+        "B": "Berita",
+        "C": "Menari",
+        "D": "Melukis"
+      },
+      "jawaban": "B",
+      "penjelasan": "Berkata, menari, dan melukis adalah kata kerja; berita adalah kata benda."
+    },
+    {
+      "no": 41,
+      "soal": "Bacalah kutipan teks berikut!\n\nPagi ini Rani dan keluarganya berlibur ke Bali. Keluarga Rani telah merencanakan acara liburan ini sejak awal bulan lalu. Mereka berangkat pagi-pagi sekali. Dalam perjalanan ke Bali, Rani dan adik bercerita tentang apa saja yang akan mereka lakukan ketika sudah sampai nanti.\n\nIde pokok teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kegiatan yang dilakukan Rani.",
+        "B": "Rencana liburan keluarga Rani.",
+        "C": "Rani dan keluarganya pergi berlibur.",
+        "D": "Perjalanan Rani dan keluarganya ke Bali."
+      },
+      "jawaban": "D",
+      "penjelasan": "Seluruh teks menceritakan keberangkatan dan perjalanan Rani sekeluarga ke Bali. Soal ini dapat ditafsirkan lain (C)."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah teks berikut!\n\nFenomena gerhana bulan merupakan peristiwa terhalangnya cahaya matahari yang menuju bulan oleh bayangan bumi. Peristiwa ini mengakibatkan bulan menjadi gelap karena tidak ada cahaya matahari yang dipantulkan. Gerhana bulan terjadi jika posisi matahari, bumi, dan bulan dalam satu garis lurus. Pada saat gerhana bulan, posisi bumi terletak di antara bulan dan matahari.\n\nAda dua jenis gerhana bulan, yaitu gerhana bulan total dan gerhana bulan sebagian. Gerhana bulan total terjadi jika bulan tepat berada pada daerah umbra (bayangan inti bumi). Gerhana bulan sebagian terjadi jika bulan terletak di antara daerah umbra bumi dan daerah penumbra bumi atau seluruh bagian bulan berada di bagian penumbra bumi.\n\nPernyataan sesuai isi paragraf kedua teks di atas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gerhana bulan total terjadi jika bulan berada di penumbra.",
+        "B": "Ada lebih dari dua jenis gerhana bulan, yaitu gerhana bumi dan gerhana bulan.",
+        "C": "Jika bulan ada di antara umbra dan penumbra bumi maka terjadi gerhana bulan sebagian.",
+        "D": "Jika seluruh bagian bulan berada di bagian umbra bumi maka akan terjadi gerhana bulan total."
+      },
+      "jawaban": "C",
+      "penjelasan": "Paragraf kedua: gerhana sebagian terjadi saat bulan berada di antara umbra dan penumbra. A salah (total di umbra), B salah (hanya dua jenis), D tidak sesuai (total jika bulan tepat di umbra)."
+    },
+    {
+      "no": 43,
+      "soal": "Bacalah kutipan cerita berikut!\n\nAlisha setiap pergi ke sekolah selalu membawa makanan kecil buatan ibunya untuk dijual lagi. Selain ia jual sendiri, ia juga menitipkan dagangannya ke kantin sekolah. Jadi, selain mendapat ilmu ia juga mendapat uang sendiri.\n\nPeribahasa yang tepat sesuai dengan isi cerita adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sambil menyelam minum air",
+        "B": "Bagai air di daun talas",
+        "C": "Seperti kacang lupa kulitnya",
+        "D": "Air susu dibalas dengan air tuba"
+      },
+      "jawaban": "A",
+      "penjelasan": "Alisha mengerjakan dua hal sekaligus (belajar dan berdagang), sesuai 'sambil menyelam minum air'."
+    },
+    {
+      "no": 44,
+      "soal": "Cermatilah kutipan surat berikut!\n\nSahabatku, Aida Mayang\nDi Yogyakarta\nHalo Mayang,\n(....) Aku dan keluargaku di Jakarta juga dalam keadaan sehat walafiat. Rasanya aku tidak kuasa menahan rasa rindu kepadamu, Mayang.\n\nKalimat yang tepat untuk melengkapi surat tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Harapanku kamu dan keluargamu betah tinggal di kota yang baru.",
+        "B": "Apa kabarmu setelah di Jakarta, semoga tetap sehat.",
+        "C": "Hai sahabatku, aku akan mengunjungimu.",
+        "D": "Bagaimana kabarmu, Mayang? Semoga selalu dalam lindungan Tuhan Yang Maha Esa."
+      },
+      "jawaban": "D",
+      "penjelasan": "Kata 'juga' menunjukkan kalimat sebelumnya menanyakan kabar; D cocok dan sesuai posisi penerima di Yogyakarta (B salah karena menyebut Jakarta)."
+    },
+    {
+      "no": 45,
+      "soal": "Bacalah teks prosedur berikut!\n\n(1) Rebuslah air secukupnya sampai mendidih.\n(2) Setelah itu, celupkan daun jeruk purut beberapa saat agar daun itu menjadi lunak.\n(3) Lalu, angkatlah daun jeruk purut itu dan tiriskan.\n(4) Tumbuk selembar daun pandan dan diberi air matang.\n(5) Setelah itu, peraslah untuk diambil airnya.\n\nKata-kata yang bermakna perintah adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rebuslah, celupkan, tumbuk, peraslah",
+        "B": "Secukupnya, beberapa, menjadi, mendidih",
+        "C": "Rebuslah, beberapa, menjadi, diberi",
+        "D": "Tiriskan, menjadi, beberapa, selembar"
+      },
+      "jawaban": "A",
+      "penjelasan": "Rebuslah, celupkan, tumbuk, dan peraslah adalah kata kerja perintah."
+    },
+    {
+      "no": 46,
+      "soal": "Bacalah teks laporan berikut!\n\nLaporan Hasil kunjungan\nPada hari Jumat, 30 Mei 2025, murid kelas 6 SD Visi mengunjungi salah satu stasiun televisi swasta di Jakarta. Di sana anak-anak diperkenalkan dengan program-program televisi, macam-macam studio, dan kegiatan para kru setiap hari. Selain melakukan wawancara, anak-anak juga diberi kesempatan untuk menggunakan perangkat yang digunakan kru dalam melaksanakan tugas. Keceriaan anak-anak sangat tampak saat wawancara dengan para artis yang sedang syuting. Mereka diajak untuk foto bersama.\n\nKalimat tanya sesuai isi laporan tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Apa saja kegiatan anak-anak dalam kunjungan tersebut?",
+        "B": "Bagaimana cara anak-anak melakukan wawancara?",
+        "C": "Berapa banyak peserta yang ikut dalam kunjungan tersebut?",
+        "D": "Mengapa anak-anak melakukan kunjungan ke stasiun televisi?"
+      },
+      "jawaban": "A",
+      "penjelasan": "Laporan menjelaskan kegiatan selama kunjungan; jawaban pertanyaan A ada dalam teks, sedangkan B, C, dan D tidak dijawab teks."
+    },
+    {
+      "no": 47,
+      "soal": "Bacalah teks wawancara berikut!\n\nAnjani : Yan, apakah kamu tahu bagaimana hujan dapat terjadi?\nRiyan : Tentu saja aku tahu.\nAnjani : Coba jelaskan padaku, Yan! Tadi, aku sedang berada di UKS ketika pelajaran IPA. Jadi, aku belum tahu secara rinci bagaimana hujan dapat terjadi.\nRiyan : ……………………………………\nAnjani : Oh, jadi hujan memiliki siklus. Wah, sekarang aku jadi mengerti peristiwa terjadinya hujan. Terima kasih, Yan.\n\nKalimat yang tepat untuk melengkapi bagian rumpang pada teks percakapan tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Turunnya hujan mengakibatkan banjir di beberapa tempat. Jika hujannya deras berpotensi akan terjadinya tanah longsor. Bencana ini mengakibatkan kerugian bagi para warga.",
+        "B": "Akan aku jelaskan sedikit, karena aku juga kurang mengerti tentang siklus hujan. Nanti kamu tanyakan lagi saja kepada teman yang lain.",
+        "C": "Hujan terjadi karena air di permukaan bumi menguap lalu menjadi awan. Lama-kelamaan awan itu menjadi awan mendung dan hujan pun turun. Air hujan yang turun ke permukaan bumi akan mengalami penguapan lagi.",
+        "D": "Baiklah. Hujan terjadi karena air di permukaan bumi menguap lalu menjadi awan. Lama-kelamaan awan itu menjadi awan mendung dan hujan pun turun. Air hujan yang turun ke permukaan bumi akan mengalami penguapan lagi. Peristiwa itu disebut siklus hujan."
+      },
+      "jawaban": "D",
+      "penjelasan": "Anjani menyimpulkan 'hujan memiliki siklus', jadi jawaban Riyan harus menyebut istilah siklus hujan dan menanggapi permintaan, seperti pada D."
+    },
+    {
+      "no": 48,
+      "soal": "Bacalah kutipan teks berikut!\n\nDalam kegiatan eksplorasi kekayaan alam baik sumber daya alam hayati maupun non hayati tidak boleh mengakibatkan kerusakan lingkungan. Sebagai contoh, dalam menangkap ikan di laut tidak boleh menggunakan bom peledak karena tidak hanya merusak lingkungannya, namun juga akan merusak biota laut lainnya. Oleh karena itu, dalam mengeksplorasi harus menjaga lingkungan demi kelestarian sumber daya alam. Selanjutnya, kekayaan alam Indonesia yang utama seperti halnya emas dan minyak bumi, jangan sampai dikuasai oleh bangsa asing. Pasalnya, ini sangat merugikan bangsa Indonesia. Umumnya, bangsa asing tersebut mengeksplorasi dengan tujuan bisnis karena mereka mempunyai modal yang besar dan teknologi yang canggih. Pertama mereka mengambil kekayaan alam dan setelah itu diproses menggunakan teknologi tinggi oleh bangsa asing tersebut. Sayangnya, pada akhirnya seluruh kekayaan alam yang berasal dari bumi Indonesia dijual lagi ke Indonesia dengan harga yang relatif lebih mahal.\n\nHal yang terpenting adalah mengelola kekayaan alam untuk meningkatkan kesejahteraan masyarakat Indonesia. Pasalnya, kekayaan alam tersebut merupakan hak seluruh rakyat Indonesia. Sehingga jangan sampai bangsa asing yang menikmati kekayaan alam Indonesia, tetapi rakyat Indonesia tidak sejahtera.\n\nApabila kesejahteraan rakyat meningkat maka perekonomian Indonesia pun juga akan meningkat. Selain itu, kekayaan alam tersebut ditujukan pula untuk kemakmuran rakyat. Oleh karena itu, memberdayakan potensi kekayaan alam yang sangat melimpah bagi kesejahteraan rakyat Indonesia sangat penting sekali demi mewujudkan kemakmuran dan meningkatkan perekonomian Indonesia.\n\nSumber: Kompasiana \"Kekayaan Alam Nusantara\", 15 September 2017\n\nKalimat yang mengandung persetujuan sesuai dengan teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemanfaatan sumber daya alam harus dilakukan secara masif untuk meningkatkan pendapatan negara secepatnya.",
+        "B": "Eksplorasi kekayaan alam harus memperhatikan kelestarian lingkungan dan bertujuan untuk kesejahteraan rakyat Indonesia.",
+        "C": "Penggunaan teknologi canggih oleh bangsa asing sangat diperlukan untuk mempercepat proses pengolahan sumber daya alam.",
+        "D": "Semua jenis kekayaan alam harus dikuasai sepenuhnya oleh pihak swasta agar lebih efisien dalam pengelolaannya."
+      },
+      "jawaban": "B",
+      "penjelasan": "Penulis setuju eksplorasi harus menjaga lingkungan dan untuk kesejahteraan rakyat; pilihan lain bertentangan dengan teks."
+    },
+    {
+      "no": 49,
+      "soal": "Cermatilah data ulasan berikut!\n\nNo. 1, Judul: Legenda Danau Toba dan Pulau Samosir: Cerita dari Sumatra Utara\nNo. 2, Penulis: Heny V. Tinneke\nNo. 3, Penerbit: CV. Nuansa Aulia\nNo. 4, Tahun: 2006\nNo. 5, Keunggulan: Menyajikan informasi yang mendalam tentang legenda dan budaya Batak. Selain itu, gaya penulisan yang puitis dan mudah dipahami.\nNo. 6, Kelemahan: Ilustrasi yang diberikan terbatas dan masing-masing cerita hanya memiliki satu hingga tiga ilustrasi saja.\n\nPenulisan resensi yang sesuai dengan data tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Legenda Danau Toba dan Pulau Samosir adalah buku yang sangat menarik karena ilustrasinya yang melimpah dan penuh warna. Meskipun informasi budaya kurang mendalam, gaya penulisannya yang puitis menjadi daya tarik utama. Buku ini ditulis oleh Heny V. Tinneke dan diterbitkan tahun 2006.",
+        "B": "Heny V. Tinneke menulis buku Legenda Danau Toba dan Pulau Samosir yang diterbitkan oleh CV. Nuansa Aulia. Buku ini sangat direkomendasikan karena menyajikan informasi budaya Batak yang lengkap dan gaya bahasa yang mudah dicerna, tanpa memiliki kekurangan yang berarti.",
+        "C": "Buku Legenda Danau Toba dan Pulau Samosir: Cerita dari Sumatra Utara karya Heny V. Tinneke, terbitan CV. Nuansa Aulia tahun 2006, memiliki keunggulan dalam menyajikan informasi mendalam mengenai legenda dan budaya Batak dengan gaya penulisan puitis yang mudah dipahami. Sayangnya, buku ini memiliki keterbatasan pada ilustrasi yang hanya satu hingga tiga gambar tiap cerita yang membuat pembaca merasa kurang dalam berimajinasi.",
+        "D": "Diterbitkan pada tahun 2006 oleh CV. Nuansa Aulia, Legenda Danau Toba dan Pulau Samosir karya Heny V. Tinneke unggul karena gaya penulisannya yang puitis. Namun, buku ini kurang menyajikan informasi mendalam tentang legenda dan budaya Batak, serta ilustrasinya sangat terbatas."
+      },
+      "jawaban": "C",
+      "penjelasan": "Hanya C yang memuat seluruh data (judul, penulis, penerbit, tahun, keunggulan, kelemahan) secara sesuai."
+    },
+    {
+      "no": 50,
+      "soal": "Cermatilah poster berikut!\n\nPesan yang terkandung dalam poster tersebut adalah …",
+      "gambar": "soal_50.png",
+      "pilihan": {
+        "A": "Meningkatkan konsumsi gula untuk kesehatan.",
+        "B": "Anjuran memilih makanan yang mengandung lemak.",
+        "C": "Menyebarkan informasi tentang makanan manis.",
+        "D": "Pentingnya membatasi asupan gula, garam, dan lemak dalam tubuh."
+      },
+      "jawaban": "D",
+      "penjelasan": "Poster 'Bijak Memilih Makanan' menyebut batas harian G.G.L (gula 4 sdm, garam 1 sdt, lemak 5 sdm) dan bahaya kelebihannya."
+    },
+    {
+      "no": 51,
+      "soal": "Bacalah teks cerita berikut!\n\nTeks 1\nBawang Merah dan Bawang Putih\nBawang Merah dan Bawang Putih adalah dua saudara tiri yang tinggal bersama ibu mereka. Bawang Merah adalah anak kandung ibu mereka, sementara Bawang Putih adalah anak dari almarhum suami ibu mereka. Ibu dan Bawang Merah selalu memperlakukan Bawang Putih dengan buruk, menyuruhnya bekerja keras setiap hari. Suatu hari, Bawang Putih menemukan ikan ajaib yang bisa berbicara. Ikan itu memberinya nasihat dan membantu Bawang Putih mendapatkan kebahagiaan. Ketika ibu dan Bawang Merah mengetahui hal ini, mereka mencoba mengambil ikan ajaib tersebut, tetapi malah mendapatkan hukuman.\n\nTeks 2\nMalin Kundang\nDi sebuah desa kecil, hiduplah seorang anak bernama Malin Kundang. Ia hidup bersama ibunya yang sangat menyayanginya. Karena desakan ekonomi, Malin memutuskan untuk merantau dan mencari penghidupan yang lebih baik. Setelah bertahun-tahun, Malin berhasil menjadi orang kaya dan kembali ke desa asalnya. Namun, ketika ibunya mengenalinya dan ingin memeluknya, Malin malu mengakui ibunya yang miskin. Dengan sombong, ia menolak ibunya dan mengusirnya. Karena sakit hati, ibunya berdoa agar Malin menjadi batu. Tak lama setelah itu, kapal Malin dihantam badai, dan ia pun berubah menjadi batu.\n\nManakah yang paling tepat menggambarkan perbedaan tema antara kedua teks tersebut …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bawang Merah dan Bawang Putih lebih menekankan pada keberuntungan seorang yang sabar, sementara Malin Kundang menekankan pada konsekuensi dari kesombongan.",
+        "B": "Bawang Merah dan Bawang Putih berfokus pada hubungan persaudaraan yang tidak harmonis, sedangkan Malin Kundang berfokus pada hubungan anak dan ibu yang rusak.",
+        "C": "Bawang Merah dan Bawang Putih mengeksplorasi tema keajaiban dan takdir, sementara Malin Kundang mengeksplorasi tema ambisi dan transformasi.",
+        "D": "Bawang Merah dan Bawang Putih mengangkat tema kekayaan dan kemiskinan, sedangkan Malin Kundang mengangkat tema perjalanan dan kepulangan."
+      },
+      "jawaban": "A",
+      "penjelasan": "Bawang Putih yang sabar dibantu ikan ajaib, sedangkan Malin yang sombong dikutuk menjadi batu. B menyebut hubungan, bukan tema moral. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 52,
+      "soal": "Bacalah kutipan cerita berikut!\n\nDina dengan cepat mengambil kapas. Kemudian dibersihkannya luka di kaki Ranti. Dalam sekejap, Selanjutnya, dengan cekatan Dina meraih perban dan menatanya. Tentu saja perban itu sudah ditetesi obat terlebih dahulu.\n\nRanti meringis kesakitan, tetapi hanya sejenak. Ia merasakan sakit hanya saat Dina membersihkan kotoran dari lukanya. Setelah kotoran berhasil dibersihkan, Ranti tidak kesakitan lagi.\n\n\"Nah, makanya kalau berlari hati-hati, Ranti,\" kata Siska mengingatkan.\n\nWatak Dina dalam cerita tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Peduli sesama",
+        "B": "Penyabar sekali",
+        "C": "Selalu bergembira",
+        "D": "Mencampuri urusan orang lain"
+      },
+      "jawaban": "A",
+      "penjelasan": "Dina cekatan merawat luka Ranti, menunjukkan kepeduliannya pada sesama."
+    },
+    {
+      "no": 53,
+      "soal": "Bacalah pantun berikut!\n\nIngin becermin gunakan kaca\nDalam cermin ada dirimu\nSelagi muda gemarlah membaca\nAgar kelak kaya ilmu\n\nMaksud dari pantun tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Anjuran agar kita senang membaca.",
+        "B": "Sebaiknya membaca hanya selagi muda.",
+        "C": "Kita harus menuntut ilmu yang tinggi.",
+        "D": "Perintah supaya yang muda mencari ilmu."
+      },
+      "jawaban": "A",
+      "penjelasan": "Isi pantun mengajak gemar membaca agar kelak berilmu. D terlalu umum dan B salah karena membatasi hanya saat muda."
+    },
+    {
+      "no": 54,
+      "soal": "Bacalah kutipan syair berikut!\n\nJanganlah engkau berbuat maksiat\nJanganlah engkau berbuat jahat\nSegeralah kau bertobat\nAgar selamat di dunia akhirat\n\nJanganlah engkau bertakabur\nPerbanyaklah engkau bertafakur\nMendapat nikmat harus bersyukur\nAgar selamat dari siksa kubur\n\nDunia ini memang tua\nSebaiknya jangan untuk huru hara\nIbadahlah memohon ampun pada-Nya\nSesungguhnya hanya Engkau yang sempurna\n\nPesan yang terkandung dalam syair tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kehidupan di dunia ini bersifat kekal.",
+        "B": "Hidup harus bersenang-senang agar bahagia.",
+        "C": "Perbanyaklah melakukan maksiat dan takabur agar disegani orang lain.",
+        "D": "Pentingnya bertobat, bersyukur, dan beribadah untuk keselamatan dunia akhirat."
+      },
+      "jawaban": "D",
+      "penjelasan": "Syair mengajak bertobat, bersyukur, dan beribadah agar selamat di dunia akhirat."
+    },
+    {
+      "no": 55,
+      "soal": "Kalimat yang menggunakan kata baku yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Anak-anak antri untuk mendapatkan hadiah menarik.",
+        "B": "Hembusan angin membuat daun-daun bergoyang perlahan.",
+        "C": "Harga cabai meningkat hingga dua kali lipat dari harga sebelumnya.",
+        "D": "Sumatera Utara mendapatkan predikat wilayah terbaik di Sumatera."
+      },
+      "jawaban": "C",
+      "penjelasan": "Bentuk baku: antre (bukan antri), embusan (bukan hembusan), dan Sumatra (bukan Sumatera). Kalimat C sudah baku."
+    }
+  ]
+}
