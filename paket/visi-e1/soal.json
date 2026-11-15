@@ -1,0 +1,462 @@
+{
+  "judul": "VISI E1",
+  "deskripsi": "Latihan verbal bahasa Inggris: sinonim, antonim, analogi verbal, klasifikasi kata, penalaran logis, dan kosakata.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Liberty = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Law",
+        "B": "Right",
+        "C": "Moral",
+        "D": "Freedom"
+      },
+      "jawaban": "D",
+      "penjelasan": "Liberty berarti kebebasan, sinonimnya Freedom."
+    },
+    {
+      "no": 2,
+      "soal": "Poor = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gorgeous",
+        "B": "Wealthy",
+        "C": "Penniless",
+        "D": "Ugly"
+      },
+      "jawaban": "C",
+      "penjelasan": "Poor (miskin) bersinonim dengan Penniless (tidak punya uang)."
+    },
+    {
+      "no": 3,
+      "soal": "Outcast = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Specialist",
+        "B": "Nomad",
+        "C": "Exile",
+        "D": "Expert"
+      },
+      "jawaban": "C",
+      "penjelasan": "Outcast (orang yang terbuang/terasing) bersinonim dengan Exile (orang buangan)."
+    },
+    {
+      "no": 4,
+      "soal": "Vague = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Clear",
+        "B": "Ambiguous",
+        "C": "Distinct",
+        "D": "Precise"
+      },
+      "jawaban": "B",
+      "penjelasan": "Vague (samar, tidak jelas) bersinonim dengan Ambiguous. Clear, Distinct, dan Precise adalah lawan katanya."
+    },
+    {
+      "no": 5,
+      "soal": "Juvenile = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Apathetic",
+        "B": "Immature",
+        "C": "Fawning",
+        "D": "Painful"
+      },
+      "jawaban": "B",
+      "penjelasan": "Juvenile (kekanak-kanakan, belum dewasa) bersinonim dengan Immature."
+    },
+    {
+      "no": 6,
+      "soal": "Wound >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Injure",
+        "B": "Heal",
+        "C": "Damage",
+        "D": "Fit"
+      },
+      "jawaban": "B",
+      "penjelasan": "Wound (melukai) berlawanan dengan Heal (menyembuhkan)."
+    },
+    {
+      "no": 7,
+      "soal": "Capable >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Competent",
+        "B": "Suitable",
+        "C": "Incompetent",
+        "D": "Expert"
+      },
+      "jawaban": "C",
+      "penjelasan": "Capable (cakap) berlawanan dengan Incompetent (tidak cakap)."
+    },
+    {
+      "no": 8,
+      "soal": "Frugal >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Thrifty",
+        "B": "Spendthrift",
+        "C": "Economical",
+        "D": "Prudent"
+      },
+      "jawaban": "B",
+      "penjelasan": "Frugal (hemat) berlawanan dengan Spendthrift (boros). Thrifty, Economical, dan Prudent bermakna hemat/bijaksana."
+    },
+    {
+      "no": 9,
+      "soal": "Misinterpret >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mistaken",
+        "B": "Misconceive",
+        "C": "Comprehend",
+        "D": "Confused"
+      },
+      "jawaban": "C",
+      "penjelasan": "Misinterpret (salah menafsirkan) berlawanan dengan Comprehend (memahami dengan benar)."
+    },
+    {
+      "no": 10,
+      "soal": "Renowned >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Well-known",
+        "B": "Legendary",
+        "C": "Unknown",
+        "D": "Famed"
+      },
+      "jawaban": "C",
+      "penjelasan": "Renowned (terkenal) berlawanan dengan Unknown (tidak dikenal)."
+    },
+    {
+      "no": 11,
+      "soal": "Umbrella is to rain as sunscreen is to ____.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Clouds",
+        "B": "Wind",
+        "C": "Water",
+        "D": "Sun"
+      },
+      "jawaban": "D",
+      "penjelasan": "Payung melindungi dari hujan, tabir surya melindungi dari matahari (Sun)."
+    },
+    {
+      "no": 12,
+      "soal": "Pulp is to orange as ____ is to egg.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Seeds",
+        "B": "Grain",
+        "C": "Yolk",
+        "D": "Shell"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pulp adalah bagian dalam buah jeruk, sedangkan bagian dalam telur adalah Yolk (kuning telur)."
+    },
+    {
+      "no": 13,
+      "soal": "Earthquake : tsunami :: pollution : ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Recycle",
+        "B": "Climate change",
+        "C": "Clean air",
+        "D": "Saving environment"
+      },
+      "jawaban": "B",
+      "penjelasan": "Hubungan sebab-akibat: gempa bumi menyebabkan tsunami, polusi menyebabkan Climate change."
+    },
+    {
+      "no": 14,
+      "soal": "Swimmer is to ____ as stewardess is to ____.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Beach – helicopter",
+        "B": "Pool – plane",
+        "C": "Ice rink – cruise",
+        "D": "Stadium – airport"
+      },
+      "jawaban": "B",
+      "penjelasan": "Perenang bekerja/berlatih di kolam (Pool), pramugari bekerja di pesawat (plane)."
+    },
+    {
+      "no": 15,
+      "soal": "Athlete : ____ :: priest : ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Generous – ambitious",
+        "B": "Handsome – kind",
+        "C": "Fit – religious",
+        "D": "Healthy – nervous"
+      },
+      "jawaban": "C",
+      "penjelasan": "Atlet identik dengan tubuh bugar (Fit), pemuka agama identik dengan religius (religious)."
+    },
+    {
+      "no": 16,
+      "soal": "Which one is not an adjective below?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Religious",
+        "B": "Spiritual",
+        "C": "Faithful",
+        "D": "Religion"
+      },
+      "jawaban": "D",
+      "penjelasan": "Religious, Spiritual, dan Faithful adalah adjective. Religion adalah noun."
+    },
+    {
+      "no": 17,
+      "soal": "One of these words is noun; what is it?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Compare",
+        "B": "Comparison",
+        "C": "Comparable",
+        "D": "Comparative"
+      },
+      "jawaban": "B",
+      "penjelasan": "Compare adalah verb, Comparable dan Comparative adalah adjective, Comparison adalah noun."
+    },
+    {
+      "no": 18,
+      "soal": "Choose the word that function as verb below!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Activate",
+        "B": "Activity",
+        "C": "Action",
+        "D": "Active"
+      },
+      "jawaban": "A",
+      "penjelasan": "Activate adalah verb. Activity dan Action adalah noun, Active adalah adjective."
+    },
+    {
+      "no": 19,
+      "soal": "One of these words doesn't function as adjectives; it is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ephemeral",
+        "B": "Perceptive",
+        "C": "Insightful",
+        "D": "Permanence"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ephemeral, Perceptive, dan Insightful adalah adjective. Permanence adalah noun."
+    },
+    {
+      "no": 20,
+      "soal": "Here are verbs, except...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mitigate",
+        "B": "Alleviate",
+        "C": "Severity",
+        "D": "Energize"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mitigate, Alleviate, dan Energize adalah verb. Severity adalah noun."
+    },
+    {
+      "no": 21,
+      "soal": "All birds have feathers. A penguin is a bird. Therefore, a penguin...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Does Not Have Feathers",
+        "B": "Might Have Feathers",
+        "C": "Has Feathers",
+        "D": "Never Flies"
+      },
+      "jawaban": "C",
+      "penjelasan": "Silogisme: semua burung berbulu, penguin adalah burung, maka penguin berbulu (Has Feathers). Kemampuan terbang tidak disebut dalam premis."
+    },
+    {
+      "no": 22,
+      "soal": "Felix is heavier than Niki. Niki is heavier than Karina. Karina is heavier than Giselle. Can you arrange them from lightest to heaviest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Giselle, Karina, Niki, Felix",
+        "B": "Karina, Giselle, Niki, Felix",
+        "C": "Giselle, Niki, Karina, Felix",
+        "D": "Felix, Noah, Karina, Giselle"
+      },
+      "jawaban": "A",
+      "penjelasan": "Urutan berat dari terberat: Felix > Niki > Karina > Giselle. Dari teringan: Giselle, Karina, Niki, Felix."
+    },
+    {
+      "no": 23,
+      "soal": "If a student studied hard, then they would pass the exam. Roseanne did not pass the exam. What can you conclude?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Roseanne did not study hard",
+        "B": "Roseanne passed but forgot",
+        "C": "Roseanne is sick",
+        "D": "Roseanne studied hard but failed"
+      },
+      "jawaban": "A",
+      "penjelasan": "Modus tollens: jika belajar keras maka lulus. Roseanne tidak lulus, maka Roseanne tidak belajar keras."
+    },
+    {
+      "no": 24,
+      "soal": "If the factory increases its production speed, the number of defective products rises. Last month, production was slowed down. What is the most likely consequence?",
+      "gambar": null,
+      "pilihan": {
+        "A": "More defective products were produced",
+        "B": "Fewer defective products were produced",
+        "C": "Production speed had no effect",
+        "D": "The factory shut down"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kecepatan produksi naik menaikkan produk cacat, sehingga produksi yang diperlambat kemungkinan menghasilkan produk cacat lebih sedikit."
+    },
+    {
+      "no": 25,
+      "soal": "When the temperature drops below 0°C, water freezes. If it's below 0°C and the water is still liquid, what must be true?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The thermometer is broken",
+        "B": "The water is under pressure or has salt",
+        "C": "The freezing point of water has increased",
+        "D": "The sun is shining"
+      },
+      "jawaban": "B",
+      "penjelasan": "Air tetap cair di bawah 0°C jika titik bekunya turun, misalnya karena garam atau tekanan. Titik beku yang naik (C) justru membuat air lebih mudah membeku."
+    },
+    {
+      "no": 26,
+      "soal": "Which word doesn't belong with the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Soup",
+        "B": "Steak",
+        "C": "Spaghetti",
+        "D": "Sorbet"
+      },
+      "jawaban": "D",
+      "penjelasan": "Soup, Steak, dan Spaghetti adalah hidangan utama/gurih. Sorbet adalah dessert."
+    },
+    {
+      "no": 27,
+      "soal": "What word is the odd one?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gold",
+        "B": "Helium",
+        "C": "Iron",
+        "D": "Copper"
+      },
+      "jawaban": "B",
+      "penjelasan": "Gold, Iron, dan Copper adalah logam. Helium adalah gas."
+    },
+    {
+      "no": 28,
+      "soal": "Choose the word that doesn't have the same group!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Supermarket",
+        "B": "Amusement park",
+        "C": "Farmer's market",
+        "D": "Department store"
+      },
+      "jawaban": "B",
+      "penjelasan": "Supermarket, Farmer's market, dan Department store adalah tempat berbelanja. Amusement park adalah tempat hiburan."
+    },
+    {
+      "no": 29,
+      "soal": "Determine the difference in one word from the following four words!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Submarine",
+        "B": "Subway",
+        "C": "Canoe",
+        "D": "Gondola"
+      },
+      "jawaban": "B",
+      "penjelasan": "Submarine, Canoe, dan Gondola adalah kendaraan air. Subway adalah kereta bawah tanah (darat)."
+    },
+    {
+      "no": 30,
+      "soal": "Which word doesn't belong with the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dawn",
+        "B": "Dusk",
+        "C": "Windy",
+        "D": "Midnight"
+      },
+      "jawaban": "C",
+      "penjelasan": "Dawn, Dusk, dan Midnight adalah waktu dalam sehari. Windy adalah kondisi cuaca."
+    },
+    {
+      "no": 31,
+      "soal": "Pedestrian is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A person walking along a road or in a developed area",
+        "B": "A type of vehicle used for public transportation",
+        "C": "A person who commutes with public transportation",
+        "D": "A path designated for bicycles only"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pedestrian berarti pejalan kaki."
+    },
+    {
+      "no": 32,
+      "soal": "A type of forest characterized by a dense canopy and a high level of rainfall is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Desert",
+        "B": "Savannah",
+        "C": "Rainforest",
+        "D": "Grassland"
+      },
+      "jawaban": "C",
+      "penjelasan": "Hutan dengan kanopi rapat dan curah hujan tinggi adalah Rainforest (hutan hujan)."
+    },
+    {
+      "no": 33,
+      "soal": "Someone who pretends to have virtues, morals, or principles that they do not actually possess is called as...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cynic",
+        "B": "Hypocrite",
+        "C": "Stingy",
+        "D": "Greedy"
+      },
+      "jawaban": "B",
+      "penjelasan": "Hypocrite berarti orang munafik, yaitu berpura-pura memiliki nilai moral yang sebenarnya tidak dimiliki."
+    },
+    {
+      "no": 34,
+      "soal": "Dessert is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A savory dish served as the main course",
+        "B": "A type of soup served before a meal",
+        "C": "A sweet dish served after a main meal",
+        "D": "A light snack eaten during a meal"
+      },
+      "jawaban": "C",
+      "penjelasan": "Dessert adalah hidangan manis yang disajikan setelah hidangan utama."
+    },
+    {
+      "no": 35,
+      "soal": "Something that is happening or done quickly and without warning is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gradual",
+        "B": "Sudden",
+        "C": "Delayed",
+        "D": "Cancelled"
+      },
+      "jawaban": "B",
+      "penjelasan": "Sudden berarti tiba-tiba, terjadi cepat tanpa peringatan."
+    }
+  ]
+}

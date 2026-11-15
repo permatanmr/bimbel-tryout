@@ -1,0 +1,397 @@
+{
+  "judul": "VISI M5",
+  "deskripsi": "Latihan kuantitatif matematika: sudut dan bangun datar, aljabar dan soal cerita, bangun ruang, statistika (mean, median, modus), dan peluang.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Perhatikan gambar berikut! Nilai x yang memenuhi dari gambar di atas adalah ....",
+      "gambar": "soal_01.png",
+      "pilihan": {
+        "A": "120°",
+        "B": "100°",
+        "C": "90°",
+        "D": "60°"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ketiga sudut berada pada garis lurus: 50° + 70° + x = 180°, sehingga x = 60°."
+    },
+    {
+      "no": 2,
+      "soal": "Perhatikan gambar segitiga sama kaki berikut. Besar ∠BCA adalah…",
+      "gambar": "soal_02.png",
+      "pilihan": {
+        "A": "72°",
+        "B": "32°",
+        "C": "34°",
+        "D": "36°"
+      },
+      "jawaban": "D",
+      "penjelasan": "Tanda pada gambar menunjukkan AB = BC, sehingga ∠BAC = ∠BCA. ∠BCA = (180° − 108°) ÷ 2 = 36°."
+    },
+    {
+      "no": 3,
+      "soal": "Perhatikan gambar berikut! Besar sudut ABD adalah….",
+      "gambar": "soal_03.png",
+      "pilihan": {
+        "A": "115°",
+        "B": "116°",
+        "C": "117°",
+        "D": "118°"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sudut 121° adalah sudut luar di D (pada perpanjangan garis CD), sehingga sudut dalam D = 180° − 121° = 59°. ∠ABD = 360° − 84° − 100° − 59° = 117°."
+    },
+    {
+      "no": 4,
+      "soal": "Sudut terkecil yang dibentuk oleh kedua jarum jam di bawah ini adalah …",
+      "gambar": "soal_04.png",
+      "pilihan": {
+        "A": "90°",
+        "B": "100°",
+        "C": "120°",
+        "D": "210°"
+      },
+      "jawaban": "B",
+      "penjelasan": "Jam menunjukkan pukul 07.20: jarum menit di angka 4 (120°), jarum jam di 7 lebih 20 menit (7 × 30° + 10° = 220°). Selisihnya 100°."
+    },
+    {
+      "no": 5,
+      "soal": "Diketahui keliling segitiga siku-siku adalah 112 cm. Dengan siku-siku di B, panjang AB = (8x + 8), BC = (3x − 1), dan AC = (9x + 5). Maka panjang sisi AB adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "14 cm",
+        "B": "25 cm",
+        "C": "48 cm",
+        "D": "50 cm"
+      },
+      "jawaban": "C",
+      "penjelasan": "Keliling: (8x + 8) + (3x − 1) + (9x + 5) = 20x + 12 = 112, sehingga x = 5. AB = 8(5) + 8 = 48 cm."
+    },
+    {
+      "no": 6,
+      "soal": "Nadia, Octa, Alya, dan Nida adalah peserta lomba lari 100 meter. Mereka semua mencatat waktu yang berbeda. Nadia menyelesaikan lomba 5 detik lebih cepat dari Octa. Waktu Alya adalah 3 detik lebih lambat dari waktu Nida. Nida menyelesaikan lomba dalam waktu 75 detik. Octa menyelesaikan lomba 8 detik lebih lambat dari waktu Alya. Berapakah waktu yang dicatat oleh Nadia saat menyelesaikan lomba …",
+      "gambar": null,
+      "pilihan": {
+        "A": "65 detik",
+        "B": "78 detik",
+        "C": "81 detik",
+        "D": "83 detik"
+      },
+      "jawaban": "C",
+      "penjelasan": "Alya = 75 + 3 = 78 detik. Octa = 78 + 8 = 86 detik. Nadia = 86 − 5 = 81 detik."
+    },
+    {
+      "no": 7,
+      "soal": "Avri memberi 600 koin kepada ketiga adiknya. Adik yang kedua diberi 25 koin lebih banyak dari yang adik ketiga. Adik pertama mendapatkan tiga kali dari adik yang kedua. Banyak koin yang diterima adik ketiga adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "100 koin",
+        "B": "125 koin",
+        "C": "225 koin",
+        "D": "375 koin"
+      },
+      "jawaban": "A",
+      "penjelasan": "Misalkan adik ketiga = t, kedua = t + 25, pertama = 3(t + 25). t + (t + 25) + (3t + 75) = 600, sehingga 5t = 500 dan t = 100 koin."
+    },
+    {
+      "no": 8,
+      "soal": "Di sebuah kantin sekolah: Aldi membeli 1 roti dan 1 susu dengan harga Rp15.000. Bima membeli 1 roti dan 1 jus dengan harga Rp19.000. Citra membeli 1 susu dan 1 jus dengan harga Rp18.000. Kemudian, Deni membeli roti, susu, dan jus masing-masing. Jika ia membawa uang Rp35.000, berapa sisa uang Deni?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rp6.000",
+        "B": "Rp7.000",
+        "C": "Rp8.000",
+        "D": "Rp9.000"
+      },
+      "jawaban": "D",
+      "penjelasan": "Jumlahkan ketiganya: 2(roti + susu + jus) = 15.000 + 19.000 + 18.000 = 52.000, sehingga satu set = Rp26.000. Sisa uang = 35.000 − 26.000 = Rp9.000."
+    },
+    {
+      "no": 9,
+      "soal": "Perhatikan jaring-jaring berikut! Bentuk kubus yang sesuai dengan jaring-jaring tersebut adalah….",
+      "gambar": "soal_09.png",
+      "pilihan": {
+        "A": "Kubus dengan sisi terlihat F, B, E",
+        "B": "Kubus dengan sisi terlihat F, E, D",
+        "C": "Kubus dengan sisi terlihat E, B, C",
+        "D": "Kubus dengan sisi terlihat D, E, A"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pada jaring-jaring, pasangan sisi berhadapan adalah F–B, E–C, dan A–D. Pilihan yang menampilkan pasangan berhadapan tidak mungkin (A: F dan B, C: E dan C, D: D dan A). Hanya F, E, D yang saling berdekatan. (Pilihan berupa gambar kubus, lihat gambar soal.)"
+    },
+    {
+      "no": 10,
+      "soal": "Arsaka akan membuat empat kerangka bangun ruang dari kawat seperti gambar berikut (kubus rusuk 12 cm; balok 10 cm × 13 cm × 9 cm; prisma segitiga beraturan dengan sisi alas 12 cm dan tinggi prisma 15 cm; limas segi empat beraturan dengan alas 13 cm dan rusuk tegak 21 cm). Jika kawat yang tersedia 10 meter, sisa panjang kawat adalah ....",
+      "gambar": "soal_10.png",
+      "pilihan": {
+        "A": "415 cm",
+        "B": "475 cm",
+        "C": "479 cm",
+        "D": "484 cm"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kubus: 12 × 12 = 144 cm. Balok: 4(10 + 13 + 9) = 128 cm. Prisma: 6 × 12 + 3 × 15 = 117 cm. Limas: 4 × 13 + 4 × 21 = 136 cm. Total 525 cm. Sisa = 1.000 − 525 = 475 cm."
+    },
+    {
+      "no": 11,
+      "soal": "Anggit ingin mengisi 5 akuarium kecil berbentuk kubus dengan panjang rusuk 40 cm, namun air yang tersedia hanya 800 liter. Apakah air tersebut cukup untuk mengisi kelima akuarium hingga penuh?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cukup, karena total volume akuarium hanya 600 liter",
+        "B": "Tidak cukup, karena total volume melebihi 800 liter",
+        "C": "Cukup, karena 800 liter lebih dari volume yang dibutuhkan",
+        "D": "Tidak cukup, karena satu akuarium butuh lebih dari 200 liter"
+      },
+      "jawaban": "C",
+      "penjelasan": "Volume satu akuarium = 40³ = 64.000 cm³ = 64 liter. Lima akuarium = 320 liter, lebih sedikit dari 800 liter sehingga air cukup."
+    },
+    {
+      "no": 12,
+      "soal": "Perhatikan gambar berikut! Rudi memasukkan sebuah rubik berukuran 4 cm × 4 cm × 4 cm ke dalam kardus yang berbentuk balok seperti pada gambar di atas. Jumlah rubik yang harus dimasukkan lagi oleh Rudi agar kardus tersebut penuh yaitu …",
+      "gambar": "soal_12.png",
+      "pilihan": {
+        "A": "216",
+        "B": "256",
+        "C": "288",
+        "D": "300"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kardus berukuran 48 × 24 × 12 cm. Banyak rubik yang muat = (48 ÷ 4) × (24 ÷ 4) × (12 ÷ 4) = 12 × 6 × 3 = 216. (Catatan: bila satu rubik sudah dimasukkan, sisanya 215, tidak ada di pilihan, sehingga jawaban yang dimaksud adalah 216.)"
+    },
+    {
+      "no": 13,
+      "soal": "Diketahui volume kubus sama dengan volume balok. Jika balok tersebut berukuran panjang 48 cm, lebar 18 cm, dan tinggi 16 cm, maka panjang rusuk kubus tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "24 cm",
+        "B": "23 cm",
+        "C": "22 cm",
+        "D": "21 cm"
+      },
+      "jawaban": "A",
+      "penjelasan": "Volume balok = 48 × 18 × 16 = 13.824 cm³. Rusuk kubus = ∛13.824 = 24 cm."
+    },
+    {
+      "no": 14,
+      "soal": "Sebuah tenda pengungsian berbentuk gabungan balok dan prisma segitiga seperti pada gambar. Volume tenda tersebut adalah….",
+      "gambar": "soal_14.png",
+      "pilihan": {
+        "A": "140 cm²",
+        "B": "150 cm²",
+        "C": "160 cm²",
+        "D": "170 cm²"
+      },
+      "jawaban": "B",
+      "penjelasan": "Balok: 6 × 10 × 0,5 = 30 m³. Prisma segitiga: tinggi = 4,5 − 0,5 = 4 m, volume = ½ × 6 × 4 × 10 = 120 m³. Total 150 m³. (Satuan pada pilihan tertulis cm², kemungkinan salah cetak untuk m³.)"
+    },
+    {
+      "no": 15,
+      "soal": "Perhatikan limas persegi berikut! Volume bangun tersebut adalah….",
+      "gambar": "soal_15.png",
+      "pilihan": {
+        "A": "1.280 cm³",
+        "B": "3.840 cm³",
+        "C": "960 cm³",
+        "D": "320 cm³"
+      },
+      "jawaban": "A",
+      "penjelasan": "TE = 15 cm (tinggi limas) dan TF = 17 cm (tinggi sisi tegak), sehingga EF = √(17² − 15²) = 8 cm dan sisi alas = 16 cm. Volume = ⅓ × 16² × 15 = 1.280 cm³."
+    },
+    {
+      "no": 16,
+      "soal": "Sebuah drum memiliki diameter 112 cm dan tinggi 100 cm hendak diisi dengan minyak tanah selama 14 menit menggunakan selang. Berapakah debit selang tersebut agar minyak tanah dapat terisi sesuai dengan waktu yang telah ditentukan ? (π = 22/7)",
+      "gambar": null,
+      "pilihan": {
+        "A": "70,4 liter/menit",
+        "B": "68,5 liter/menit",
+        "C": "65 liter/menit",
+        "D": "63 liter/menit"
+      },
+      "jawaban": "A",
+      "penjelasan": "r = 56 cm. Volume = 22/7 × 56² × 100 = 985.600 cm³ = 985,6 liter. Debit = 985,6 ÷ 14 = 70,4 liter/menit."
+    },
+    {
+      "no": 17,
+      "soal": "Perhatikan gambar berikut! Volume bangun gabungan tersebut adalah …",
+      "gambar": "soal_17.png",
+      "pilihan": {
+        "A": "2034,72 cm³",
+        "B": "2543,4 cm³",
+        "C": "3052,08 cm³",
+        "D": "1526,04 cm³"
+      },
+      "jawaban": "B",
+      "penjelasan": "Garis pelukis kerucut 15 cm dan jari-jari 9 cm, sehingga tinggi kerucut = √(15² − 9²) = 12 cm. Kerucut = ⅓ × 3,14 × 81 × 12 = 1.017,36 cm³. Belahan bola = ⅔ × 3,14 × 9³ = 1.526,04 cm³. Total 2.543,4 cm³."
+    },
+    {
+      "no": 18,
+      "soal": "Perhatikan gambar berikut! Luas permukaan bangun tersebut adalah….",
+      "gambar": "soal_18.png",
+      "pilihan": {
+        "A": "1.020 cm²",
+        "B": "1.030 cm²",
+        "C": "1.040 cm²",
+        "D": "1.050 cm²"
+      },
+      "jawaban": "A",
+      "penjelasan": "Alas prisma segitiga sama kaki dengan sisi 13, 13, 10 cm, sehingga tingginya = √(13² − 5²) = 12 cm. Luas permukaan = 2 × (½ × 10 × 12) + (13 + 13 + 10) × 25 = 120 + 900 = 1.020 cm²."
+    },
+    {
+      "no": 19,
+      "soal": "Pak Edi berencana membuat atap rumah dari genteng. Atap tersebut terbentuk dari dua segitiga sama kaki kongruen dan dua trapesium sama kaki kongruen. Jika diketahui panjang AB = 8 m, BC = 11 m, DE = 5 m, dan BE = 5 m, luas atap rumah adalah….",
+      "gambar": "soal_19.png",
+      "pilihan": {
+        "A": "76 m²",
+        "B": "88 m²",
+        "C": "104 m²",
+        "D": "112 m²"
+      },
+      "jawaban": "B",
+      "penjelasan": "Segitiga (alas 8, kaki 5): tinggi = √(25 − 16) = 3 m, luas = ½ × 8 × 3 = 12 m², dua buah = 24 m². Trapesium (sisi sejajar 11 dan 5, kaki 5): tinggi = √(25 − 9) = 4 m, luas = ½ × (11 + 5) × 4 = 32 m², dua buah = 64 m². Total = 88 m²."
+    },
+    {
+      "no": 20,
+      "soal": "Luas permukaan bangun gabungan di bawah adalah …",
+      "gambar": "soal_20.png",
+      "pilihan": {
+        "A": "594 cm²",
+        "B": "694 cm²",
+        "C": "794 cm²",
+        "D": "894 cm²"
+      },
+      "jawaban": "B",
+      "penjelasan": "Balok tinggi 9 × 5 × 18 cm (panjang total 14 − 5 = 9): luas = 2(9·5 + 9·18 + 5·18) = 594 cm². Kubus rusuk 5 cm: luas = 150 cm². Bidang yang menempel 5 × 5 = 25 cm² hilang dua kali: 594 + 150 − 2 × 25 = 694 cm². (Kedalaman balok dianggap sama dengan rusuk kubus, 5 cm.)"
+    },
+    {
+      "no": 21,
+      "soal": "Data kegemaran siswa disajikan dalam diagram lingkaran di bawah. Jika jumlah siswa yang gemar bola basket sebanyak 24 orang, maka selisih siswa yang gemar sepak bola dan bulu tangkis adalah … orang.",
+      "gambar": "soal_21.png",
+      "pilihan": {
+        "A": "14",
+        "B": "24",
+        "C": "30",
+        "D": "54"
+      },
+      "jawaban": "B",
+      "penjelasan": "Sudut siku-siku menunjukkan bulu tangkis = 25%. Sepak bola = 100% − 20% − 25% − 10% = 45%. Selisihnya = 20% dari total. Bola basket 20% = 24 orang, jadi selisih = 24 orang."
+    },
+    {
+      "no": 22,
+      "soal": "Data nomor sepatu dari 20 peserta didik kelas VI SD Putik adalah sebagai berikut: 38,43,36,37,41,35,40,37,40,42,37,40,35,36,39,40,39,41,34,36. Median dari data tersebut adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "37,5",
+        "B": "38",
+        "C": "38,5",
+        "D": "39"
+      },
+      "jawaban": "C",
+      "penjelasan": "Data terurut: 34, 35, 35, 36, 36, 36, 37, 37, 37, 38, 39, 39, 40, 40, 40, 40, 41, 41, 42, 43. Data ke-10 = 38 dan data ke-11 = 39, sehingga median = (38 + 39) ÷ 2 = 38,5."
+    },
+    {
+      "no": 23,
+      "soal": "Data nilai ulangan matematika siswa kelas V B disajikan pada tabel berikut. Siswa yang memperoleh nilai kurang dari nilai rata-rata harus mengikuti remedial. Banyak siswa yang ikut remedial adalah ....",
+      "gambar": "soal_23.png",
+      "pilihan": {
+        "A": "9 siswa",
+        "B": "12 siswa",
+        "C": "16 siswa",
+        "D": "29 siswa"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jumlah siswa = 40. Jumlah nilai = 20 + 30 + 49 + 104 + 54 + 50 = 307, rata-rata = 7,675. Nilai di bawah rata-rata adalah 5, 6, 7: 4 + 5 + 7 = 16 siswa."
+    },
+    {
+      "no": 24,
+      "soal": "Jika mean dari data 4, 5, 6, 8, 9, p, 7, 3, 8 adalah 6, maka nilai p adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "jawaban": "A",
+      "penjelasan": "Jumlah data = 6 × 9 = 54. Jumlah data selain p = 50, sehingga p = 4."
+    },
+    {
+      "no": 25,
+      "soal": "Tabel berikut menunjukkan hasil ulangan Matematika beberapa siswa di sebuah kelas. Jika mean dari data di atas adalah 7, maka nilai p adalah ....",
+      "gambar": "soal_25.png",
+      "pilihan": {
+        "A": "3",
+        "B": "5",
+        "C": "6",
+        "D": "8"
+      },
+      "jawaban": "D",
+      "penjelasan": "Jumlah nilai = 20 + 6p + 98 + 96 + 18 = 232 + 6p. Banyak siswa = 32 + p. Mean 7: 232 + 6p = 7(32 + p) = 224 + 7p, sehingga p = 8."
+    },
+    {
+      "no": 26,
+      "soal": "Rata-rata berat badan 8 orang siswa adalah 40 kg. Setelah Riska dan Rikha bergabung ke dalam kelompok tersebut, rata-rata berat badan menjadi 41 kg. Jika berat badan Riska adalah 42 kg, maka berat badan Rikha adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "44 kg",
+        "B": "46 kg",
+        "C": "48 kg",
+        "D": "50 kg"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jumlah berat 8 siswa = 320 kg. Setelah bergabung (10 orang) = 410 kg. Riska + Rikha = 90 kg, sehingga Rikha = 90 − 42 = 48 kg."
+    },
+    {
+      "no": 27,
+      "soal": "Perhatikan tabel berikut! Modus jenis buku yang dibaca berdasarkan data di atas adalah …",
+      "gambar": "soal_27.png",
+      "pilihan": {
+        "A": "Pelajaran",
+        "B": "Novel",
+        "C": "Ensiklopedia",
+        "D": "Umum"
+      },
+      "jawaban": "D",
+      "penjelasan": "Jumlah per jenis buku: Umum = 18 + 10 + 23 + 27 = 78; Novel = 15 + 17 + 23 + 16 = 71; Ensiklopedia = 8 + 12 + 24 + 10 = 54; Pelajaran = 17 + 9 + 21 + 14 + 6 = 67. Terbanyak: Umum."
+    },
+    {
+      "no": 28,
+      "soal": "Di sebuah mesin penjual otomatis tersedia voucher belanja senilai Rp1.000, Rp2.000, Rp4.000, dan Rp8.000. Seseorang dapat menggunakan satu atau beberapa voucher sekaligus, tetapi setiap voucher hanya boleh digunakan satu kali. Banyak nilai pembayaran berbeda yang dapat dilakukan adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "11",
+        "B": "13",
+        "C": "15",
+        "D": "16"
+      },
+      "jawaban": "C",
+      "penjelasan": "Setiap voucher dipakai atau tidak: 2⁴ = 16 kombinasi, dikurangi kombinasi tanpa voucher = 15. Nilainya adalah semua kelipatan Rp1.000 dari Rp1.000 sampai Rp15.000, semuanya berbeda."
+    },
+    {
+      "no": 29,
+      "soal": "Sebuah kantong berisi 60 buah bola yang terdiri dari 9 bola berwarna hijau, 14 bola berwarna kuning, 21 bola berwarna merah dan sisanya berwarna biru. Jika diambil sebuah bola secara acak, peluang terambilnya bola berwarna biru adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "1/15",
+        "B": "2/5",
+        "C": "1/5",
+        "D": "4/15"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bola biru = 60 − (9 + 14 + 21) = 16. Peluang = 16/60 = 4/15."
+    },
+    {
+      "no": 30,
+      "soal": "Dalam percobaan melempar dua buah dadu, peluang muncul mata dadu berjumlah 8 adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "5/36",
+        "B": "8/36",
+        "C": "9/36",
+        "D": "1/2"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pasangan berjumlah 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 kejadian dari 36. Peluang = 5/36."
+    }
+  ]
+}
