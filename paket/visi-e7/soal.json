@@ -1,0 +1,592 @@
+{
+  "judul": "VISI E7",
+  "deskripsi": "Latihan verbal dan bacaan bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, vocabulary, notice, memo, tabel, descriptive text, caution, dan menyusun kalimat.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Secure = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Attack",
+        "B": "Assault",
+        "C": "Protect",
+        "D": "Careless"
+      },
+      "jawaban": "C",
+      "penjelasan": "Secure (mengamankan) bersinonim dengan protect."
+    },
+    {
+      "no": 2,
+      "soal": "All = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Divided",
+        "B": "Partial",
+        "C": "Entire",
+        "D": "Incomplete"
+      },
+      "jawaban": "C",
+      "penjelasan": "All (seluruh) bersinonim dengan entire."
+    },
+    {
+      "no": 3,
+      "soal": "Diligent =...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Industrious",
+        "B": "Lazy",
+        "C": "Careless",
+        "D": "Indolent"
+      },
+      "jawaban": "A",
+      "penjelasan": "Diligent (rajin) bersinonim dengan industrious."
+    },
+    {
+      "no": 4,
+      "soal": "Reluctant =...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Eager",
+        "B": "Unwilling",
+        "C": "Enthusiastic",
+        "D": "Willing"
+      },
+      "jawaban": "B",
+      "penjelasan": "Reluctant (enggan) bersinonim dengan unwilling."
+    },
+    {
+      "no": 5,
+      "soal": "Transient =...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Permanent",
+        "B": "Fleeting",
+        "C": "Enduring",
+        "D": "Temporary"
+      },
+      "jawaban": "D",
+      "penjelasan": "Transient (sementara, tidak lama) bersinonim dengan temporary. Fleeting juga mirip, soal ini dapat ditafsirkan lain (B)."
+    },
+    {
+      "no": 6,
+      "soal": "Success >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Winner",
+        "B": "Failure",
+        "C": "Victory",
+        "D": "Fit"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata success (keberhasilan) adalah failure (kegagalan)."
+    },
+    {
+      "no": 7,
+      "soal": "Never >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rarely",
+        "B": "Delayed",
+        "C": "Sudden",
+        "D": "Always"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata never (tidak pernah) adalah always (selalu)."
+    },
+    {
+      "no": 8,
+      "soal": "Modern >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Contemporary",
+        "B": "New",
+        "C": "Ancient",
+        "D": "Current"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata modern adalah ancient (kuno)."
+    },
+    {
+      "no": 9,
+      "soal": "Chaotic >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Disorganized",
+        "B": "Orderly",
+        "C": "Cluttered",
+        "D": "Messy"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata chaotic (kacau) adalah orderly (teratur)."
+    },
+    {
+      "no": 10,
+      "soal": "Curtail >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Reduce",
+        "B": "Predict",
+        "C": "Expand",
+        "D": "Willing"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata curtail (mengurangi/memangkas) adalah expand (memperluas)."
+    },
+    {
+      "no": 11,
+      "soal": "Wish is to desire as touch is to ______",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pull",
+        "B": "Bring",
+        "C": "Take",
+        "D": "Feel"
+      },
+      "jawaban": "D",
+      "penjelasan": "Wish bersinonim dengan desire; touch bersinonim dengan feel."
+    },
+    {
+      "no": 12,
+      "soal": "Tobacco plant is to tobacco leaves as rubber tree is to ______",
+      "gambar": null,
+      "pilihan": {
+        "A": "beans",
+        "B": "oil",
+        "C": "latex",
+        "D": "gel"
+      },
+      "jawaban": "C",
+      "penjelasan": "Tanaman tembakau menghasilkan daun tembakau; pohon karet menghasilkan getah (latex)."
+    },
+    {
+      "no": 13,
+      "soal": "Gardener : shovel :: tailor : ______",
+      "gambar": null,
+      "pilihan": {
+        "A": "Needle",
+        "B": "Clothes",
+        "C": "Table",
+        "D": "Broom"
+      },
+      "jawaban": "A",
+      "penjelasan": "Tukang kebun memakai sekop; penjahit memakai jarum (profesi : alat)."
+    },
+    {
+      "no": 14,
+      "soal": "Polar bear : ______ :: camel : ______",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ponds – Antartic",
+        "B": "Arctic – desert",
+        "C": "Caves - swamps",
+        "D": "Forest – savanna"
+      },
+      "jawaban": "B",
+      "penjelasan": "Beruang kutub hidup di Arktik; unta hidup di gurun (hewan : habitat)."
+    },
+    {
+      "no": 15,
+      "soal": "______ is to emotion as ______ is to flavour.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cry – dessert",
+        "B": "Happiness – sugar",
+        "C": "Laugh – sour",
+        "D": "Frustration – savory"
+      },
+      "jawaban": "D",
+      "penjelasan": "Frustration adalah jenis emosi dan savory adalah jenis rasa. Pada pilihan lain, cry/laugh adalah tindakan dan sugar/dessert bukan rasa."
+    },
+    {
+      "no": 16,
+      "soal": "Sarah was feeling ______ after working late into the night.",
+      "gambar": null,
+      "pilihan": {
+        "A": "tire",
+        "B": "tired",
+        "C": "tiring",
+        "D": "tirelessly"
+      },
+      "jawaban": "B",
+      "penjelasan": "Setelah 'was feeling' dibutuhkan kata sifat: tired."
+    },
+    {
+      "no": 17,
+      "soal": "One of these words doesn't function as noun; it is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Advertisement",
+        "B": "Aggressive",
+        "C": "Sickness",
+        "D": "Introduction"
+      },
+      "jawaban": "B",
+      "penjelasan": "Aggressive adalah kata sifat; yang lain kata benda."
+    },
+    {
+      "no": 18,
+      "soal": "Choose the word that function as verb below!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Create",
+        "B": "Creator",
+        "C": "Creation",
+        "D": "Creative"
+      },
+      "jawaban": "A",
+      "penjelasan": "Create adalah kata kerja; creator dan creation (noun), creative (adjective)."
+    },
+    {
+      "no": 19,
+      "soal": "One of these words doesn't function as adjectives; it is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Skillful",
+        "B": "Enjoyable",
+        "C": "Expressive",
+        "D": "Difference"
+      },
+      "jawaban": "D",
+      "penjelasan": "Skillful, enjoyable, dan expressive adalah kata sifat; difference adalah kata benda."
+    },
+    {
+      "no": 20,
+      "soal": "Here are verbs, except...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Glorify",
+        "B": "Glamorize",
+        "C": "Glorious",
+        "D": "Praise"
+      },
+      "jawaban": "C",
+      "penjelasan": "Glorify, glamorize, dan praise adalah kata kerja; glorious adalah kata sifat."
+    },
+    {
+      "no": 21,
+      "soal": "Danielle is younger than Lily. Lily is younger than Karina. Karina is younger than Rose. Who is the third youngest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Danielle",
+        "B": "Lily",
+        "C": "Karina",
+        "D": "Rose"
+      },
+      "jawaban": "C",
+      "penjelasan": "Urutan termuda: Danielle, Lily, Karina, Rose. Termuda ketiga adalah Karina."
+    },
+    {
+      "no": 22,
+      "soal": "No birds are mammals. All eagles are birds.\nWhich of the following is true?",
+      "gambar": null,
+      "pilihan": {
+        "A": "All mammals are birds",
+        "B": "Some birds are mammals",
+        "C": "Eagles are mammals",
+        "D": "No eagles are mammals"
+      },
+      "jawaban": "D",
+      "penjelasan": "Elang adalah burung dan tidak ada burung yang mamalia, jadi tidak ada elang yang mamalia."
+    },
+    {
+      "no": 23,
+      "soal": "Giselle always eats breakfast at 7 a.m. Today she had breakfast at 7 a.m.\nWhich of the following is a valid inference?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Giselle skipped breakfast",
+        "B": "Giselle had lunch at 7 a.m.",
+        "C": "Giselle followed her routine",
+        "D": "Giselle broke her routine"
+      },
+      "jawaban": "C",
+      "penjelasan": "Ia selalu sarapan jam 7 dan hari ini juga jam 7, jadi ia mengikuti rutinitasnya."
+    },
+    {
+      "no": 24,
+      "soal": "If ice melts, the surrounding temperature must be above 0°C. An ice cube is melting. What can we infer?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The temperature is above freezing",
+        "B": "The temperature is below freezing",
+        "C": "The temperature is exactly 0°C",
+        "D": "The ice melted without any temperature change"
+      },
+      "jawaban": "A",
+      "penjelasan": "Es meleleh hanya jika suhu sekitar di atas 0°C (titik beku)."
+    },
+    {
+      "no": 25,
+      "soal": "When gasoline prices increase, public transport usage rises. Gasoline prices dropped last month.\nWhat is the most likely consequence?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Public transport usage decreased",
+        "B": "Public transport became more expensive",
+        "C": "Public transport usage increased",
+        "D": "No one drove cars"
+      },
+      "jawaban": "A",
+      "penjelasan": "Harga bensin turun, jadi penggunaan transportasi umum menurun."
+    },
+    {
+      "no": 26,
+      "soal": "Which word doesn't belong with the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Winter",
+        "B": "Summer",
+        "C": "Spring",
+        "D": "Sunny"
+      },
+      "jawaban": "D",
+      "penjelasan": "Winter, summer, dan spring adalah musim; sunny adalah cuaca."
+    },
+    {
+      "no": 27,
+      "soal": "What word is the odd one?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rectangle",
+        "B": "Cube",
+        "C": "Parallelogram",
+        "D": "Square"
+      },
+      "jawaban": "B",
+      "penjelasan": "Rectangle, parallelogram, dan square adalah bangun datar; cube adalah bangun ruang."
+    },
+    {
+      "no": 28,
+      "soal": "Choose the word that doesn't have the same group!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Guitar",
+        "B": "Flute",
+        "C": "Violin",
+        "D": "Cello"
+      },
+      "jawaban": "B",
+      "penjelasan": "Guitar, violin, dan cello adalah alat musik berdawai; flute adalah alat musik tiup."
+    },
+    {
+      "no": 29,
+      "soal": "Determine the difference in one word from the following four words!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Axe",
+        "B": "Shovel",
+        "C": "Sword",
+        "D": "Knife"
+      },
+      "jawaban": "B",
+      "penjelasan": "Axe, sword, dan knife adalah alat/senjata tajam untuk memotong; shovel adalah alat untuk menggali. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 30,
+      "soal": "Which word doesn't belong with the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gold",
+        "B": "Iron",
+        "C": "Plastic",
+        "D": "Copper"
+      },
+      "jawaban": "C",
+      "penjelasan": "Gold, iron, dan copper adalah logam; plastic bukan."
+    },
+    {
+      "no": 31,
+      "soal": "A situation where there is no light is described as...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dark",
+        "B": "Bright",
+        "C": "Windy",
+        "D": "Shiny"
+      },
+      "jawaban": "A",
+      "penjelasan": "Tidak ada cahaya berarti gelap (dark)."
+    },
+    {
+      "no": 32,
+      "soal": "A person who studies celestial objects, space, and the universe is called ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Geologist",
+        "B": "Forecaster",
+        "C": "Astronomer",
+        "D": "Meteorologist"
+      },
+      "jawaban": "C",
+      "penjelasan": "Orang yang mempelajari benda langit dan alam semesta adalah astronomer."
+    },
+    {
+      "no": 33,
+      "soal": "Moody is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Feeling or showing sorrow",
+        "B": "Changing attitude or feelings suddenly and often",
+        "C": "Showing calmness in stressful time",
+        "D": "Reacting with too much fear"
+      },
+      "jawaban": "B",
+      "penjelasan": "Moody berarti suasana hati sering berubah tiba-tiba."
+    },
+    {
+      "no": 34,
+      "soal": "Isolate is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "To combine things together",
+        "B": "To help someone in need",
+        "C": "To separate from other or keep apart",
+        "D": "To move closer to others"
+      },
+      "jawaban": "C",
+      "penjelasan": "Isolate berarti memisahkan atau menjauhkan dari yang lain."
+    },
+    {
+      "no": 35,
+      "soal": "A large, slow-moving mass of ice is called ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Erosion",
+        "B": "Glacier",
+        "C": "Landslide",
+        "D": "Hurricane"
+      },
+      "jawaban": "B",
+      "penjelasan": "Massa es besar yang bergerak lambat disebut glacier (gletser)."
+    },
+    {
+      "no": 36,
+      "soal": "NOTICE/CAUTION\nRead the notice below!\n\nNOTICE: Playground Safety Rules\n\nFor your safety, the playground will be closed for cleaning every Wednesday from 10:00 AM to 12:00 PM.\nChildren must always be supervised by an adult when using the climbing structures.\nPlease do not bring food or drinks into the play area to avoid attracting insects.\nReport any broken equipment to the park staff at the main office immediately.\n\nWhen is the playground closed, and who should be notified if something is broken?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Every Wednesday morning; the park staff at the main office",
+        "B": "Every Friday afternoon; the cleaning company",
+        "C": "Every Wednesday morning; the security guard",
+        "D": "Every Monday; the playground supervisor"
+      },
+      "jawaban": "A",
+      "penjelasan": "Taman bermain ditutup setiap Rabu pukul 10.00–12.00 dan kerusakan dilaporkan ke staf taman di kantor utama."
+    },
+    {
+      "no": 37,
+      "soal": "SHORT MESSAGE\nRead the short message below!\n\nMEMO\nTo: All Grade 8 Students\nFrom: Vice Principal Ms. Lisa\nDate: 25 May\n\nThis is a reminder that starting Monday, May 27, students must wear the full formal school uniform, including black shoes and the official school tie, every Monday and Thursday. Failure to comply will result in loss of break time privileges for that day. Sportswear is only permitted on Wednesdays for P.E. and must be changed out of by lunchtime.\n\nWhich statement accurately reflects the uniform rules?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Black shoes are optional on non-P.E. days",
+        "B": "Sportswear is allowed on both Monday and Wednesday",
+        "C": "Students must wear a tie and black shoes only on special occasions",
+        "D": "Students may only wear sportswear on Wednesday mornings and must change by noon"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pakaian olahraga hanya boleh pada hari Rabu untuk P.E. dan harus diganti sebelum jam makan siang (noon)."
+    },
+    {
+      "no": 38,
+      "soal": "TIME TABLE\nLook at the bakery's price list below!\n\nProduct | Price (Rp/unit) | Units Sold | Notes\nChocolate Cake | 20 | 120 | Best-seller\nApple Pie | 12 | 80 | Seasonal flavour in winter\nCroissant | 20 | 220 | Popular breakfast item\nCheese Bread | 10 | 140 | Popular on weekends\nCinnamon Roll | 15 | 170 | Seasonal flavour in winter\nMini Pizza | 15 | 150 | Best-seller\n\nHow many total units of savory products (Croissant, cheese bread, mini pizza) were sold?",
+      "gambar": null,
+      "pilihan": {
+        "A": "470 units",
+        "B": "490 units",
+        "C": "370 units",
+        "D": "590 units"
+      },
+      "jawaban": "B",
+      "penjelasan": "Croissant 220 + cheese bread 140 + mini pizza 150 = 510, yang tidak ada di pilihan. Kunci dipilih B (490, paling dekat). Mohon cek ke kunci buku."
+    },
+    {
+      "no": 39,
+      "soal": "TIME TABLE\nLook at the bakery's price list below!\n\nProduct | Price (Rp/unit) | Units Sold | Notes\nChocolate Cake | 20 | 120 | Best-seller\nApple Pie | 12 | 80 | Seasonal flavour in winter\nCroissant | 20 | 220 | Popular breakfast item\nCheese Bread | 10 | 140 | Popular on weekends\nCinnamon Roll | 15 | 170 | Seasonal flavour in winter\nMini Pizza | 15 | 150 | Best-seller\n\nWhich statement is incorrect based on the table?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The bakery sold more apple pie than cheese bread",
+        "B": "The number of croissants sold is more than 200 units",
+        "C": "Cinnamon roll has the highest units sold in the sweet category",
+        "D": "Cheese bread is the most popular units every day."
+      },
+      "jawaban": "A",
+      "penjelasan": "Apple pie terjual 80 unit, lebih sedikit daripada cheese bread (140), jadi pernyataan A salah menurut tabel. Pernyataan D juga tidak didukung tabel (cheese bread hanya 'popular on weekends'), sehingga soal ini dapat ditafsirkan lain (D)."
+    },
+    {
+      "no": 40,
+      "soal": "DESCRIPTIVE TEXT\nRead the text below and answer the following questions!\n\nBacharuddin Jusuf Habibie, widely known as B.J. Habibie, was an Indonesian engineer and statesman who played a significant role in both the scientific and political arenas of the nation. Born in 1936 in Parepare, South Sulawesi, Habibie demonstrated an early fascination with mathematics and mechanics, leading him to pursue aerospace engineering in Germany, where he achieved remarkable academic success. His career soared in the German aviation industry before he was invited by President Soeharto to return and contribute to Indonesia's technological development.\n\nUpon his return, Habibie became a key figure in the establishment of IPTN (Industri Pesawat Terbang Nusantara), now known as PT Dirgantara Indonesia. His vision was to make Indonesia self-reliant in aviation technology. Under his leadership, the nation witnessed the creation of the N-250, a domestically produced aircraft that symbolized a national aspiration toward technological independence.\n\nWhen the Asian financial crisis destabilized the country in 1998, Habibie was suddenly thrust into the presidency. His short tenure was marked by difficult decisions, including overseeing East Timor's referendum for independence and implementing political reforms. Though controversial, his leadership laid the groundwork for Indonesia's democratic transition.\n\nEven after leaving office, Habibie remained a revered intellectual. His humility, brilliance, and enduring dedication to science and education made him an icon for many Indonesians. He is remembered not merely as a former president, but as a visionary whose mind never ceased to imagine a better, more advanced Indonesia.\n\nWhat is the purpose of the text?",
+      "gambar": null,
+      "pilihan": {
+        "A": "To criticize Habibie's political leadership during the crisis",
+        "B": "To describe the aviation industry in Indonesia",
+        "C": "To narrate B.J. Habibie's life and his contributions in various fields",
+        "D": "To compare B.J. Habibie with other presidents of Indonesia"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teks memaparkan kehidupan Habibie dan kontribusinya di bidang teknologi dan politik."
+    },
+    {
+      "no": 41,
+      "soal": "DESCRIPTIVE TEXT\nRead the text below and answer the following questions!\n\nBacharuddin Jusuf Habibie, widely known as B.J. Habibie, was an Indonesian engineer and statesman who played a significant role in both the scientific and political arenas of the nation. Born in 1936 in Parepare, South Sulawesi, Habibie demonstrated an early fascination with mathematics and mechanics, leading him to pursue aerospace engineering in Germany, where he achieved remarkable academic success. His career soared in the German aviation industry before he was invited by President Soeharto to return and contribute to Indonesia's technological development.\n\nUpon his return, Habibie became a key figure in the establishment of IPTN (Industri Pesawat Terbang Nusantara), now known as PT Dirgantara Indonesia. His vision was to make Indonesia self-reliant in aviation technology. Under his leadership, the nation witnessed the creation of the N-250, a domestically produced aircraft that symbolized a national aspiration toward technological independence.\n\nWhen the Asian financial crisis destabilized the country in 1998, Habibie was suddenly thrust into the presidency. His short tenure was marked by difficult decisions, including overseeing East Timor's referendum for independence and implementing political reforms. Though controversial, his leadership laid the groundwork for Indonesia's democratic transition.\n\nEven after leaving office, Habibie remained a revered intellectual. His humility, brilliance, and enduring dedication to science and education made him an icon for many Indonesians. He is remembered not merely as a former president, but as a visionary whose mind never ceased to imagine a better, more advanced Indonesia.\n\nWhat is the main idea of the second paragraph?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Habibie's aircraft designs failed due to lack of support",
+        "B": "IPTN was led by foreign experts and not truly Indonesian",
+        "C": "The N-250 failed to meet international standards",
+        "D": "B.J. Habibie wanted Indonesia to develop its own aircraft industry"
+      },
+      "jawaban": "D",
+      "penjelasan": "Paragraf kedua tentang peran Habibie di IPTN dan visinya membuat Indonesia mandiri di industri penerbangan."
+    },
+    {
+      "no": 42,
+      "soal": "\"His tenure was marked by difficult decisions, including overseeing East Timor's referendum for independence.\"\nWhat is the same meaning of the underlined word \"tenure\" in the sentence above?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Failure",
+        "B": "Time in office",
+        "C": "Speech",
+        "D": "Career path"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tenure (masa jabatan) bermakna time in office."
+    },
+    {
+      "no": 43,
+      "soal": "Read the caution!\n\nDo not aim the camera directly into the sun or at other intense light resources that could damage your eyesight\n\nThe warning means....",
+      "gambar": null,
+      "pilihan": {
+        "A": "It will be good if we take the picture of the sun",
+        "B": "It will be better if we take the picture of other intense light sources",
+        "C": "If we aim the camera directly into the sun, the sun will have a problem",
+        "D": "Our eyes might be in danger if the camera is aimed into the sun or intense light resources"
+      },
+      "jawaban": "D",
+      "penjelasan": "Peringatan memperingatkan bahwa mengarahkan kamera ke matahari atau cahaya kuat dapat merusak penglihatan."
+    },
+    {
+      "no": 44,
+      "soal": "The word \"damage\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "remedy",
+        "B": "cure",
+        "C": "harm",
+        "D": "fix"
+      },
+      "jawaban": "C",
+      "penjelasan": "Damage (merusak) bersinonim dengan harm."
+    },
+    {
+      "no": 45,
+      "soal": "leave – the classroom – the bell – rings – you – until – cannot\n1 = leave, 2 = the classroom, 3 = the bell, 4 = rings, 5 = you, 6 = until, 7 = cannot\n\nThe best arrangement is ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "5 – 7 – 6 – 1 – 2 – 4 – 3",
+        "B": "5 – 7 – 1 – 3 – 6 – 2 – 4",
+        "C": "5 – 7 – 1 – 2 – 6 – 4 – 3",
+        "D": "5 – 7 – 1 – 2 – 6 – 3 – 4"
+      },
+      "jawaban": "D",
+      "penjelasan": "Susunan yang benar: 'You cannot leave the classroom until the bell rings' (5-7-1-2-6-3-4)."
+    }
+  ]
+}
