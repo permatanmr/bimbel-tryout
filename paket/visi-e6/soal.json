@@ -1,0 +1,592 @@
+{
+  "judul": "VISI E6",
+  "deskripsi": "Latihan verbal dan bacaan bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, idiom, iklan, dialog, recount text, dan kartu ucapan.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Verdict : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Doubt",
+        "B": "Hesitation",
+        "C": "Decision",
+        "D": "Indecision"
+      },
+      "jawaban": "C",
+      "penjelasan": "Verdict (putusan) bersinonim dengan decision."
+    },
+    {
+      "no": 2,
+      "soal": "Pledge : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Denial",
+        "B": "Betrayal",
+        "C": "Promise",
+        "D": "Lie"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pledge (janji) bersinonim dengan promise."
+    },
+    {
+      "no": 3,
+      "soal": "Dissuade : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Inspire",
+        "B": "Prevent",
+        "C": "Support",
+        "D": "Motivate"
+      },
+      "jawaban": "B",
+      "penjelasan": "Dissuade (membujuk agar tidak melakukan) paling dekat dengan prevent (mencegah)."
+    },
+    {
+      "no": 4,
+      "soal": "Industrious : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lazy",
+        "B": "Diligent",
+        "C": "Exciting",
+        "D": "Delighted"
+      },
+      "jawaban": "B",
+      "penjelasan": "Industrious (rajin) bersinonim dengan diligent."
+    },
+    {
+      "no": 5,
+      "soal": "Idle : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Extensive",
+        "B": "Immense",
+        "C": "Unproductive",
+        "D": "Disinclined"
+      },
+      "jawaban": "C",
+      "penjelasan": "Idle (menganggur) paling dekat dengan unproductive (tidak produktif)."
+    },
+    {
+      "no": 6,
+      "soal": "Reckless : .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Prudent",
+        "B": "Careless",
+        "C": "Lessen",
+        "D": "Overlook"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pada bagian antonim: lawan kata reckless (ceroboh) adalah prudent (hati-hati)."
+    },
+    {
+      "no": 7,
+      "soal": "Content : .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Miserable",
+        "B": "Joyful",
+        "C": "Happy",
+        "D": "Delightful"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pada bagian antonim: lawan kata content (puas, bahagia) adalah miserable (sengsara)."
+    },
+    {
+      "no": 8,
+      "soal": "Reluctant : .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Unwilling",
+        "B": "Hesitant",
+        "C": "Disinclined",
+        "D": "Eager"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pada bagian antonim: lawan kata reluctant (enggan) adalah eager (bersemangat)."
+    },
+    {
+      "no": 9,
+      "soal": "Commend : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Discord",
+        "B": "Praise",
+        "C": "Forgive",
+        "D": "Blame"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pada bagian antonim: lawan kata commend (memuji) adalah blame (menyalahkan)."
+    },
+    {
+      "no": 10,
+      "soal": "Contentment : ......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ease",
+        "B": "Comfort",
+        "C": "Discomfort",
+        "D": "Clarity"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pada bagian antonim: lawan kata contentment (kepuasan, kenyamanan) adalah discomfort (ketidaknyamanan)."
+    },
+    {
+      "no": 11,
+      "soal": "Chef : Kitchen = Mechanic :...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Restaurant",
+        "B": "Class",
+        "C": "Hospital",
+        "D": "Workshop"
+      },
+      "jawaban": "D",
+      "penjelasan": "Koki bekerja di dapur; montir bekerja di bengkel (profesi : tempat kerja)."
+    },
+    {
+      "no": 12,
+      "soal": "Lion : Brave = Owl : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Scary",
+        "B": "Smart",
+        "C": "Joyful",
+        "D": "Gentle"
+      },
+      "jawaban": "B",
+      "penjelasan": "Singa identik dengan berani; burung hantu identik dengan cerdas."
+    },
+    {
+      "no": 13,
+      "soal": "Clock : Time = Thermometer : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Degree",
+        "B": "Mercury",
+        "C": "Temperature",
+        "D": "Weather"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jam mengukur waktu; termometer mengukur suhu (temperature)."
+    },
+    {
+      "no": 14,
+      "soal": "Wheel : Car = Wing : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pedestrian",
+        "B": "Motorcycle",
+        "C": "Plane",
+        "D": "Sky"
+      },
+      "jawaban": "C",
+      "penjelasan": "Roda adalah bagian mobil; sayap adalah bagian pesawat."
+    },
+    {
+      "no": 15,
+      "soal": "Student : Study = Athlete : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Fight",
+        "B": "Compete",
+        "C": "Train",
+        "D": "Win"
+      },
+      "jawaban": "C",
+      "penjelasan": "Siswa belajar (study) untuk berkembang; atlet berlatih (train)."
+    },
+    {
+      "no": 16,
+      "soal": "Which one is an adverb below?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Harmful",
+        "B": "Tired",
+        "C": "Famous",
+        "D": "Slowly"
+      },
+      "jawaban": "D",
+      "penjelasan": "Harmful, tired, dan famous adalah kata sifat; slowly adalah adverb. Pada buku, kata 'not' pada soal dicoret, sehingga soal dibaca 'Which one is an adverb'."
+    },
+    {
+      "no": 17,
+      "soal": "One of these words is noun; what is it?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Identify",
+        "B": "Identity",
+        "C": "Soften",
+        "D": "Softly"
+      },
+      "jawaban": "B",
+      "penjelasan": "Identity adalah kata benda; identify dan soften (verb), softly (adverb)."
+    },
+    {
+      "no": 18,
+      "soal": "Choose the word that function as verb below!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Clarification",
+        "B": "Classic",
+        "C": "Clarify",
+        "D": "Clarity"
+      },
+      "jawaban": "C",
+      "penjelasan": "Clarify adalah kata kerja; clarification dan clarity (noun), classic (adjective)."
+    },
+    {
+      "no": 19,
+      "soal": "Which word does not belong to the Adverb?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Homeless",
+        "B": "Poetic",
+        "C": "Upwards",
+        "D": "Flexible"
+      },
+      "jawaban": "C",
+      "penjelasan": "Homeless, poetic, dan flexible adalah kata sifat; upwards adalah adverb."
+    },
+    {
+      "no": 20,
+      "soal": "The following are conjunction, except",
+      "gambar": null,
+      "pilihan": {
+        "A": "Because",
+        "B": "Although",
+        "C": "However",
+        "D": "Behind"
+      },
+      "jawaban": "D",
+      "penjelasan": "Because, although, dan however adalah kata penghubung; behind adalah preposisi."
+    },
+    {
+      "no": 21,
+      "soal": "Lina is shorter than Dira. Dira is taller than Kiki. Kiki is taller than Zaki. Who is the tallest among them?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lina",
+        "B": "Dira",
+        "C": "Kiki",
+        "D": "Zaki"
+      },
+      "jawaban": "B",
+      "penjelasan": "Urutan tinggi: Dira > Lina dan Dira > Kiki > Zaki, jadi Dira tertinggi."
+    },
+    {
+      "no": 22,
+      "soal": "Andy is older than Bella, but younger than Carla. Dina is younger than Bella. Arrange them from youngest to oldest!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dina, Bella, Andy, Carla",
+        "B": "Bella, Dina, Andy, Carla",
+        "C": "Dina, Andy, Bella, Carla",
+        "D": "Dina, Carla, Andy, Bella"
+      },
+      "jawaban": "A",
+      "penjelasan": "Carla > Andy > Bella > Dina dalam umur; dari termuda: Dina, Bella, Andy, Carla."
+    },
+    {
+      "no": 23,
+      "soal": "Tom runs faster than Jerry. Max runs slower than Jerry. But Jerry runs faster than Sam. Who is the slowest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Max",
+        "B": "Sam",
+        "C": "Jerry",
+        "D": "Tom"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tom > Jerry, Jerry > Max, dan Jerry > Sam; Max dan Sam sama-sama di bawah Jerry sehingga soal ini tidak menentukan yang paling lambat secara tegas. Kata 'But' mengisyaratkan Sam, maka kunci dipilih B. Soal ini dapat ditafsirkan lain (A)."
+    },
+    {
+      "no": 24,
+      "soal": "All books in this shelf are fiction. \"Harry Potter\" is on this shelf. Therefore, \"Harry Potter\" is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A nonfiction book",
+        "B": "Not a book",
+        "C": "A fiction book",
+        "D": "A science book"
+      },
+      "jawaban": "C",
+      "penjelasan": "Semua buku di rak itu fiksi dan Harry Potter ada di rak itu."
+    },
+    {
+      "no": 25,
+      "soal": "If it rains, the ground gets wet. Today, the ground is not wet. Therefore......",
+      "gambar": null,
+      "pilihan": {
+        "A": "It rained heavily",
+        "B": "It did not rain",
+        "C": "The ground absorbed all the water",
+        "D": "Someone cleaned the ground"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kontraposisi: tanah tidak basah berarti tidak hujan."
+    },
+    {
+      "no": 26,
+      "soal": "Which word is different from the rest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Elephant",
+        "B": "Tiger",
+        "C": "Monkey",
+        "D": "Rose"
+      },
+      "jawaban": "D",
+      "penjelasan": "Elephant, tiger, dan monkey adalah hewan; rose adalah tumbuhan."
+    },
+    {
+      "no": 27,
+      "soal": "Choose the word that is different!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Apple",
+        "B": "Mango",
+        "C": "Orange",
+        "D": "Tomato"
+      },
+      "jawaban": "D",
+      "penjelasan": "Apple, mango, dan orange adalah buah; tomato umumnya dikelompokkan sebagai sayuran. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 28,
+      "soal": "Choose the word that is different!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Train",
+        "B": "Bus",
+        "C": "Bicycle",
+        "D": "Television"
+      },
+      "jawaban": "D",
+      "penjelasan": "Train, bus, dan bicycle adalah alat transportasi; television bukan."
+    },
+    {
+      "no": 29,
+      "soal": "Which word is the odd one out?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Doctor",
+        "B": "Pilot",
+        "C": "Police officer",
+        "D": "Car"
+      },
+      "jawaban": "D",
+      "penjelasan": "Doctor, pilot, dan police officer adalah profesi; car adalah benda."
+    },
+    {
+      "no": 30,
+      "soal": "Which of the following is NOT like the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cotton",
+        "B": "Silk",
+        "C": "Plastic",
+        "D": "Pants"
+      },
+      "jawaban": "D",
+      "penjelasan": "Cotton, silk, dan plastic adalah bahan; pants (celana) adalah pakaian jadi."
+    },
+    {
+      "no": 31,
+      "soal": "\"Lina was feeling under the weather, so she didn't go to school.\"\nWhat does the idiom \"under the weather\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She was standing in the rain",
+        "B": "She was feeling sick",
+        "C": "She was sleeping outside",
+        "D": "She was sad about the weather"
+      },
+      "jawaban": "B",
+      "penjelasan": "'Under the weather' berarti merasa tidak enak badan (sakit)."
+    },
+    {
+      "no": 32,
+      "soal": "\"After the test, Ali breathed a sigh of relief.\"\nWhat does \"breathed a sigh of relief\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "He was tired of breathing",
+        "B": "He was angry",
+        "C": "He felt relaxed and calm",
+        "D": "He didn't want to study anymore"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Breathed a sigh of relief' berarti merasa lega dan tenang."
+    },
+    {
+      "no": 33,
+      "soal": "\"The math homework was a piece of cake for Nadia.\"\nWhat does \"piece of cake\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "It was very easy",
+        "B": "It was delicious",
+        "C": "It was long and hard",
+        "D": "It was about baking"
+      },
+      "jawaban": "A",
+      "penjelasan": "'Piece of cake' berarti sangat mudah."
+    },
+    {
+      "no": 34,
+      "soal": "\"When I forgot my lines on stage, I wished the ground would swallow me up.\"\nWhat does \"swallow me up\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "I wanted to fall asleep",
+        "B": "I felt very hungry",
+        "C": "I wanted to disappear from embarrassment",
+        "D": "I was digging a hole"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Swallow me up' berarti ingin menghilang karena malu."
+    },
+    {
+      "no": 35,
+      "soal": "\"Dina spilled the beans about the surprise party.\"\nWhat does \"spilled the beans\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She dropped food on the floor",
+        "B": "She got in trouble",
+        "C": "She told a secret",
+        "D": "She cooked something"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Spilled the beans' berarti membocorkan rahasia."
+    },
+    {
+      "no": 36,
+      "soal": "The text below is for question 36 and 37.\n\nIn the advertisement, the text is made for...",
+      "gambar": "soal_36.png",
+      "pilihan": {
+        "A": "People who want to have a red car",
+        "B": "People who need to buy a car",
+        "C": "Inform the people about car rental services",
+        "D": "To entertain readers with the car's amazing appearance"
+      },
+      "jawaban": "C",
+      "penjelasan": "Iklan Car Rental Services bertujuan memberi informasi tentang layanan sewa mobil."
+    },
+    {
+      "no": 37,
+      "soal": "The text below is for question 36 and 37.\n\nWhat is the conclusion of the advertisement?",
+      "gambar": "soal_37.png",
+      "pilihan": {
+        "A": "You can contact them by following their Instagram",
+        "B": "The cars are not in the good condition",
+        "C": "By renting the cars, you will get a discount and good facilities",
+        "D": "You can visit their website at www.website.co.id."
+      },
+      "jawaban": "C",
+      "penjelasan": "Iklan menawarkan diskon 20% dan fasilitas (interior bersih dan nyaman, AC, diskon pelanggan tetap)."
+    },
+    {
+      "no": 38,
+      "soal": "The text below is for question 38 and 39.\n\nLina: Hi, Sinta. Can I ask you something?\nSinta: Sure, what is it?\nLina: Can you help me with the English homework? I don't understand question number 5.\nSinta: Of course! Let me see... Oh, this one is about verbs.\nLina: Yes, I get confused with regular and irregular verbs.\nSinta: No problem. I can explain it to you.\nLina: Thank you so much, Sinta!\nSinta: You're welcome. I'm happy to help!\n\nWhat kind of expression is this?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Inviting",
+        "B": "Thanking",
+        "C": "Requesting",
+        "D": "Greeting"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lina meminta bantuan ('Can you help me ...?'), jadi ungkapan meminta (requesting)."
+    },
+    {
+      "no": 39,
+      "soal": "The text below is for question 38 and 39.\n\nLina: Hi, Sinta. Can I ask you something?\nSinta: Sure, what is it?\nLina: Can you help me with the English homework? I don't understand question number 5.\nSinta: Of course! Let me see... Oh, this one is about verbs.\nLina: Yes, I get confused with regular and irregular verbs.\nSinta: No problem. I can explain it to you.\nLina: Thank you so much, Sinta!\nSinta: You're welcome. I'm happy to help!\n\nWhat problem does Lina have and what kind of help does she need?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She doesn't know question number 5 and she needs an explanation",
+        "B": "She doesn't English at all and she wants Sinta to teach her",
+        "C": "She doesn't want to study English",
+        "D": "She wants to skip class for her celebration at 10 a.m"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lina tidak paham soal nomor 5 dan butuh penjelasan dari Sinta."
+    },
+    {
+      "no": 40,
+      "soal": "The text below is for question 40 - 43.\n\nMy Trip to the Beach\n\nLast weekend, I went to the beach with my family. We left home early in the morning and brought some food, drinks, and beach toys. The weather was sunny and warm, perfect for a beach day. When we arrived, my brother and I built a big sandcastle. Then, we swam in the sea and played volleyball on the sand. My parents sat under an umbrella and took pictures of us. We had lunch together near the shore and watched the waves. It was a fun and relaxing day. I hope we can visit the beach again next holiday\n\nWhat is the text about?",
+      "gambar": null,
+      "pilihan": {
+        "A": "A holiday at the mountains",
+        "B": "A visit to a zoo",
+        "C": "A trip to the beach",
+        "D": "A swimming competition"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teks menceritakan perjalanan ke pantai."
+    },
+    {
+      "no": 41,
+      "soal": "The text below is for question 40 - 43.\n\nMy Trip to the Beach\n\nLast weekend, I went to the beach with my family. We left home early in the morning and brought some food, drinks, and beach toys. The weather was sunny and warm, perfect for a beach day. When we arrived, my brother and I built a big sandcastle. Then, we swam in the sea and played volleyball on the sand. My parents sat under an umbrella and took pictures of us. We had lunch together near the shore and watched the waves. It was a fun and relaxing day. I hope we can visit the beach again next holiday\n\nWhat does the word \"we\" in paragraph 1 refer to?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The writer and their friends",
+        "B": "The writer and their parents",
+        "C": "The writer and their family",
+        "D": "The writer and their teacher"
+      },
+      "jawaban": "C",
+      "penjelasan": "'We' merujuk pada penulis dan keluarganya ('I went to the beach with my family')."
+    },
+    {
+      "no": 42,
+      "soal": "The text below is for question 40 - 43.\n\nMy Trip to the Beach\n\nLast weekend, I went to the beach with my family. We left home early in the morning and brought some food, drinks, and beach toys. The weather was sunny and warm, perfect for a beach day. When we arrived, my brother and I built a big sandcastle. Then, we swam in the sea and played volleyball on the sand. My parents sat under an umbrella and took pictures of us. We had lunch together near the shore and watched the waves. It was a fun and relaxing day. I hope we can visit the beach again next holiday\n\nWhich of the following activities did the writer do at the beach?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Fishing and sunbathing",
+        "B": "Playing soccer and watching TV",
+        "C": "Building a sandcastle and swimming",
+        "D": "Reading books and sleeping"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis membuat istana pasir dan berenang."
+    },
+    {
+      "no": 43,
+      "soal": "The text below is for question 40 - 43.\n\nMy Trip to the Beach\n\nLast weekend, I went to the beach with my family. We left home early in the morning and brought some food, drinks, and beach toys. The weather was sunny and warm, perfect for a beach day. When we arrived, my brother and I built a big sandcastle. Then, we swam in the sea and played volleyball on the sand. My parents sat under an umbrella and took pictures of us. We had lunch together near the shore and watched the waves. It was a fun and relaxing day. I hope we can visit the beach again next holiday\n\nWhat can we conclude from the text?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Felt bored at the beach",
+        "B": "Didn't enjoy the trip",
+        "C": "Wants to go back to the beach",
+        "D": "Was sick after swimming"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis berharap bisa mengunjungi pantai lagi."
+    },
+    {
+      "no": 44,
+      "soal": "Read the text to answer the questions!\n\nDear Anna,\n\nWish you many happy returns of the day. May God bless you with health, wealth, and prosperity in your life.\n\nHAPPY BIRTHDAY\n\nLove,\nMeitha\n\nWhat does Meitha do for Anindya's birthday party?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She wishes her many happy returns of the day",
+        "B": "She gives her prosperity",
+        "C": "She shares her health",
+        "D": "She returns her love"
+      },
+      "jawaban": "A",
+      "penjelasan": "Meitha mengucapkan 'many happy returns of the day'. Catatan: di buku ada tulisan tangan pilihan E 'All above' yang bukan bagian cetakan, tidak dimasukkan. Nama penerima di surat adalah Anna, sedangkan soal menyebut Anindya (sesuai cetakan)."
+    },
+    {
+      "no": 45,
+      "soal": "Read the text to answer the questions!\n\nDear Anna,\n\nWish you many happy returns of the day. May God bless you with health, wealth, and prosperity in your life.\n\nHAPPY BIRTHDAY\n\nLove,\nMeitha\n\nWhat is the purpose of this text?",
+      "gambar": null,
+      "pilihan": {
+        "A": "To give warm wishes on someone's birthday",
+        "B": "To congratulate someone on her success",
+        "C": "To announce someone's birthday",
+        "D": "To entertain the readers"
+      },
+      "jawaban": "A",
+      "penjelasan": "Surat berisi ucapan selamat ulang tahun, tujuannya memberi ucapan hangat."
+    }
+  ]
+}

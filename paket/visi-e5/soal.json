@@ -1,0 +1,592 @@
+{
+  "judul": "VISI E5",
+  "deskripsi": "Latihan verbal dan bacaan bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, vocabulary, narrative text, surat, dan cloze text.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Swift = ...........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Generous",
+        "B": "Cheerful",
+        "C": "Selfish",
+        "D": "Quick"
+      },
+      "jawaban": "D",
+      "penjelasan": "Swift (cepat) bersinonim dengan quick."
+    },
+    {
+      "no": 2,
+      "soal": "Furious = .........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pleased",
+        "B": "Tiny",
+        "C": "Tired",
+        "D": "Angry"
+      },
+      "jawaban": "D",
+      "penjelasan": "Furious (sangat marah) bersinonim dengan angry."
+    },
+    {
+      "no": 3,
+      "soal": "Brief = .........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Long",
+        "B": "Late",
+        "C": "Restful",
+        "D": "Short"
+      },
+      "jawaban": "D",
+      "penjelasan": "Brief (singkat) bersinonim dengan short."
+    },
+    {
+      "no": 4,
+      "soal": "Purchase = .............",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sell",
+        "B": "Borrow",
+        "C": "Buy",
+        "D": "Waste"
+      },
+      "jawaban": "C",
+      "penjelasan": "Purchase (membeli) bersinonim dengan buy."
+    },
+    {
+      "no": 5,
+      "soal": "Omit = .......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Require",
+        "B": "Delete",
+        "C": "Add",
+        "D": "Decrease"
+      },
+      "jawaban": "B",
+      "penjelasan": "Omit (menghilangkan) bersinonim dengan delete."
+    },
+    {
+      "no": 6,
+      "soal": "Permit >< ............",
+      "gambar": null,
+      "pilihan": {
+        "A": "Allow",
+        "B": "Let",
+        "C": "Forbid",
+        "D": "Ignore"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata permit (mengizinkan) adalah forbid (melarang)."
+    },
+    {
+      "no": 7,
+      "soal": "Selfish >< ...............",
+      "gambar": null,
+      "pilihan": {
+        "A": "Greedy",
+        "B": "Generous",
+        "C": "Honest",
+        "D": "Dangerous"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata selfish (egois) adalah generous (dermawan)."
+    },
+    {
+      "no": 8,
+      "soal": "Fortune >< ............",
+      "gambar": null,
+      "pilihan": {
+        "A": "Annoy",
+        "B": "Forbid",
+        "C": "Bad luck",
+        "D": "Awful"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata fortune (keberuntungan) adalah bad luck (kesialan)."
+    },
+    {
+      "no": 9,
+      "soal": "Lovely >< .............",
+      "gambar": null,
+      "pilihan": {
+        "A": "Terrible",
+        "B": "Tiny",
+        "C": "Clear",
+        "D": "Pleasant"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata lovely (menyenangkan) adalah terrible (mengerikan)."
+    },
+    {
+      "no": 10,
+      "soal": "Natural >< ..........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Narrow",
+        "B": "Awful",
+        "C": "Nasty",
+        "D": "Artificial"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata natural (alami) adalah artificial (buatan)."
+    },
+    {
+      "no": 11,
+      "soal": "Bird is to wing as fish is to ..........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Trunk",
+        "B": "Beak",
+        "C": "Fin",
+        "D": "Scale"
+      },
+      "jawaban": "C",
+      "penjelasan": "Burung bergerak dengan sayap; ikan bergerak dengan sirip (fin)."
+    },
+    {
+      "no": 12,
+      "soal": "Circle is to sphere as square is to .......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Diamond",
+        "B": "Triangle",
+        "C": "Rectangle",
+        "D": "Cube"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lingkaran (2D) menjadi bola (3D); persegi (2D) menjadi kubus (3D)."
+    },
+    {
+      "no": 13,
+      "soal": "Oxygen is to respiration as glucose is to ..........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Immune",
+        "B": "Disease preventing",
+        "C": "Nutrients",
+        "D": "Energy"
+      },
+      "jawaban": "D",
+      "penjelasan": "Oksigen digunakan dalam respirasi; glukosa adalah sumber energi. Soal ini dapat ditafsirkan lain (C)."
+    },
+    {
+      "no": 14,
+      "soal": "Jungle is to monkey as desert is to ......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Camel",
+        "B": "Elephant",
+        "C": "Crocodile",
+        "D": "Wolf"
+      },
+      "jawaban": "A",
+      "penjelasan": "Monyet hidup di hutan; unta hidup di gurun."
+    },
+    {
+      "no": 15,
+      "soal": "Hunt is to lion as ............ is to cow.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Feed",
+        "B": "Chase",
+        "C": "Shoot",
+        "D": "Graze"
+      },
+      "jawaban": "D",
+      "penjelasan": "Singa berburu (hunt); sapi merumput (graze)."
+    },
+    {
+      "no": 16,
+      "soal": "The sun sets beautifully over the calm ocean.\nThe underlined word \"beautifully\" is ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Adjective",
+        "B": "Adverb",
+        "C": "Noun",
+        "D": "Verb"
+      },
+      "jawaban": "B",
+      "penjelasan": "Beautifully menerangkan kata kerja 'sets', jadi adverb."
+    },
+    {
+      "no": 17,
+      "soal": "I did not do that on purpose.\nThe underlined word \"on\" is ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Adjective",
+        "B": "Conjunction",
+        "C": "Noun",
+        "D": "Preposition"
+      },
+      "jawaban": "D",
+      "penjelasan": "'On' adalah preposisi pada frasa 'on purpose'."
+    },
+    {
+      "no": 18,
+      "soal": "She is nice enough if you keep your distance.\nThe underlined word \"distance\" is ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Adjective",
+        "B": "Noun",
+        "C": "Adverb",
+        "D": "Conjunction"
+      },
+      "jawaban": "B",
+      "penjelasan": "Distance (jarak) adalah kata benda, objek dari 'keep your'."
+    },
+    {
+      "no": 19,
+      "soal": "Go and ............ your piano-playing now.",
+      "gambar": null,
+      "pilihan": {
+        "A": "practice",
+        "B": "practices",
+        "C": "practiced",
+        "D": "practicing"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kalimat perintah setelah 'Go and' memakai kata kerja bentuk dasar: practice."
+    },
+    {
+      "no": 20,
+      "soal": "As he was walking across the field, Rama spotted a small puppy tied to a post.\nThe underlined word \"As\" is a ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Preposition",
+        "B": "Verb",
+        "C": "Adverb",
+        "D": "Conjunction"
+      },
+      "jawaban": "D",
+      "penjelasan": "'As' menghubungkan dua klausa (waktu), jadi conjunction."
+    },
+    {
+      "no": 21,
+      "soal": "All mammals have lungs. A whale is a mammal, therefore ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "A whale does not have lungs",
+        "B": "A whale has lungs",
+        "C": "A whale is a fish",
+        "D": "Fish has lungs"
+      },
+      "jawaban": "B",
+      "penjelasan": "Paus adalah mamalia, dan semua mamalia punya paru-paru."
+    },
+    {
+      "no": 22,
+      "soal": "All fruits have seeds. A tomato is a fruit, therefore .......",
+      "gambar": null,
+      "pilihan": {
+        "A": "A tomato does not have seeds.",
+        "B": "A tomato is not a fruit.",
+        "C": "A tomato has seeds",
+        "D": "A tomato is vegetable"
+      },
+      "jawaban": "C",
+      "penjelasan": "Tomat adalah buah, dan semua buah punya biji."
+    },
+    {
+      "no": 23,
+      "soal": "All suspects who had access to the safe are employees. Jhon is not an employee. Therefore .......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jhon had access to the safe.",
+        "B": "Jhon is an employee",
+        "C": "Jhon did not have access to the safe",
+        "D": "Jhon is an employee but didn't have access to the safe"
+      },
+      "jawaban": "C",
+      "penjelasan": "Yang punya akses semuanya karyawan; Jhon bukan karyawan, jadi ia tidak punya akses."
+    },
+    {
+      "no": 24,
+      "soal": "No reptiles have fur. A snake is a reptile. Therefore ........",
+      "gambar": null,
+      "pilihan": {
+        "A": "A snake has fur",
+        "B": "A snake does not have fur",
+        "C": "A snake is not a reptile",
+        "D": "Snake is reptile, so it has fur"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tidak ada reptil berbulu dan ular adalah reptil, jadi ular tidak berbulu."
+    },
+    {
+      "no": 25,
+      "soal": "Every time I eat peanuts, my throat swells up, therefore .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "I must be allergic to peanut",
+        "B": "I dislike peanut",
+        "C": "My throat does not swell up because of peanut",
+        "D": "Peanut is good for my throat"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kesimpulan paling masuk akal dari pola sebab-akibat tersebut adalah alergi kacang."
+    },
+    {
+      "no": 26,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Assignment",
+        "B": "Task",
+        "C": "Homework",
+        "D": "Operation"
+      },
+      "jawaban": "D",
+      "penjelasan": "Assignment, task, dan homework bermakna tugas; operation berarti operasi."
+    },
+    {
+      "no": 27,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Quiz",
+        "B": "Challenge",
+        "C": "Puzzle",
+        "D": "Test"
+      },
+      "jawaban": "D",
+      "penjelasan": "Quiz, challenge, dan puzzle berbentuk permainan/tantangan; test adalah ujian formal. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 28,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Probably",
+        "B": "Error",
+        "C": "Mistake",
+        "D": "Fault"
+      },
+      "jawaban": "A",
+      "penjelasan": "Error, mistake, dan fault bermakna kesalahan; probably (mungkin) adalah kata keterangan."
+    },
+    {
+      "no": 29,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Seldom",
+        "B": "Usual",
+        "C": "Common",
+        "D": "Ordinary"
+      },
+      "jawaban": "A",
+      "penjelasan": "Usual, common, dan ordinary bermakna biasa; seldom berarti jarang."
+    },
+    {
+      "no": 30,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Triumph",
+        "B": "Victory",
+        "C": "Win",
+        "D": "Defeat"
+      },
+      "jawaban": "D",
+      "penjelasan": "Triumph, victory, dan win bermakna kemenangan; defeat berarti kekalahan."
+    },
+    {
+      "no": 31,
+      "soal": "She felt elated after hearing the good news.\nThe underlined word \"elated\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "angry",
+        "B": "joyful",
+        "C": "sad",
+        "D": "bored"
+      },
+      "jawaban": "B",
+      "penjelasan": "Elated (sangat gembira) bermakna joyful."
+    },
+    {
+      "no": 32,
+      "soal": "The ancient ruins attracted many tourists.\nThe underlined word \"ancient\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "modern",
+        "B": "old",
+        "C": "strange",
+        "D": "new"
+      },
+      "jawaban": "B",
+      "penjelasan": "Ancient (kuno) bermakna old."
+    },
+    {
+      "no": 33,
+      "soal": "They tried to resolve the issue quickly.\nThe underlined word \"resolve\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "ignored",
+        "B": "solve",
+        "C": "create",
+        "D": "worsen"
+      },
+      "jawaban": "B",
+      "penjelasan": "Resolve (menyelesaikan) bermakna solve."
+    },
+    {
+      "no": 34,
+      "soal": "The new policy will enhance the company's reputation.\nThe underlined word \"enhance\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "reduce",
+        "B": "improve",
+        "C": "ignore",
+        "D": "complicate"
+      },
+      "jawaban": "B",
+      "penjelasan": "Enhance (meningkatkan) bermakna improve."
+    },
+    {
+      "no": 35,
+      "soal": "She is known for her generosity toward in need.\nThe underlined word \"generosity\" means ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "kindness",
+        "B": "wealth",
+        "C": "anger",
+        "D": "strictness"
+      },
+      "jawaban": "A",
+      "penjelasan": "Generosity (kedermawanan) bermakna kindness."
+    },
+    {
+      "no": 36,
+      "soal": "Read the following text to answer the questions!\n\nOne afternoon, a Lion had just finished his meal and decided to take his afternoon nap. The Lion had just closed his eyes, when a Gnat saw him.\nNow, this Gnat, though active and young, was also haughty and overconfident. He was extremely daring, and he attacked the Lion. The Lion was very angry and woke up with a start, but the Gnat did not stop. He kept stinging the Lion's nose, eyes and ears. The Lion roared in pain. He tried to crush the Gnat but all his attempts went in vain. The Gnat had no pity on the poor beast.\nAt last, the poor Lion was exhausted and bleeding on the ground. The Gnat, extremely pleased on his victory over the King of the Forest, hovered over the spot, praising himself and feeling joyful. His pleasure blinded him so much, that while flying, he suddenly got stuck in a Spider-web. No matter how much he tried, the Gnat could not escape.\nThus, the Gnat who had defeated the mighty Lion became the prey of the Spider.\n\nWhat is the story above about?",
+      "gambar": null,
+      "pilihan": {
+        "A": "A lion.",
+        "B": "A spider.",
+        "C": "A gnat.",
+        "D": "A lion and a gnat."
+      },
+      "jawaban": "C",
+      "penjelasan": "Tokoh utama cerita adalah nyamuk kecil (gnat): kesombongannya, kemenangannya, hingga ia terperangkap sarang laba-laba. Soal ini dapat ditafsirkan lain (D)."
+    },
+    {
+      "no": 37,
+      "soal": "Read the following text to answer the questions!\n\nOne afternoon, a Lion had just finished his meal and decided to take his afternoon nap. The Lion had just closed his eyes, when a Gnat saw him.\nNow, this Gnat, though active and young, was also haughty and overconfident. He was extremely daring, and he attacked the Lion. The Lion was very angry and woke up with a start, but the Gnat did not stop. He kept stinging the Lion's nose, eyes and ears. The Lion roared in pain. He tried to crush the Gnat but all his attempts went in vain. The Gnat had no pity on the poor beast.\nAt last, the poor Lion was exhausted and bleeding on the ground. The Gnat, extremely pleased on his victory over the King of the Forest, hovered over the spot, praising himself and feeling joyful. His pleasure blinded him so much, that while flying, he suddenly got stuck in a Spider-web. No matter how much he tried, the Gnat could not escape.\nThus, the Gnat who had defeated the mighty Lion became the prey of the Spider.\n\nFrom the text we can conclude that ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "The Gnat felt pity to the lion",
+        "B": "The lion was humble and kind-hearted.",
+        "C": "The Gnat became the prey of the spider",
+        "D": "The Gnat was daring to defeat the spider."
+      },
+      "jawaban": "C",
+      "penjelasan": "Di akhir cerita nyamuk terjebak dan menjadi mangsa laba-laba."
+    },
+    {
+      "no": 38,
+      "soal": "Read the following text to answer the questions!\n\nOnce two friends were walking through the forest. They knew that anything dangerous can happen to them at any time in the forest. So, they promised each other that they would remain united in any case of danger.\nSuddenly, they saw a large bear approaching them. One of the friends at once climbed a nearby tree. But the other one did not know how to climb. So being led by his common sense, he lay down on the ground breathless, pretending to be a dead man.\nThe bear came near the man lying on the ground. It smelt in his ears and slowly left the place. Because the bears did not touch the dead creatures, the friend on the tree came down and asked his friend on the ground, \"Friend, what did the bear tell you into your ears?\" The other friend replied, \"The bear advised me not to believe a false friend.\"\n\nThe word \"pretending\" in paragraph 2 means ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "make as if",
+        "B": "imitate",
+        "C": "mock",
+        "D": "fool"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pretending (berpura-pura) bermakna make as if."
+    },
+    {
+      "no": 39,
+      "soal": "Read the following text to answer the questions!\n\nOnce two friends were walking through the forest. They knew that anything dangerous can happen to them at any time in the forest. So, they promised each other that they would remain united in any case of danger.\nSuddenly, they saw a large bear approaching them. One of the friends at once climbed a nearby tree. But the other one did not know how to climb. So being led by his common sense, he lay down on the ground breathless, pretending to be a dead man.\nThe bear came near the man lying on the ground. It smelt in his ears and slowly left the place. Because the bears did not touch the dead creatures, the friend on the tree came down and asked his friend on the ground, \"Friend, what did the bear tell you into your ears?\" The other friend replied, \"The bear advised me not to believe a false friend.\"\n\nFrom the text we can learn that ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "We must be patient to face our life",
+        "B": "When there is a will there is a way",
+        "C": "Helping each other is the best way in our life",
+        "D": "True friend is one who always stands by you in any situation."
+      },
+      "jawaban": "D",
+      "penjelasan": "Satu teman meninggalkan temannya saat bahaya; pelajarannya, sahabat sejati selalu mendampingi dalam situasi apa pun."
+    },
+    {
+      "no": 40,
+      "soal": "Read the following text to answer the questions!\n\nHello Pat,\n\nThanks for your last letter. I hope you are fine. I'm writing to you from London where I'm spending my summer holidays with my sister Anna. I'm absolutely fascinated by the city, it's awesome! As you know, London is the capital city of England and it's on the River Thames. Anna and I are staying in a nice youth hostel, very close to the city center.\nOn the first day of out stay here, we spent a fortune on the flight on the famous London Eye. In only 30 minutes we saw more than fifty London's most famous landmarks The London Eye, which is the symbol of the city is the biggest observation wheel worldwide. After the flight, Anna and I went to watch Changing the Guard, which takes place inside the railings of Buckingham Palace. The Queen's Guard is always accompanied by a band and the ceremony lasts 45 minutes. It was amazing! Next, we took some photos of the Houses of Parliament, of Big Ben and of Westminster Abbey. And we had a nice walk along the riverside in the evening. I was mesmerized by London by night. That's all from me now.\n\nLoads of love\nElin.\n\nFrom the text we can conclude that ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "The writer's summer holiday with her brother",
+        "B": "The writer's experience in Buckingham Palace",
+        "C": "The writer was fascinated on the River Thames",
+        "D": "The writer's summer holiday in London was really fascinating."
+      },
+      "jawaban": "D",
+      "penjelasan": "Penulis berlibur di London bersama kakak/adik perempuannya dan terpukau oleh kota itu."
+    },
+    {
+      "no": 41,
+      "soal": "I was mesmerized by London by night.\nThe underlined word \"mesmerized\" means ..........",
+      "gambar": null,
+      "pilihan": {
+        "A": "amazed",
+        "B": "shocked",
+        "C": "surprised",
+        "D": "bored"
+      },
+      "jawaban": "A",
+      "penjelasan": "Mesmerized (terpukau) bermakna amazed."
+    },
+    {
+      "no": 42,
+      "soal": "Read the following text to answer the questions!\n\nDear Mark,\n\nThank you for your letter. I'm very happy to hear that you're planning to come to Japan. There are some nice places to...... (42) around my hometown. There's a beautiful lake called \"Towada-Ko\". This is Japan's deepest and... (43) lake, and there are beautiful forests all around it. Perhaps.......(44) can go camping together. It's sometimes cool in the evenings here... (45) we're in the northern part of Japan, so don't forget to bring a jacket, warm clothes, and some good shoes.\n\nI'm very much looking forward to seeing you. Enjoy your flight.\n\nFrom your good friend,\nYoshi\n\n42. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "see",
+        "B": "go",
+        "C": "visit",
+        "D": "take"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Places to visit around my hometown' adalah kolokasi yang paling wajar. Soal ini dapat ditafsirkan lain (see)."
+    },
+    {
+      "no": 43,
+      "soal": "Read the following text to answer the questions!\n\nDear Mark,\n\nThank you for your letter. I'm very happy to hear that you're planning to come to Japan. There are some nice places to...... (42) around my hometown. There's a beautiful lake called \"Towada-Ko\". This is Japan's deepest and... (43) lake, and there are beautiful forests all around it. Perhaps.......(44) can go camping together. It's sometimes cool in the evenings here... (45) we're in the northern part of Japan, so don't forget to bring a jacket, warm clothes, and some good shoes.\n\nI'm very much looking forward to seeing you. Enjoy your flight.\n\nFrom your good friend,\nYoshi\n\n43. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "beautiful",
+        "B": "awesome",
+        "C": "scariest",
+        "D": "prettiest"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pola superlatif paralel: 'Japan's deepest and prettiest lake'."
+    },
+    {
+      "no": 44,
+      "soal": "Read the following text to answer the questions!\n\nDear Mark,\n\nThank you for your letter. I'm very happy to hear that you're planning to come to Japan. There are some nice places to...... (42) around my hometown. There's a beautiful lake called \"Towada-Ko\". This is Japan's deepest and... (43) lake, and there are beautiful forests all around it. Perhaps.......(44) can go camping together. It's sometimes cool in the evenings here... (45) we're in the northern part of Japan, so don't forget to bring a jacket, warm clothes, and some good shoes.\n\nI'm very much looking forward to seeing you. Enjoy your flight.\n\nFrom your good friend,\nYoshi\n\n44. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "he",
+        "B": "you",
+        "C": "we",
+        "D": "they"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Perhaps we can go camping together' (ajakan, penulis dan Mark)."
+    },
+    {
+      "no": 45,
+      "soal": "Read the following text to answer the questions!\n\nDear Mark,\n\nThank you for your letter. I'm very happy to hear that you're planning to come to Japan. There are some nice places to...... (42) around my hometown. There's a beautiful lake called \"Towada-Ko\". This is Japan's deepest and... (43) lake, and there are beautiful forests all around it. Perhaps.......(44) can go camping together. It's sometimes cool in the evenings here... (45) we're in the northern part of Japan, so don't forget to bring a jacket, warm clothes, and some good shoes.\n\nI'm very much looking forward to seeing you. Enjoy your flight.\n\nFrom your good friend,\nYoshi\n\n45. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "because",
+        "B": "and",
+        "C": "however",
+        "D": "but"
+      },
+      "jawaban": "A",
+      "penjelasan": "Bagian kedua kalimat adalah alasan cuaca dingin, jadi 'because'."
+    }
+  ]
+}
