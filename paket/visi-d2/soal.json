@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D2",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal, kata beda, dan pemahaman bacaan.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Mumpuni = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lambat",
+        "B": "Terbelakang",
+        "C": "Tumbuh",
+        "D": "Mahir"
+      },
+      "jawaban": "D",
+      "penjelasan": "Mumpuni berarti mampu atau cakap, sepadan dengan mahir."
+    },
+    {
+      "no": 2,
+      "soal": "Abadi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Susah",
+        "B": "Sejahtera",
+        "C": "Kekal",
+        "D": "Nikmat"
+      },
+      "jawaban": "C",
+      "penjelasan": "Abadi berarti kekal, tidak berakhir."
+    },
+    {
+      "no": 3,
+      "soal": "Rendah = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tinggi",
+        "B": "Bawah",
+        "C": "Cukup",
+        "D": "Hina"
+      },
+      "jawaban": "D",
+      "penjelasan": "Rendah dalam arti martabat atau derajat bersinonim dengan hina."
+    },
+    {
+      "no": 4,
+      "soal": "Karib = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jauh",
+        "B": "Dekat",
+        "C": "Asing",
+        "D": "Tidak dikenal"
+      },
+      "jawaban": "B",
+      "penjelasan": "Karib berarti dekat (akrab)."
+    },
+    {
+      "no": 5,
+      "soal": "Sulit = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gampang",
+        "B": "Sederhana",
+        "C": "Rumit",
+        "D": "Mudah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sulit bersinonim dengan rumit."
+    },
+    {
+      "no": 6,
+      "soal": "Alternatif = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Prosedur",
+        "B": "Prinsip dasar",
+        "C": "Pilihan",
+        "D": "Pedoman"
+      },
+      "jawaban": "C",
+      "penjelasan": "Alternatif berarti pilihan."
+    },
+    {
+      "no": 7,
+      "soal": "Setia = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak tetap",
+        "B": "Teguh",
+        "C": "Bingung",
+        "D": "Suka"
+      },
+      "jawaban": "B",
+      "penjelasan": "Setia berarti teguh pada janji atau pendirian."
+    },
+    {
+      "no": 8,
+      "soal": "Merdeka = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Situasi terikat",
+        "B": "Tuntutan",
+        "C": "Bebas",
+        "D": "Bahagia"
+      },
+      "jawaban": "C",
+      "penjelasan": "Merdeka berarti bebas."
+    },
+    {
+      "no": 9,
+      "soal": "Bermain = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bekerja",
+        "B": "Menghibur",
+        "C": "Beristirahat",
+        "D": "Bersenang-senang"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bermain berarti bersenang-senang."
+    },
+    {
+      "no": 10,
+      "soal": "Beban = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Muatan",
+        "B": "Bebas",
+        "C": "Memilih",
+        "D": "Erat"
+      },
+      "jawaban": "A",
+      "penjelasan": "Beban bersinonim dengan muatan."
+    },
+    {
+      "no": 11,
+      "soal": "Bising >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ramai",
+        "B": "Sunyi",
+        "C": "Hiruk",
+        "D": "Riuh"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata bising adalah sunyi."
+    },
+    {
+      "no": 12,
+      "soal": "Tersedia >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tersebar",
+        "B": "Terpenuhi",
+        "C": "Lengkap",
+        "D": "Ludes"
+      },
+      "jawaban": "D",
+      "penjelasan": "Tersedia (ada) berlawanan dengan ludes (habis)."
+    },
+    {
+      "no": 13,
+      "soal": "Tajam >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Runcing",
+        "B": "Keras",
+        "C": "Tumpul",
+        "D": "Lunak"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata tajam adalah tumpul."
+    },
+    {
+      "no": 14,
+      "soal": "Ramah >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baik",
+        "B": "Kasar",
+        "C": "Pembohong",
+        "D": "Menawan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata ramah adalah kasar."
+    },
+    {
+      "no": 15,
+      "soal": "Mendaki >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Naik",
+        "B": "Menurun",
+        "C": "Meluncur",
+        "D": "Berjalan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata mendaki adalah menurun."
+    },
+    {
+      "no": 16,
+      "soal": "Bunga : Taman = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sayur : Kedai",
+        "B": "Pohon : Hutan",
+        "C": "Sawah : Padi",
+        "D": "Ladang : Petani"
+      },
+      "jawaban": "B",
+      "penjelasan": "Bunga ada di taman, seperti pohon ada di hutan (bagian : tempat)."
+    },
+    {
+      "no": 17,
+      "soal": "Sepeda : Roda = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rumah : Pintu",
+        "B": "Meja : Kaki",
+        "C": "Buku : Halaman",
+        "D": "Kursi : Sandaran"
+      },
+      "jawaban": "B",
+      "penjelasan": "Roda adalah bagian penopang sepeda, seperti kaki adalah bagian penopang meja (keseluruhan : bagian penopang). Pilihan lain juga berpola keseluruhan : bagian, jadi soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 18,
+      "soal": "Angin : Kincir = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Air : Kendi",
+        "B": "Matahari : Suhu",
+        "C": "Tanah : Air",
+        "D": "Api : Lilin"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kincir bekerja karena angin, seperti lilin menyala karena api (sumber : benda yang bekerja dengannya). Hubungan pasangan ini kurang tegas."
+    },
+    {
+      "no": 19,
+      "soal": "Menggambar : Pensil = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Memasak : Garam",
+        "B": "Mengemudi : Kunci",
+        "C": "Menulis : Pena",
+        "D": "Menari : Seni"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pensil alat untuk menggambar, pena alat untuk menulis (kegiatan : alat)."
+    },
+    {
+      "no": 20,
+      "soal": "Gelombang : Ombak = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berenang : Berlari",
+        "B": "Gunung : Bukit",
+        "C": "Danau : Laut",
+        "D": "Pulau : Benua"
+      },
+      "jawaban": "B",
+      "penjelasan": "Ombak adalah gelombang laut yang lebih kecil; padanannya gunung : bukit (yang besar : yang lebih kecil). Hubungan pasangan ini kurang tegas."
+    },
+    {
+      "no": 21,
+      "soal": "Kosong : Hampa = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Panas : Dingin",
+        "B": "Bising : Haru",
+        "C": "Siang : Malam",
+        "D": "Cair : Encer"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kosong dan hampa bersinonim; cair dan encer juga bersinonim."
+    },
+    {
+      "no": 22,
+      "soal": "Teller : Bank = Pramuniaga : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sekolah",
+        "B": "Pos",
+        "C": "Toko",
+        "D": "Dapur"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teller bekerja di bank, pramuniaga bekerja di toko."
+    },
+    {
+      "no": 23,
+      "soal": "Gunting : Kertas = … : Kayu",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pensil",
+        "B": "Rotan",
+        "C": "Gergaji",
+        "D": "Rumah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Gunting alat memotong kertas, gergaji alat memotong kayu."
+    },
+    {
+      "no": 24,
+      "soal": "Ulat : Kepompong : Kupu-kupu = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mei : Juni : Agustus",
+        "B": "Murid : Guru : Sekolah",
+        "C": "Bayi : Balita : Anak-anak",
+        "D": "Direktur : Karyawan : Perusahaan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Ulat, kepompong, kupu-kupu adalah tahap pertumbuhan berurutan; bayi, balita, anak-anak juga tahap pertumbuhan."
+    },
+    {
+      "no": 25,
+      "soal": "Sifat : Baik : Jahat = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pedagang : Pembeli : Pasar",
+        "B": "Nasihat : Teka-teki : Pantun",
+        "C": "Buah : Pepaya : Sawi",
+        "D": "Belok : Kiri : Kanan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Sifat punya dua jenis yang berlawanan (baik, jahat); belok punya dua arah yang berlawanan (kiri, kanan)."
+    },
+    {
+      "no": 26,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kambing",
+        "B": "Kucing",
+        "C": "Kerbau",
+        "D": "Kuda"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kambing, kerbau, dan kuda adalah pemakan tumbuhan (herbivora); kucing pemakan daging."
+    },
+    {
+      "no": 27,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kunyit",
+        "B": "Jahe",
+        "C": "Lengkuas",
+        "D": "Cengkeh"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kunyit, jahe, dan lengkuas adalah rimpang; cengkeh adalah bunga (kuncup bunga)."
+    },
+    {
+      "no": 28,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kasur",
+        "B": "Bantal",
+        "C": "Lemari",
+        "D": "Selimut"
+      },
+      "jawaban": "C",
+      "penjelasan": "Kasur, bantal, dan selimut adalah perlengkapan tidur; lemari adalah tempat menyimpan."
+    },
+    {
+      "no": 29,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Borobudur",
+        "B": "Monas",
+        "C": "Pencak Silat",
+        "D": "Karate"
+      },
+      "jawaban": "D",
+      "penjelasan": "Borobudur, Monas, dan pencak silat adalah warisan atau lambang Indonesia; karate berasal dari Jepang."
+    },
+    {
+      "no": 30,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Irlandia",
+        "B": "Irak",
+        "C": "India",
+        "D": "Indonesia"
+      },
+      "jawaban": "A",
+      "penjelasan": "Irak, India, dan Indonesia terletak di Asia; Irlandia terletak di Eropa."
+    },
+    {
+      "no": 31,
+      "soal": "Semua calon pegawai wajib mengikuti tes. Sebagian calon pegawai memiliki pengalaman. Kesimpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sebagian yang mengikuti seleksi calon pegawai adalah orang yang berpengalaman.",
+        "B": "Sebagian orang yang berpengalaman tidak berangkat seleksi calon pegawai.",
+        "C": "Sebagian orang yang berpengalaman tidak minat mengikuti seleksi calon pegawai.",
+        "D": "Sebagian calon pegawai tidak berangkat mengikuti seleksi."
+      },
+      "jawaban": "A",
+      "penjelasan": "Karena semua calon pegawai ikut tes, calon pegawai yang berpengalaman pasti ikut tes, jadi sebagian peserta seleksi berpengalaman."
+    },
+    {
+      "no": 32,
+      "soal": "Semua seniman memiliki lukisan yang bagus. Sebagian artis adalah seniman. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sebagian seniman memiliki lukisan yang tidak bagus.",
+        "B": "Sebagian artis memiliki lukisan yang bagus.",
+        "C": "Sebagian artis tidak bisa menjadi artis.",
+        "D": "Sebagian artis tidak mau menjadi seniman karena lukisannya tidak bagus."
+      },
+      "jawaban": "B",
+      "penjelasan": "Artis yang menjadi seniman pasti memiliki lukisan yang bagus, jadi sebagian artis memiliki lukisan yang bagus."
+    },
+    {
+      "no": 33,
+      "soal": "Semua kendaraan di parkiran ini adalah mobil. Beberapa kendaraan yang ada di parkiran ini adalah sedan. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua kendaraan di parkiran ini adalah sedan.",
+        "B": "Beberapa kendaraan di parkiran ini adalah sedan.",
+        "C": "Tidak ada kendaraan di parkiran ini yang berupa mobil.",
+        "D": "Semua sedan adalah kendaraan di parkiran ini."
+      },
+      "jawaban": "B",
+      "penjelasan": "Pernyataan kedua langsung menyatakan beberapa kendaraan adalah sedan; pilihan lain tidak mengikuti premis."
+    },
+    {
+      "no": 34,
+      "soal": "Lima orang pelajar yaitu Kirana, Raina, Melisa, Andini, dan Natalia bersama-sama berangkat ke gedung teater untuk menonton pertunjukan. Jika Kirana tidak ingin bersebelahan dengan Raina, begitu juga dengan Natalia tidak ingin bersebelahan dengan Melisa, maka kemungkinan posisi tempat duduk mereka dalam satu deretan adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kirana – Melisa – Natalia – Raina – Andini",
+        "B": "Andini – Raina – Melisa – Kirana – Natalia",
+        "C": "Raina – Andini – Natalia – Melisa – Kirana",
+        "D": "Natalia - Kirana – Raina – Melisa – Andini"
+      },
+      "jawaban": "B",
+      "penjelasan": "Hanya pilihan B yang tidak menempatkan Kirana di samping Raina dan Natalia di samping Melisa; A, C, dan D melanggar salah satunya."
+    },
+    {
+      "no": 35,
+      "soal": "Bayu dan Luna menyukai bola voli, sedangkan Tania dan Ferdi menyukai bola basket. Luna dan Tania suka memakai gelang, sedangkan Bayu dan Ferdi suka memakai topi. Siapakah yang mungkin kehilangan gelang ketika bermain voli? …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tania",
+        "B": "Bayu",
+        "C": "Luna",
+        "D": "Ferdi"
+      },
+      "jawaban": "C",
+      "penjelasan": "Yang suka voli dan memakai gelang adalah Luna."
+    },
+    {
+      "no": 36,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cahaya",
+        "B": "Bulan",
+        "C": "Bintang",
+        "D": "Terang"
+      },
+      "jawaban": "D",
+      "penjelasan": "Cahaya, bulan, dan bintang adalah kata benda; terang adalah kata sifat."
+    },
+    {
+      "no": 37,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Di",
+        "B": "Ke",
+        "C": "Tetapi",
+        "D": "Dari"
+      },
+      "jawaban": "C",
+      "penjelasan": "Di, ke, dan dari adalah kata depan (preposisi); tetapi adalah kata sambung (konjungsi)."
+    },
+    {
+      "no": 38,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Marah",
+        "B": "Gemar",
+        "C": "Acuh",
+        "D": "Kecewa"
+      },
+      "jawaban": "C",
+      "penjelasan": "Marah, gemar, dan kecewa adalah kata sifat (perasaan); acuh adalah kata kerja dalam KBBI (artinya peduli). Soal ini bergantung pada kelas kata menurut KBBI."
+    },
+    {
+      "no": 39,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Main",
+        "B": "Cari",
+        "C": "Makam",
+        "D": "Pegang"
+      },
+      "jawaban": "C",
+      "penjelasan": "Main, cari, dan pegang adalah kata kerja; makam adalah kata benda."
+    },
+    {
+      "no": 40,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ikan",
+        "B": "Sapu",
+        "C": "Tulis",
+        "D": "Lampu"
+      },
+      "jawaban": "C",
+      "penjelasan": "Ikan, sapu, dan lampu adalah kata benda; tulis adalah kata kerja."
+    },
+    {
+      "no": 41,
+      "soal": "Bacalah kutipan teks berikut!\n\n(1) Penyakit strok merupakan salah satu penyakit paling mematikan di Indonesia. (2) Strok terjadi karena adanya gangguan fungsi saraf dan pendarahan pembuluh otak secara mendadak, cepat, dan bisa bertambah parah. (3) Gejala yang ditimbulkan dari penyakit ini adalah kelumpuhan wajah dan anggota badan; bicara tidak lancar dan tidak jelas; serta sulit bergerak leluasa. (4) Maka dari itu, menjaga pola hidup sehat dan melakukan pemeriksaan rutin sangat penting untuk memastikan kondisi tubuh tetap sehat.\n\nKalimat utama teks tersebut terdapat pada kalimat …",
+      "gambar": null,
+      "pilihan": {
+        "A": "(4)",
+        "B": "(3)",
+        "C": "(2)",
+        "D": "(1)"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kalimat (1) memuat gagasan pokok (strok penyakit paling mematikan); kalimat lain menjelaskan sebab, gejala, dan pencegahan."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah kutipan teks berikut!\n\nTindakan bullying atau perundungan merupakan penggunaan kekuasaan ataupun kekuatan untuk menyakiti seseorang atau sekelompok orang. Bullying juga merupakan perilaku mengancam, menindas, serta membuat perasaan orang lain tidak nyaman. Korban bullying biasanya akan merasakan macam-macam emosi negatif, misalnya takut, malu, sedih, marah, dendam, dan merasa terancam. Namun, korban tidak bisa melawan tindakan tersebut. Jika bullying terus terjadi dalam jangka panjang, perasaan rendah diri dan tidak berharga bisa dirasakan oleh korban. Bahkan korban ada yang merasa ketakutan, depresi, hingga berujung bunuh diri.\n\nRingkasan teks di atas yang paling tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bullying adalah tindakan menggunakan kekuasaan untuk menyakiti orang lain yang berdampak negatif bagi korban.",
+        "B": "Bullying bisa menimbulkan dampak negatif bagi korban, seperti ketakutan, depresi, dan bunuh diri.",
+        "C": "Bullying dapat dicegah dengan cara tidak menggunakan kekuatan agar orang lain tidak tersakiti.",
+        "D": "Tindakan bullying bisa menjadi tindakan meresahkan karena membuat korbannya tidak nyaman."
+      },
+      "jawaban": "A",
+      "penjelasan": "Teks membahas pengertian bullying dan dampaknya; pilihan A merangkum keduanya, sedangkan B hanya dampak dan C bukan isi teks."
+    },
+    {
+      "no": 43,
+      "soal": "Bacalah formulir pendaftaran berikut!\n\nFormulir Pendaftaran Anggota Perpustakaan\nNama : Rina\nTempat, tanggal Lahir : Jakarta, 12 Juni 2013\nNomor telepon : 08888121879\nNama sekolah : SD Visi Barito\nKelas : 4B\n\nInformasi yang sesuai dengan isi formulir tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rina lahir di Bandung pada 12 Juni 2013.",
+        "B": "Rina tinggal di Jl. Merdeka No.45, Jakarta.",
+        "C": "Rina adalah siswa kelas 5 SD Visi Barito.",
+        "D": "Nomor telepon Rina adalah 08888121879."
+      },
+      "jawaban": "D",
+      "penjelasan": "Nomor telepon pada formulir 08888121879 sama dengan pilihan D; lahir di Jakarta (bukan Bandung), kelas 4B (bukan 5), dan alamat tidak tercantum."
+    },
+    {
+      "no": 44,
+      "soal": "Bacalah kutipan teks berikut!\n\nSetelah sarapan, dengan malas saya keluar rumah dan duduk di beranda. Barangkali seperti agen minyak tanah yang siap menyambut para pembeli, saya menyiapkan kertas dan alat tulis. Hari baru membuka matanya, bahkan matahari masih bergelut dengan kasurnya.\n\nMakna simbol matahari masih bergelut dengan kasurnya dalam kutipan teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Senja",
+        "B": "Sore",
+        "C": "Malam",
+        "D": "Pagi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Hari baru dimulai dan tokoh baru selesai sarapan; matahari yang masih bergelut dengan kasurnya melambangkan pagi hari."
+    },
+    {
+      "no": 45,
+      "soal": "Bacalah kutipan pidato berikut!\n\nHadirin yang berbahagia, demikian pidato peringatan Hari Sumpah Pemuda kali ini. Semoga tekad dan perjuangan kita diridai oleh Tuhan Yang Maha Esa.\n\nKalimat pembuka yang tepat untuk mengawali pidato tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pertama-tama marilah kita ucapkan terima kasih telah hadir pada acara Hari Sumpah Pemuda.",
+        "B": "Pertama-tama marilah kita panjatkan puji syukur kepada Tuhan Yang Maha Esa atas karuniaNya sehingga kita dapat berkumpul di sini untuk memperingati Hari Sumpah Pemuda.",
+        "C": "Pertama-tama saya ingin mengucapkan terima kasih atas kehadirannya untuk memperingati Hari Sumpah Pemuda.",
+        "D": "Mari kita panjatkan puji dan syukur telah berkumpul hari ini untuk memperingati Hari Sumpah Pemuda."
+      },
+      "jawaban": "B",
+      "penjelasan": "Pidato resmi dibuka dengan puji syukur kepada Tuhan, selaras dengan penutup yang menyebut Tuhan Yang Maha Esa, dan dengan kalimat baku yang lengkap. Pilihan D tidak baku (kurang kata sambung)."
+    },
+    {
+      "no": 46,
+      "soal": "Bacalah teks biografi berikut!\n\nAdisucipto lahir tanggal 4 Juli 1916 di Salatiga. Ia dikenal sebagai Bapak Penerbang Pertama dan namanya diabadikan sebagai nama bandara di Yogyakarta. Sebagai seorang siswa, Adisucipto dikenal cerdas dengan nilai sangat memuaskan. Adisucipto adalah satu-satunya orang Indonesia yang mendapat brevet penerbang kelas atas saat itu.\n\nSetelah kemerdekaan, kondisi angkatan udara sangat memprihatinkan. Tidak ada pilot, pesawat, dan dana. Hanya ada beberapa pesawat tua peninggalan Jepang. Tetapi Adisucipto tetap nekat dan berhasil menerbangkan pesawat tersebut dengan maksud memompa semangat juang rakyat. Tanggal 1 Desember 1945 Adisucipto dan Suryadarma mendirikan sekolah penerbang. Dengan situasi serba kekurangan, ia merangkap sebagai instruktur dan dosen dengan bermodal pesawat tua.\n\nSikap yang dapat diteladani dari tokoh tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemberani dan pantang menyerah",
+        "B": "Tekun dan rela berkorban",
+        "C": "Nekat dan pemberani",
+        "D": "Cerdas dan tekun"
+      },
+      "jawaban": "A",
+      "penjelasan": "Meski serba kekurangan, ia berani menerbangkan pesawat tua dan tetap mendirikan sekolah penerbang. Sikap nekat kurang layak diteladani, sehingga A paling tepat. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 47,
+      "soal": "Bacalah teks laporan pengamatan berikut!\n\nLina dan teman-temannya mendapat tugas dari gurunya untuk melakukan pengamatan terhadap perkembangbiakkan tumbuhan di taman sekolah. Lina pun mengamati tumbuhan-tumbuhan yang ada di sana. Lina dan teman-temannya memilih pohon jambu untuk diamati.\n\nObjek pengamatan berdasarkan teks di atas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pengamatan Tumbuhan di Taman Sekolah",
+        "B": "Kamis, 5 Juni 2025",
+        "C": "Taman Sekolah",
+        "D": "Pohon jambu"
+      },
+      "jawaban": "D",
+      "penjelasan": "Objek yang diamati adalah benda yang dipilih untuk diamati, yaitu pohon jambu."
+    },
+    {
+      "no": 48,
+      "soal": "Bacalah teks wawancara berikut!\n\nKak Tari : Sar, tolong belikan kakak minyak goreng di warung, ya!\nSari : Iya. Berapa liter, Kak?\nKak Tari : Tolong belikan dua liter saja!\nSari : Memangnya Kakak ingin memasak apa?\nKak Tari : Kakak ingin membuat pisang goreng.\nSari : Asyik! Mana uangnya, Kak? Aku belikan minyak goreng sekarang.\n\nTopik percakapan di atas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sari meminta tolong Kak Tari untuk dimasakkan pisang goreng kesukaannya.",
+        "B": "Kak Tari meminta tolong kepada Sari untuk membeli minyak goreng.",
+        "C": "Kak Tari memerlukan minyak goreng untuk menggoreng ayam.",
+        "D": "Keinginan Sari untuk dibuatkan pisang goreng oleh Kak Tari."
+      },
+      "jawaban": "B",
+      "penjelasan": "Percakapan berpusat pada Kak Tari yang meminta Sari membeli minyak goreng."
+    },
+    {
+      "no": 49,
+      "soal": "Bacalah dua kutipan berita berikut!\n\nBerita 1: Kebakaran Los Angeles bermula di Pacific Palisades yang kemudian menyebar ke arah barat menuju Malibu sepanjang Pacific Coast Highway. Lantas untuk penyebaran api yang begitu hebat diduga adalah dampak dari angin Santa Ana yang bertiup dari pedalaman menuju pantai dengan kecepatan 90km/jam. Sementara untuk pemantik api yang menyebabkan kobaran besar, pemerintah setempat sedang melalukan investigasi mendalam untuk mengumpulkan bukti dan data.\nSumber: Suara.com \"Apa Penyebab Kebakaran Los Angeles? Begini Nasib Rumah Nikita Willy di Kawasan Elite Amerika\", 10 Januari 2025\n\nBerita 2: Penyebab utama kebakaran Los Angeles dipicu oleh kondisi cuaca ekstrem dan efek perubahan iklim. Kuatnya angin Santa Ana, ditambah kekeringan yang berkepanjangan ini semacam jadi bahan bakar api sehingga penyebaran api semakin cepat. Fenomena angin Santa Ana dianggap sebagai angin paling mematikan di Los Angeles. Bahkan sampai mendapat julukan angin setan.\nSumber: Suara.com \"Penyebab Kebakaran Hutan Los Angeles Gara-gara Santa Ana, Apa Itu?\", 14 Januari 2025\n\nPerbedaan penyajian kedua teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berita 1 diawali dengan siapa, sedangkan berita 2 diawali dengan apa.",
+        "B": "Berita 1 diawali dengan di mana, sedangkan berita 2 diawali dengan apa.",
+        "C": "Berita 1 diawali dengan mengapa, sedangkan berita 2 diawali dengan apa.",
+        "D": "Berita 1 diawali dengan kapan, sedangkan berita 2 diawali dengan bagaimana."
+      },
+      "jawaban": "B",
+      "penjelasan": "Berita 1 dibuka dengan tempat kebakaran bermula (di mana), Berita 2 dibuka dengan penyebab utama kebakaran (apa). Pilihan B paling cocok."
+    },
+    {
+      "no": 50,
+      "soal": "Teks cerita untuk menjawab soal nomor 50 dan 51.\n\nPemuda Yang Bersahaja\n\nPada zaman dahulu, di Sumatra Utara hiduplah seorang pemuda bernama Tigor. Ia hidup sebatang kara. Kedua orang tuanya telah meninggal ketika Tigor masih berusia muda. Tigor tidak memiliki kakak ataupun adik. Ia pun tak mempunyai sanak saudara. Oleh karena itu terkadang Tigor merasa hampa dan kesepian menjalani hidup menyendiri seperti itu.\n\nTigor tinggal di sebuah gubuk tua peninggalan orang tuanya. Tigor bekerja sebagai seorang petani. Sehari-hari ia menggarap sepetak sawah yang juga peninggalan orang-tuanya. Ia sangat giat bekerja menggarap sepetak sawah kecil miliknya itu. Sehingga kegigihannya itu membuahkan hasil.\n\nHampir setiap tahun, hasil panen Tigor sangat memuaskan. Meskipun padi yang dihasilkan dari sepetak sawah yang dimilikinya itu sangat sedikit, tetapi kualitas padi milik Tigor termasuk yang terbaik di desa itu. Uang yang ia peroleh dari hasil panen disimpannya untuk memenuhi kebutuhan sehari-hari. Tidak lupa Tigor pun menyisihkan uangnya untuk ditabung sebagai bekal bila ia menikah nanti.\n\nKini Tigor telah beranjak dewasa. Ia tumbuh menjadi seorang pemuda yang cukup tampan. Namun sayang belum ada satu gadis pun yang mampu menarik hatinya. Memang banyak gadis-gadis cantik yang memujanya, tetapi Tigor menginginkan calon istrinya kelak tidak hanya terlihat cantik di luar saja tetapi harus cantik hatinya pula. Selain itu, memang untuk waktu dekat ini, Tigor belum memiliki keinginan untuk berkeluarga. Hidupnya masih terasa belum mapan.\n\nBegitulah keseharian Tigor. Hidupnya hanya diabdikan untuk bekerja. Ia ingin hidupnya terus mengalami peningkatan menjadi lebih baik. Tigor ingin kelak jika sudah menemukan pendamping hidupnya, tidak akan membuat istrinya menderita. Ia akan berusaha memberiikan kebahagiaan kepada istrinya itu.\n\nSumber: DISPUSIP Daerah Provinsi Sumatra Utara\n\nTema dalam cerita tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kesepian seorang yatim piatu yang hidup sebatang kara.",
+        "B": "Perjuangan seorang pemuda untuk mendapatkan pasangan hidup yang cantik.",
+        "C": "Kehidupan petani di Sumatra Utara yang menghasilkan panen terbaik di desa.",
+        "D": "Pentingnya kerja keras, kemandirian, dan perencanaan untuk masa depan."
+      },
+      "jawaban": "D",
+      "penjelasan": "Tigor giat bekerja, hidup mandiri, menabung, dan ingin hidupnya makin baik; itu tema cerita. Pilihan lain hanya sebagian isi."
+    },
+    {
+      "no": 51,
+      "soal": "Teks cerita untuk menjawab soal nomor 50 dan 51 (lihat teks \"Pemuda Yang Bersahaja\" pada soal nomor 50).\n\nBukti pernyataan yang menggambarkan watak Tigor terdapat di paragraf …",
+      "gambar": null,
+      "pilihan": {
+        "A": "1 dan 2",
+        "B": "2 dan 3",
+        "C": "4 dan 5",
+        "D": "1 dan 5"
+      },
+      "jawaban": "B",
+      "penjelasan": "Paragraf 2 menunjukkan Tigor rajin dan gigih (sangat giat bekerja), paragraf 3 menunjukkan ia hemat dan berencana (menabung untuk bekal menikah). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 52,
+      "soal": "Cermati pantun berikut!\n\nIbu,\nDoakan aku agar menjadi\nAnak terbaik bagimu\nBimbing aku supaya\nSelalu berbakti kepadamu\nTuntunlah aku\nDengan segala nasihat kebaikanmu\n\nMakna diksi nasihat pada puisi tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ungkapan yang mengajarkan moral yang akan disampaikan.",
+        "B": "Pernyataan-pernyataan baik dari pengarang untuk pembaca.",
+        "C": "Anjuran atau pelajaran baik yang diajarkan orang tua pada anaknya.",
+        "D": "Pesan yang disampaikan orang yang lebih tua terhadap yang lebih muda."
+      },
+      "jawaban": "C",
+      "penjelasan": "Dalam puisi ini nasihat datang dari ibu kepada anaknya, yaitu anjuran atau pelajaran baik dari orang tua."
+    },
+    {
+      "no": 53,
+      "soal": "Cermati pantun berikut!\n\nPohon manggis di tepi rawa\nTempat nenek tidur beradu\nSedang menangis nenek tertawa\nMelihat kakek bermain gundu\n\nPantun tersebut termasuk ke dalam jenis pantun …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Nasihat",
+        "B": "Agama",
+        "C": "Jenaka",
+        "D": "Peribahasa"
+      },
+      "jawaban": "C",
+      "penjelasan": "Isinya lucu (nenek menangis sambil tertawa melihat kakek bermain gundu), jadi pantun jenaka."
+    },
+    {
+      "no": 54,
+      "soal": "Cermati kutipan teks berikut!\n\nPemerintah terus ______ upaya untuk meningkatkan kesejahteraan masyarakat. Salah satu caranya dengan memberdayakan potensi sumber daya alam secara berkelanjutan.\n\nKata bentukan yang tepat untuk mengisi bagian yang rumpang tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pengerahan",
+        "B": "Kekerahan",
+        "C": "Dikerahkan",
+        "D": "Mengerahkan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Subjek aktif (pemerintah) memerlukan kata kerja aktif bentuk meng-: mengerahkan upaya."
+    },
+    {
+      "no": 55,
+      "soal": "Kalimat yang menggunakan ejaan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ibu ke tinggalan kereta saat membeli makanan.",
+        "B": "Melisa menghadiri acara ulang tahun sahabatnya yang ke dua.",
+        "C": "Ibrahim berada disamping ruang guru saat mendengar pengumuman kelulusan.",
+        "D": "Toni tidak puas dengan hasil yang ia raih ketika mewakili sekolah untuk lomba catur yang kedua kalinya."
+      },
+      "jawaban": "D",
+      "penjelasan": "A seharusnya ketinggalan, B seharusnya kedua, C seharusnya di samping. Hanya D yang benar."
+    }
+  ]
+}
