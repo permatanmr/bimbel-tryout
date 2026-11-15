@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D3",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal, kata beda, dan pemahaman bacaan (teks fabel, ulasan, petunjuk, pidato, pantun, dan ejaan).",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Destinasi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tempat tujuan",
+        "B": "Wisata",
+        "C": "Idaman",
+        "D": "Penyucian"
+      },
+      "jawaban": "A",
+      "penjelasan": "Destinasi berarti tempat tujuan."
+    },
+    {
+      "no": 2,
+      "soal": "Lestari = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kekal",
+        "B": "Eksploitasi",
+        "C": "Perlindungan",
+        "D": "Interpretasi"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lestari berarti tetap seperti semula, kekal."
+    },
+    {
+      "no": 3,
+      "soal": "Daur = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Proses",
+        "B": "Siklus",
+        "C": "Baur",
+        "D": "Hidup"
+      },
+      "jawaban": "B",
+      "penjelasan": "Daur berarti siklus (putaran)."
+    },
+    {
+      "no": 4,
+      "soal": "Supremasi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kompleks",
+        "B": "Tambahan",
+        "C": "Melebihi jangkauan",
+        "D": "Kekuasaan tertinggi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Supremasi berarti kekuasaan tertinggi."
+    },
+    {
+      "no": 5,
+      "soal": "Fasih = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lancar",
+        "B": "Gagap",
+        "C": "Lafal",
+        "D": "Terbata-bata"
+      },
+      "jawaban": "A",
+      "penjelasan": "Fasih berarti lancar (berbicara)."
+    },
+    {
+      "no": 6,
+      "soal": "Citra = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Imajinasi",
+        "B": "Gambaran",
+        "C": "Anggapan",
+        "D": "Diam"
+      },
+      "jawaban": "B",
+      "penjelasan": "Citra berarti gambaran (rupa)."
+    },
+    {
+      "no": 7,
+      "soal": "Barak = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tenda",
+        "B": "Hotel",
+        "C": "Motel",
+        "D": "Penginapan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Barak adalah tempat menginap atau bermukim sementara, sepadan dengan penginapan."
+    },
+    {
+      "no": 8,
+      "soal": "Vakansi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Libur",
+        "B": "Kerja",
+        "C": "Main",
+        "D": "Negara"
+      },
+      "jawaban": "A",
+      "penjelasan": "Vakansi berarti libur."
+    },
+    {
+      "no": 9,
+      "soal": "Ilusi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Visual",
+        "B": "Nyata",
+        "C": "Konkret",
+        "D": "Fantasi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ilusi berarti khayalan atau fantasi."
+    },
+    {
+      "no": 10,
+      "soal": "Bidah = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kebohongan",
+        "B": "Kejujuran",
+        "C": "Setuju",
+        "D": "Buruk"
+      },
+      "jawaban": "A",
+      "penjelasan": "Bidah (bid'ah) adalah perbuatan yang dianggap menyimpang atau tercela; "
+    },
+    {
+      "no": 11,
+      "soal": "Netral >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Adil",
+        "B": "Berpihak",
+        "C": "Objektif",
+        "D": "Bebas"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata netral adalah berpihak."
+    },
+    {
+      "no": 12,
+      "soal": "Landai >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baik",
+        "B": "Buruk",
+        "C": "Curam",
+        "D": "Menurun"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata landai adalah curam."
+    },
+    {
+      "no": 13,
+      "soal": "Nomadik >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Teratur",
+        "B": "Anomali",
+        "C": "Menetap",
+        "D": "Mapan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Nomadik berarti berpindah-pindah; lawannya menetap."
+    },
+    {
+      "no": 14,
+      "soal": "Aktual >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Modern",
+        "B": "Nyata",
+        "C": "Baru",
+        "D": "Fiktif"
+      },
+      "jawaban": "D",
+      "penjelasan": "Aktual berarti nyata atau sesuai kenyataan; lawannya fiktif (rekaan)."
+    },
+    {
+      "no": 15,
+      "soal": "Destruksi >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Vandalisme",
+        "B": "Pembangunan",
+        "C": "Diktator",
+        "D": "Perusakan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Destruksi berarti perusakan; lawannya pembangunan."
+    },
+    {
+      "no": 16,
+      "soal": "Jarum : Menjahit = Kail : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Memancing",
+        "B": "Merancang",
+        "C": "Merakit",
+        "D": "Benang"
+      },
+      "jawaban": "A",
+      "penjelasan": "Jarum alat untuk menjahit, kail alat untuk memancing."
+    },
+    {
+      "no": 17,
+      "soal": "Gajah : Kuat = Beo : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pintar",
+        "B": "Lucu",
+        "C": "Tangkas",
+        "D": "Merdu"
+      },
+      "jawaban": "D",
+      "penjelasan": "Gajah dikenal kuat, beo dikenal pintar menirukan ucapan manusia. Soal ini dapat ditafsirkan lain (merdu)."
+    },
+    {
+      "no": 18,
+      "soal": "Kering : Lembab = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gelap : Remang-remang",
+        "B": "Cahaya : Terang",
+        "C": "Panas : Basah",
+        "D": "Siang : Malam"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kering dan lembab adalah dua tingkat kadar air; gelap dan remang-remang adalah dua tingkat cahaya."
+    },
+    {
+      "no": 19,
+      "soal": "Nelayan : Laut = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Guru : Papan Tulis",
+        "B": "Petani : Padi",
+        "C": "Pelukis : Kuas",
+        "D": "Penyanyi : Panggung"
+      },
+      "jawaban": "D",
+      "penjelasan": "Nelayan bekerja di laut (tempat kerja), penyanyi tampil di panggung."
+    },
+    {
+      "no": 20,
+      "soal": "Gembira : Senang = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Taktik : Peran",
+        "B": "Pemikiran : Ide",
+        "C": "Panggung : Penonton",
+        "D": "Manajemen : Keuangan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Gembira dan senang bersinonim; pemikiran dan ide juga bersinonim."
+    },
+    {
+      "no": 21,
+      "soal": "Air : Uap = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Es : Air",
+        "B": "Kabut : Asap",
+        "C": "Mendidih : Mencair",
+        "D": "Membeku : Menguap"
+      },
+      "jawaban": "A",
+      "penjelasan": "Air berubah menjadi uap (menguap); es berubah menjadi air (mencair)."
+    },
+    {
+      "no": 22,
+      "soal": "Merah Putih : Indonesia = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Merah Hitam : Jepang",
+        "B": "Putih Merah : Portugis",
+        "C": "Biru : Thailand",
+        "D": "Hitam Merah Kuning : Jerman"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bendera Merah Putih milik Indonesia; bendera hitam-merah-kuning milik Jerman."
+    },
+    {
+      "no": 23,
+      "soal": "Mutu : … = Jumlah : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Fantasi : Fantastis",
+        "B": "Posisi : Positif",
+        "C": "Kualitas : Kuantitas",
+        "D": "Koran : Majalah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mutu sepadan dengan kualitas, jumlah sepadan dengan kuantitas."
+    },
+    {
+      "no": 24,
+      "soal": "Kahayan : Sungai : Kalimantan Tengah = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kerinci : Danau : Jambi",
+        "B": "Senggigi : Pantai : Bali",
+        "C": "Merapi : Gunung : Palembang",
+        "D": "Agung : Gunung : Jawa Timur"
+      },
+      "jawaban": "A",
+      "penjelasan": "Sungai Kahayan di Kalimantan Tengah; Danau Kerinci di Jambi. Senggigi di Lombok, Merapi di Jawa Tengah/DIY, Gunung Agung di Bali."
+    },
+    {
+      "no": 25,
+      "soal": "Gerhana : Bulan : Matahari = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hujan : Petir : Gurun",
+        "B": "Laut : Ikan : Nelayan",
+        "C": "Jari : Tangan : Kaki",
+        "D": "Kayu : Lemari : Kursi"
+      },
+      "jawaban": "C",
+      "penjelasan": "Gerhana dapat terjadi pada bulan atau matahari; jari dapat dimiliki tangan atau kaki. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 26,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Akar",
+        "B": "Benalu",
+        "C": "Daun",
+        "D": "Ranting"
+      },
+      "jawaban": "B",
+      "penjelasan": "Akar, daun, dan ranting bagian pohon; benalu tumbuhan parasit yang menumpang."
+    },
+    {
+      "no": 27,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Candi Borobudur",
+        "B": "Pencak silat",
+        "C": "Batik",
+        "D": "Karate"
+      },
+      "jawaban": "D",
+      "penjelasan": "Yang lain adalah budaya Indonesia; karate berasal dari Jepang."
+    },
+    {
+      "no": 28,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kecak",
+        "B": "Barong",
+        "C": "Pendet",
+        "D": "Jaipong"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kecak, barong, dan pendet berasal dari Bali; jaipong dari Jawa Barat."
+    },
+    {
+      "no": 29,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sajak",
+        "B": "Puisi",
+        "C": "Lukisan",
+        "D": "Novel"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sajak, puisi, dan novel adalah karya sastra; lukisan karya seni rupa."
+    },
+    {
+      "no": 30,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Peso",
+        "B": "Kip",
+        "C": "Dong",
+        "D": "Tagalog"
+      },
+      "jawaban": "D",
+      "penjelasan": "Peso, kip, dan dong adalah mata uang; Tagalog adalah bahasa."
+    },
+    {
+      "no": 31,
+      "soal": "Jika Andi rajin, maka ia disayang ibu. Jika Andi disayang ibu, maka ia disayang bapak. Andi tidak disayang bapak. Maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Andi rajin, tetapi tidak disayang ibu.",
+        "B": "Andi anak yang rajin.",
+        "C": "Andi disayang oleh ibu.",
+        "D": "Tidak dapat disimpulkan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Andi tidak disayang bapak, sehingga ia tidak disayang ibu dan tidak rajin. Pilihan A, B, dan C bertentangan dengan itu, dan tidak ada pilihan yang menyatakan 'Andi tidak rajin', jadi D dipilih karena tidak ada kesimpulan yang tersedia. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 32,
+      "soal": "Tabungan Anita lebih banyak dari jumlah tabungan Kiki dan Beti. Tabungan Beti lebih banyak dari tabungan Kiki. Tabungan Dian lebih banyak dari jumlah tabungan Anita, Beti, dan Kiki. Maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tabungan Anita lebih banyak dari Dian.",
+        "B": "Jumlah tabungan Dian dan Kiki sama dengan jumlah tabungan Anita dan Beti.",
+        "C": "Yang mempunyai tabungan paling banyak adalah Anita.",
+        "D": "Kiki mempunyai tabungan paling sedikit."
+      },
+      "jawaban": "D",
+      "penjelasan": "Urutan dari terbanyak: Dian > Anita > Beti > Kiki, jadi Kiki paling sedikit."
+    },
+    {
+      "no": 33,
+      "soal": "Rani tidak rajin belajar atau Rani akan naik kelas. Rani rajin belajar. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rani tidak naik kelas.",
+        "B": "Rani akan naik kelas.",
+        "C": "Rani naik kelas dan Rani tidak rajin belajar.",
+        "D": "Rani rajin belajar dan Rani tidak naik kelas."
+      },
+      "jawaban": "B",
+      "penjelasan": "Karena Rani rajin belajar, bagian pertama salah, sehingga bagian kedua benar: Rani akan naik kelas."
+    },
+    {
+      "no": 34,
+      "soal": "Setelah pulang sekolah, siswa hanya boleh mengikuti satu kegiatan ekstrakurikuler, yakni seni tari dan pramuka. Yanti mengikuti pramuka sepulang sekolah. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Yanti mengikuti pramuka setelah kegiatan seni tari.",
+        "B": "Yanti tidak mengikuti kegiatan ekstrakurikuler.",
+        "C": "Yanti tidak mengikuti kegiatan seni tari.",
+        "D": "Yanti mengikuti kegiatan seni tari."
+      },
+      "jawaban": "C",
+      "penjelasan": "Hanya boleh satu kegiatan; Yanti sudah memilih pramuka, jadi ia tidak mengikuti seni tari."
+    },
+    {
+      "no": 35,
+      "soal": "Buaya dan kadal adalah binatang melata. Ular dan buaya suka makan katak. Maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Binatang melata suka makan katak.",
+        "B": "Kadal belum tentu makan katak.",
+        "C": "Ular merupakan binatang melata.",
+        "D": "Kadal suka makan katak."
+      },
+      "jawaban": "B",
+      "penjelasan": "Premis tidak menyebut kadal makan katak, jadi kadal belum tentu makan katak. Pilihan lain tidak dapat dipastikan dari premis."
+    },
+    {
+      "no": 36,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Terinjak",
+        "B": "Terlucu",
+        "C": "Indah",
+        "D": "Duniawi"
+      },
+      "jawaban": "A",
+      "penjelasan": "Terlucu, indah, dan duniawi adalah kata sifat; terinjak adalah kata kerja pasif."
+    },
+    {
+      "no": 37,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berdansa",
+        "B": "Menari",
+        "C": "Bernyanyi",
+        "D": "Penari"
+      },
+      "jawaban": "D",
+      "penjelasan": "Berdansa, menari, dan bernyanyi adalah kata kerja; penari adalah kata benda."
+    },
+    {
+      "no": 38,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mobil",
+        "B": "Roda",
+        "C": "Hitam",
+        "D": "Kunci"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mobil, roda, dan kunci adalah kata benda; hitam kata sifat."
+    },
+    {
+      "no": 39,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baju",
+        "B": "Celana",
+        "C": "Seragam",
+        "D": "Baru"
+      },
+      "jawaban": "D",
+      "penjelasan": "Baju, celana, dan seragam adalah kata benda; baru kata sifat."
+    },
+    {
+      "no": 40,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ani",
+        "B": "Menutup",
+        "C": "Pintu",
+        "D": "Meja"
+      },
+      "jawaban": "B",
+      "penjelasan": "Ani, pintu, dan meja adalah kata benda; menutup kata kerja."
+    },
+    {
+      "no": 41,
+      "soal": "Bacalah kutipan teks berikut!\n\nSetiap anak memiliki impian dan cita-cita. Namun terkadang anak dihadapkan dengan realita kehidupan yang berbeda.\n\nSinonim kata realita sesuai teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Khayalan",
+        "B": "Imajinasi",
+        "C": "Bukti",
+        "D": "Kenyataan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Realita berarti kenyataan."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah kutipan teks berikut!\n\nLemon adalah buah yang memiliki banyak manfaat untuk kesehatan. Buah ini mengandung banyak serat sebagai pengontrol rasa lapar dan melancarkan pencernaan. Selain itu, lemon juga dapat mengeluarkan racun dalam tubuh. Jus lemon membantu mengeluarkan zat-zat yang tidak diperlukan dalam tubuh.\n\nIde pokok teks tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Manfaat lemon untuk kesehatan.",
+        "B": "Lemon memiliki rasa yang asam.",
+        "C": "Serat yang terkandung dalam lemon.",
+        "D": "Racun tubuh dapat dikeluarkan dengan jus lemon."
+      },
+      "jawaban": "A",
+      "penjelasan": "Seluruh teks membahas manfaat lemon bagi kesehatan; serat dan racun hanya rincian."
+    },
+    {
+      "no": 43,
+      "soal": "Berikut ini pernyataan yang tepat terhadap surat dinas, kecuali …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Surat dinas merupakan surat pribadi.",
+        "B": "Surat dinas mencantumkan tanggal penulisan surat.",
+        "C": "Surat dinas mencantumkan tempat penulisan surat.",
+        "D": "Surat dinas dibuat oleh instansi atau organisasi."
+      },
+      "jawaban": "A",
+      "penjelasan": "Surat dinas dibuat oleh instansi atau organisasi, bukan surat pribadi; pernyataan A salah."
+    },
+    {
+      "no": 44,
+      "soal": "Bacalah kutipan pidato berikut!\n\nBapak Ibu yang berbahagia,\nSaat ini, banyak warga yang terjangkit demam berdarah dengue. Demam berdarah ini disebabkan virus yang dibawa oleh nyamuk. Sebagai warga yang bijak, kita harus menjaga kesehatan badan dan lingkungan agar tidak terkena penyakit ini. Oleh karena itu, marilah kita cegah perkembangbiakkan nyamuk dengan menjaga kebersihan lingkungan.\n\nKutipan pidato tersebut merupakan bagian … pidato.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pembuka",
+        "B": "Isi",
+        "C": "Penutup",
+        "D": "Kesimpulan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kutipan membahas permasalahan dan ajakan (isi), bukan salam pembuka atau penutup."
+    },
+    {
+      "no": 45,
+      "soal": "Bacalah teks petunjuk berikut!\n\nPetunjuk Menghias Pot\n(1) Tuangkan cat air ke dalam palet. Gunakan beberapa warna sesuai kreasimu.\n(2) Tuangkan sedikit air untuk campuran cat air agar tidak terlalu padat. Jangan beri air terlalu banyak karena akan membuat cat terlihat tipis nantinya.\n(3) Gambarlah bagian luar pot sesuai dengan gambar sesuai keinginanmu. Kemudian, keringkan di bawah sinar matahari.\n(4) Sediakan pot yang akan dihias beserta cat air dan kuas yang digunakan untuk menghias.\n\nSusunan petunjuk menghias pot yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "(4) – (3) – (1) – (2)",
+        "B": "(4) – (1) – (2) – (3)",
+        "C": "(2) – (1) – (4) – (3)",
+        "D": "(2) – (4) – (3) – (1)"
+      },
+      "jawaban": "B",
+      "penjelasan": "Urutan: menyiapkan alat dan pot (4), menuang cat ke palet (1), mencampur dengan sedikit air (2), lalu menggambar dan mengeringkan (3)."
+    },
+    {
+      "no": 46,
+      "soal": "Bacalah kutipan biografi berikut!\n\nDengan bahasa Arab yang dipelajarinya, Hamka mendalami sejarah Islam dan sastra secara otodidak. Kembali ke tanah air, Hamka merintis karier sebagai wartawan sambil bekerja sebagai guru agama sementara waktu di Medan. Nama Hamka melambung sebagai sastrawan.\n\nMakna kata otodidak pada kutipan biografi tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Belajar di sebuah pesantren.",
+        "B": "Belajar sendiri tanpa bersekolah.",
+        "C": "Belajar dengan cara memanggil guru.",
+        "D": "Menggunakan buku-buku dari luar negeri."
+      },
+      "jawaban": "B",
+      "penjelasan": "Otodidak berarti belajar sendiri tanpa guru atau sekolah."
+    },
+    {
+      "no": 47,
+      "soal": "Pak Toni dalam sehari bisa menghasilkan bingkai dari kerang sebanyak 10 buah.\n\nPertanyaan yang tepat diajukan oleh pewawancara dari kalimat tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Di mana bapak menjual hasil karya bapak?",
+        "B": "Berapa buah bingkai yang bapak bisa hasilkan dalam sehari?",
+        "C": "Siapa nama bapak?",
+        "D": "Berapa harga satu buah bingkai kerang bapak jual?"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kalimat menyebut jumlah hasil per hari (10 buah), sehingga pertanyaannya tentang jumlah bingkai per hari."
+    },
+    {
+      "no": 48,
+      "soal": "Bacalah teks argumentasi berikut!\n\nSaat ini marak terjadi penebangan pohon secara liar. Hal ini dilakukan oleh orang-orang yang dengan seenaknya saja membabat hutan tanpa menanaminya kembali.\n\nTak hanya maraknya penebangan pohon, kebiasaan buruk para manusia yang tinggal di sekitar Sungai pun juga menjadi masalah. Mereka dengan sengaja membuang sampah mereka di Sungai sehingga membuat sungai menjadi dangkal karena sampah yang menumpuk di permukaan sungai.\n\nHal yang terjadi jika perilaku manusia berkaitan dengan paragraf tersebut dilakukan secara terus menerus adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mengakibatkan terjadinya bencana banjir.",
+        "B": "Menyebabkan bencana gunung Meletus.",
+        "C": "Menyebabkan lahan untuk area pemukiman.",
+        "D": "Hutan menjadi gundul sehingga mudah terjadi kebakaran hutan."
+      },
+      "jawaban": "A",
+      "penjelasan": "Hutan yang gundul dan sungai yang dangkal karena sampah sama-sama memicu banjir, dan dua paragraf sama-sama mendukungnya. D hanya mencakup paragraf pertama."
+    },
+    {
+      "no": 49,
+      "soal": "Bacalah teks ulasan berikut!\n\n(1) Buku Petualangan Si Kancil yang ditulis oleh Prih Suharto merupakan kumpulan cerita rakyat Indonesia yang menampilkan Kancil, seekor hewan cerdik yang selalu berhasil menghadapi berbagai rintangan. (2) Di dalam buku ini, terdapat lima cerita yang menceritakan petualangan Kancil melawan musuh-musuhnya, seperti Harimau dan Buaya. (3) Setiap cerita tidak hanya menghibur, tetapi juga menyampaikan nilai-nilai moral yang penting, seperti kecerdikan dan keadilan.\n\n(4) Dengan menggunakan bahasa yang sederhana dan mudah dimengerti, penulis menjadikan buku ini sangat sesuai untuk anak-anak. (5) Ilustrasi yang menarik dari Mansur Daman juga menambah daya tarik visual, sehingga membantu anak-anak dalam memahami cerita dengan lebih baik.\n\n(6) Namun, jumlah cerita dalam buku ini terbatas, hanya terdiri dari lima kisah. (7) Selain itu, keterbatasan ini juga terlihat dari beberapa tema yang terasa repetitif dan mengikuti pola yang sama. (8) Akibatnya, hal ini dapat membuat pembaca cepat merasa bosan, terutama jika mereka mengharapkan lebih banyak kisah menarik tentang karakter yang mereka sukai. (9) Secara keseluruhan, Petualangan Si Kancil adalah bacaan yang sangat direkomendasikan untuk anak-anak dan orang tua yang ingin mengenalkan cerita rakyat Indonesia kepada generasi muda.\n\nPernyataan yang berupa keunggulan buku pada teks tersebut ditandai dengan nomor …",
+      "gambar": null,
+      "pilihan": {
+        "A": "(1) dan (2)",
+        "B": "(3) dan (4)",
+        "C": "(5) dan (6)",
+        "D": "(7) dan (8)"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kalimat (3) dan (4) memuat kelebihan buku (nilai moral dan bahasa mudah). (1)-(2) pengenalan, (6)-(8) kekurangan."
+    },
+    {
+      "no": 50,
+      "soal": "Perhatikan poster berikut!\n\nKalimat fakta yang tepat dalam iklan tersebut adalah …",
+      "gambar": "soal_50.png",
+      "pilihan": {
+        "A": "Anak keren pakai merek Tren.",
+        "B": "Pulpen tren hanya dimiliki anak keren.",
+        "C": "Tersedia dalam tiga warna pilihan.",
+        "D": "Pulpen merek Tren paling terjangkau."
+      },
+      "jawaban": "C",
+      "penjelasan": "Fakta dapat dibuktikan: poster menyebut pulpen tersedia dalam tiga warna pilihan. Pilihan lain bersifat ajakan atau klaim."
+    },
+    {
+      "no": 51,
+      "soal": "Cerita fabel berikut untuk menjawab soal nomor 51 dan 52.\n\nSemut yang Baik\n\nPada zaman dahulu, ada seekor semut yang berjalan bersama teman-temannya untuk mencari kebutuhan makanan agar tetap bisa bertahan hidup. Mereka bergotong royong mencari sumber makanan yang entah dari manapun asalnya. Seekor semut bernama Peci bertanya kepada ibunya di tengah perjalanan mencari makanan.\n\"Ibu, aku capek, apakah aku bisa keluar dari rombongan ini?\" tanyanya.\n\"Sebentar lagi, ya, Nak. Kita harus berusaha dan terus bekerja, agar kelak kita dapat menikmatinya juga. Tidak apa-apa kita lelah asalkan jangan menyerah.\" tegas seekor Ibu semut pada anaknya.\nSempat berdiam sejenak, namun akhirnya semut itu kembali berjalan bersama semut-semut lainnya. Tiba-tiba datang seekor belalang sedang menikmati makanan yang ia dapat dari seekor monyet, tak lain ia mencurinya.\n\"Wah, panas sekali ini, makanan yang aku pegang memang menggiurkan bukan. Tidak akan kubagi kepada siapa pun,\" Laliang tertawa keras.\n\"Apalah kau buat di sini Laliang, kau tak bisa menggoda kami. Jangan pikir kami sebodoh itu!\" balas pemimpin semut.\nHari itu memang sangat panas, namun tak menyurutkan semangat semut-semut mengumpulkan makanan-makanan. Laliang ialah seekor belalang yang suka mengganggu para semut bekerja.\nHari demi hari berganti, cuaca pun semakin panas membuat tubuh Laliang panas dan mengering hingga tak berdaya mengepakkan sayap untuk terbang.\n\"Aku tak pernah bilang tidak akan membantumu, Laliang. Tapi kami masih punya hati untuk membantumu,\" sapa Peci.\n\"Tapi Peci, aku sudah mengejek kamu dan teman-teman semut lainnya. Aku merasa bersalah dan tidak pantas kau berikan bantuan,\" balas Laliang. Tanpa berpikir panjang, akhirnya Peci bersama semut lainnya memberikan tempat dan makanan untuk Laliang agar tetap bisa bertahan hidup.\n\nSumber: K-Media, \"Kumpulan Fabel Cerita Hewan yang Penuh Makna Kehidupan.\"\n\nWatak tokoh Peaci yang sesuai dengan cerita tersebut adalah ….",
+      "gambar": null,
+      "pilihan": {
+        "A": "pemalas",
+        "B": "penolong",
+        "C": "egois",
+        "D": "pendendam"
+      },
+      "jawaban": "B",
+      "penjelasan": "Peci akhirnya membantu Laliang yang pernah mengejeknya, jadi wataknya penolong."
+    },
+    {
+      "no": 52,
+      "soal": "(Berdasarkan cerita \"Semut yang Baik\" pada soal nomor 51.)\n\nBukti watak tokoh Peaci yang penolong dalam kutipan teks cerita tersebut adalah ….",
+      "gambar": null,
+      "pilihan": {
+        "A": "\"Ibu, aku capek, apakah aku bisa keluar dari rombongan ini?\"",
+        "B": "\"Sempat berdiam sejenak, namun akhirnya semut itu kembali berjalan bersama semut-semut lainnya.\"",
+        "C": "\"Aku tak pernah bilang tidak akan membantumu, Laliang. Tapi kami masih punya hati untuk membantumu,\" sapa Peaci.\"",
+        "D": "\"Tanpa berpikir panjang, akhirnya Peaci bersama semut lainnya memberikan tempat dan makanan untuk Laliang agar tetap bisa bertahan hidup.\""
+      },
+      "jawaban": "C",
+      "penjelasan": "Kutipan C menunjukkan kesediaan Peci membantu Laliang secara langsung lewat ucapannya."
+    },
+    {
+      "no": 53,
+      "soal": "Cermatilah pantun berikut!\n\nBanyak sawah di Desa Jabong\nBanyak juga kebun di Desa Cimalaka\nJanganlah kamu suka berbohong\nKarena dusta membuat celaka\n\nPantun tersebut termasuk ke dalam jenis pantun …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Teka-teki",
+        "B": "Jenaka",
+        "C": "Agama",
+        "D": "Nasihat"
+      },
+      "jawaban": "D",
+      "penjelasan": "Isi pantun mengajak untuk tidak berbohong, jadi pantun nasihat."
+    },
+    {
+      "no": 54,
+      "soal": "Cermati kalimat berikut!\n\n\"Peserta yang hadir dalam rapat berjumlah seratus lima puluh orang-orang. Dari jumlah tersebut, empat puluh orang memilih tidak setuju, sembilan puluh orang memilih setuju, dan dua puluh orang abstain.\"\n\nPenulisan yang tepat untuk menulis bagian angka dan bilangan dalam satu kalimat tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Peserta yang hadir dalam rapat berjumlah 150 orang. Dari jumlah tersebut, 40 orang memilih tidak setuju, 90 orang memilih setuju, dan 20 orang abstain.",
+        "B": "Peserta yang hadir dalam rapat berjumlah 150 orang. Dari jumlah tersebut, empat puluh orang memilih tidak setuju, sembilan puluh orang memilih setuju, dan dua puluh orang abstain.",
+        "C": "Peserta yang hadir dalam rapat berjumlah seratus lima puluh orang. Dari jumlah tersebut, 40 orang memilih tidak setuju, 90 orang memilih setuju, dan 20 orang abstain.",
+        "D": "Peserta yang hadir dalam rapat berjumlah 150 orang. Dari jumlah tersebut, 40 orang memilih tidak setuju, 90 orang memilih setuju, dan dua puluh orang abstain."
+      },
+      "jawaban": "A",
+      "penjelasan": "Bilangan yang disebut berurutan dalam rincian ditulis dengan angka secara konsisten; bilangan yang lebih dari dua kata (150) juga ditulis dengan angka. Hanya A yang konsisten."
+    },
+    {
+      "no": 55,
+      "soal": "Bacalah kalimat berikut!\n\n\"Harga baju di sini paling mahal Rp. 300.000, Nak.\" Jawab penjaga toko\n\nPerbaikan penggunaan tanda baca yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "\"Harga baju di sini paling mahal Rp. 300.000 Nak!\" Jawab penjaga toko.",
+        "B": "\"Harga baju di sini paling mahal Rp.300.000, Nak,\" jawab penjaga toko.",
+        "C": "\"Harga baju di sini paling mahal Rp.300.000, Nak.\" jawab penjaga toko",
+        "D": "\"Harga baju di sini paling mahal Rp,300,000, Nak.\" Jawab penjaga toko."
+      },
+      "jawaban": "B",
+      "penjelasan": "Ucapan langsung yang disambung keterangan pelaku diakhiri koma di dalam tanda petik, dan kata 'jawab' ditulis dengan huruf kecil. Penulisan 'Rp.' pada semua pilihan tidak baku (seharusnya Rp300.000), tetapi pilihan B paling benar dari segi tanda baca."
+    }
+  ]
+}

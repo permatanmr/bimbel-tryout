@@ -38,12 +38,16 @@ export default function Quiz({ paket }: { paket: Paket }) {
   const answeredCount = Object.keys(answers).length;
   const score = useMemo(
     () => order.filter((s) => answers[s.no] === s.jawaban).length,
-    [order, answers]
+    [order, answers],
   );
 
   useEffect(() => {
     if (!started || done || sisa === null) return;
-    if (sisa <= 0) { setFinished(true); setDone(true); return; }
+    if (sisa <= 0) {
+      setFinished(true);
+      setDone(true);
+      return;
+    }
     const t = setTimeout(() => setSisa((x) => (x === null ? x : x - 1)), 1000);
     return () => clearTimeout(t);
   }, [started, done, sisa]);
@@ -60,22 +64,37 @@ export default function Quiz({ paket }: { paket: Paket }) {
 
   if (!started) {
     return (
-      <main className="wrap">
-        <div className="card center">
+      <main className='wrap'>
+        <div className='card center'>
           <h1>{paket.judul}</h1>
-          {paket.deskripsi && <p className="muted">{paket.deskripsi}</p>}
-          <p className="muted">{soal.length} soal{paket.durasiMenit ? ` · waktu ${paket.durasiMenit} menit` : ""}</p>
-          <label className="check">
-            <input type="checkbox" checked={acak} onChange={(e) => setAcak(e.target.checked)} />
+          {paket.deskripsi && <p className='muted'>{paket.deskripsi}</p>}
+          <p className='muted'>
+            {soal.length} soal
+            {paket.durasiMenit ? ` · waktu ${paket.durasiMenit} menit` : ""}
+          </p>
+          <label className='check'>
+            <input
+              type='checkbox'
+              checked={acak}
+              onChange={(e) => setAcak(e.target.checked)}
+            />
             Acak urutan soal
           </label>
-          <label className="check">
-            <input type="checkbox" checked={langsung} onChange={(e) => setLangsung(e.target.checked)} />
+          <label className='check'>
+            <input
+              type='checkbox'
+              checked={langsung}
+              onChange={(e) => setLangsung(e.target.checked)}
+            />
             Tampilkan jawaban &amp; pembahasan langsung
           </label>
-          <div className="row center">
-            <Link href="/" className="btn">← Daftar Paket</Link>
-            <button className="btn primary" onClick={start}>Mulai Latihan</button>
+          <div className='row center'>
+            <Link href='/' className='btn'>
+              ← Daftar Paket
+            </Link>
+            <button className='btn primary' onClick={start}>
+              Mulai Latihan
+            </button>
           </div>
         </div>
       </main>
@@ -85,47 +104,69 @@ export default function Quiz({ paket }: { paket: Paket }) {
   if (done) {
     const pct = Math.round((score / order.length) * 100);
     return (
-      <main className="wrap">
-        <div className="card">
-          <h1 className="center">Hasil Latihan</h1>
-          <div className="score center">
-            <span className="big">{score}</span> / {order.length}
-            <div className="muted">Nilai {pct}</div>
+      <main className='wrap'>
+        <div className='card'>
+          <h1 className='center'>Hasil Latihan</h1>
+          <div className='score center'>
+            <span className='big'>{score}</span> / {order.length}
+            <div className='muted'>Nilai {pct}</div>
           </div>
-          <ul className="review">
+          <ul className='review'>
             {order.map((s, i) => {
               const a = answers[s.no];
               const ok = a === s.jawaban;
               return (
                 <li key={s.no}>
-                  <div className="review-head">
+                  <div className='review-head'>
                     <button
                       className={`chip ${a === undefined ? "skip" : ok ? "ok" : "bad"}`}
-                      onClick={() => { setIdx(i); setDone(false); }}
-                      title="Tinjau soal"
-                    >
+                      onClick={() => {
+                        setIdx(i);
+                        setDone(false);
+                      }}
+                      title='Tinjau soal'>
                       {i + 1}
                     </button>
-                    <span className="muted">
-                      {a === undefined ? "Belum dijawab" : ok ? "Benar" : "Salah"}
+                    <span className='muted'>
+                      {a === undefined
+                        ? "Belum dijawab"
+                        : ok
+                          ? "Benar"
+                          : "Salah"}
                     </span>
                   </div>
-                  <p className="review-question">{s.soal}</p>
+                  <p className='review-question'>{s.soal}</p>
                   {s.gambar && (
                     // eslint-disable-next-line @next/next/no-img-element
-                    <img className="gambar" src={s.gambar} alt={`Gambar soal ${s.no}`} />
+                    <img
+                      className='gambar'
+                      src={s.gambar}
+                      alt={`Gambar soal ${s.no}`}
+                    />
                   )}
-                  <div className="review-answers">
-                    <p><strong>Jawaban benar:</strong> {s.jawaban}{s.pilihan[s.jawaban] ? ` — ${s.pilihan[s.jawaban]}` : ""}</p>
-                    <p><strong>Jawaban dipilih:</strong> {a === undefined ? "Belum dijawab" : `${a}${s.pilihan[a] ? ` — ${s.pilihan[a]}` : ""}`}</p>
+                  <div className='review-answers'>
+                    <p>
+                      <strong>Jawaban benar:</strong> {s.jawaban}
+                      {s.pilihan[s.jawaban] ? ` — ${s.pilihan[s.jawaban]}` : ""}
+                    </p>
+                    <p>
+                      <strong>Jawaban dipilih:</strong>{" "}
+                      {a === undefined
+                        ? "Belum dijawab"
+                        : `${a}${s.pilihan[a] ? ` — ${s.pilihan[a]}` : ""}`}
+                    </p>
                   </div>
                 </li>
               );
             })}
           </ul>
-          <div className="row center">
-            <Link href="/" className="btn">Daftar Paket</Link>
-            <button className="btn primary" onClick={start}>Ulangi</button>
+          <div className='row center'>
+            <Link href='/' className='btn'>
+              Daftar Paket
+            </Link>
+            <button className='btn primary' onClick={start}>
+              Ulangi
+            </button>
           </div>
         </div>
       </main>
@@ -133,21 +174,27 @@ export default function Quiz({ paket }: { paket: Paket }) {
   }
 
   return (
-    <main className="wrap">
-      <div className="top">
-        <span>Soal {idx + 1} / {order.length}</span>
-        <span className="muted">{sisa !== null ? `⏱ ${fmt(sisa)} · ` : ""}Terjawab {answeredCount}</span>
+    <main className='wrap'>
+      <div className='top'>
+        <span>
+          Soal {idx + 1} / {order.length}
+        </span>
+        <span className='muted'>
+          {sisa !== null ? `⏱ ${fmt(sisa)} · ` : ""}Terjawab {answeredCount}
+        </span>
       </div>
-      <div className="bar"><div style={{ width: `${((idx + 1) / order.length) * 100}%` }} /></div>
+      <div className='bar'>
+        <div style={{ width: `${((idx + 1) / order.length) * 100}%` }} />
+      </div>
 
-      <div className="card">
-        <p className="soal">{q.soal}</p>
+      <div className='card'>
+        <p className='soal'>{q.soal}</p>
         {q.gambar && (
           // eslint-disable-next-line @next/next/no-img-element
-          <img className="gambar" src={q.gambar} alt={`Gambar soal ${q.no}`} />
+          <img className='gambar' src={q.gambar} alt={`Gambar soal ${q.no}`} />
         )}
 
-        <div className="opts">
+        <div className='opts'>
           {Object.keys(q.pilihan).map((k) => {
             let cls = "opt";
             if (picked && reveal) {
@@ -159,8 +206,7 @@ export default function Quiz({ paket }: { paket: Paket }) {
                 key={k}
                 className={cls}
                 disabled={reveal && !!picked}
-                onClick={() => setAnswers((a) => ({ ...a, [q.no]: k }))}
-              >
+                onClick={() => setAnswers((a) => ({ ...a, [q.no]: k }))}>
                 <b>{k}</b>
                 <span>{q.pilihan[k]}</span>
               </button>
@@ -170,18 +216,36 @@ export default function Quiz({ paket }: { paket: Paket }) {
 
         {picked && reveal && (
           <div className={`expl ${picked === q.jawaban ? "ok" : "bad"}`}>
-            <strong>{picked === q.jawaban ? "Benar!" : `Kurang tepat. Jawaban benar: ${q.jawaban}`}</strong>
+            <strong>
+              {picked === q.jawaban
+                ? "Benar!"
+                : `Kurang tepat. Jawaban benar: ${q.jawaban}`}
+            </strong>
             <p>{q.penjelasan}</p>
           </div>
         )}
       </div>
 
-      <div className="row between">
-        <button className="btn" disabled={idx === 0} onClick={() => setIdx(idx - 1)}>← Sebelumnya</button>
+      <div className='row between'>
+        <button
+          className='btn'
+          disabled={idx === 0}
+          onClick={() => setIdx(idx - 1)}>
+          ← Sebelumnya
+        </button>
         {idx < order.length - 1 ? (
-          <button className="btn primary" onClick={() => setIdx(idx + 1)}>Berikutnya →</button>
+          <button className='btn primary' onClick={() => setIdx(idx + 1)}>
+            Berikutnya →
+          </button>
         ) : (
-          <button className="btn primary" onClick={() => { setFinished(true); setDone(true); }}>Selesai</button>
+          <button
+            className='btn primary'
+            onClick={() => {
+              setFinished(true);
+              setDone(true);
+            }}>
+            Selesai
+          </button>
         )}
       </div>
     </main>
