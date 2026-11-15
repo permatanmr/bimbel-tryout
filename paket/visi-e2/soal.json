@@ -1,0 +1,592 @@
+{
+  "judul": "VISI E2",
+  "deskripsi": "Latihan verbal dan bacaan bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, vocabulary, narrative, fable, letter, dan cloze text.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Approval = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Qualification",
+        "B": "Treatment",
+        "C": "Agreement",
+        "D": "Appreciation"
+      },
+      "jawaban": "C",
+      "penjelasan": "Approval (persetujuan) bersinonim dengan agreement."
+    },
+    {
+      "no": 2,
+      "soal": "Suppose = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dispute",
+        "B": "Support",
+        "C": "Intended",
+        "D": "Assume"
+      },
+      "jawaban": "D",
+      "penjelasan": "Suppose (mengira/menganggap) bersinonim dengan assume."
+    },
+    {
+      "no": 3,
+      "soal": "Compatible = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Resemble",
+        "B": "Capable",
+        "C": "Suitable",
+        "D": "Changeable"
+      },
+      "jawaban": "C",
+      "penjelasan": "Compatible (cocok/sesuai) bersinonim dengan suitable."
+    },
+    {
+      "no": 4,
+      "soal": "Discard = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Throw away",
+        "B": "Carry out",
+        "C": "Take out",
+        "D": "Turn down"
+      },
+      "jawaban": "A",
+      "penjelasan": "Discard (membuang) bersinonim dengan throw away."
+    },
+    {
+      "no": 5,
+      "soal": "Embrace = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Scold",
+        "B": "Hug",
+        "C": "Shy",
+        "D": "Spoil"
+      },
+      "jawaban": "B",
+      "penjelasan": "Embrace (memeluk) bersinonim dengan hug."
+    },
+    {
+      "no": 6,
+      "soal": "Bent >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Left",
+        "B": "Straight",
+        "C": "Sharp",
+        "D": "Artificial"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata bent (bengkok) adalah straight (lurus)."
+    },
+    {
+      "no": 7,
+      "soal": "Gain >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lose",
+        "B": "Grief",
+        "C": "Sparkle",
+        "D": "Obtain"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata gain (memperoleh) adalah lose (kehilangan)."
+    },
+    {
+      "no": 8,
+      "soal": "Distribute >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Send",
+        "B": "Collect",
+        "C": "Hinder",
+        "D": "Exhale"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata distribute (membagikan) adalah collect (mengumpulkan)."
+    },
+    {
+      "no": 9,
+      "soal": "Huge >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Soft",
+        "B": "Terrible",
+        "C": "Tiny",
+        "D": "Rough"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata huge (sangat besar) adalah tiny (sangat kecil)."
+    },
+    {
+      "no": 10,
+      "soal": "Float >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Despair",
+        "B": "Scatter",
+        "C": "Sink",
+        "D": "Haughty"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata float (mengapung) adalah sink (tenggelam)."
+    },
+    {
+      "no": 11,
+      "soal": "Drink : Thirst = .... : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Light : Dark",
+        "B": "Off : Alive",
+        "C": "Sugar : Tea",
+        "D": "Train : Passengers"
+      },
+      "jawaban": "A",
+      "penjelasan": "Minum menghilangkan rasa haus; cahaya menghilangkan gelap (sesuatu yang menghilangkan keadaan lawannya). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 12,
+      "soal": "Paper : Pen = Wall : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Brush",
+        "B": "Paint",
+        "C": "Sandpaper",
+        "D": "Roll"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pena adalah alat yang dipakai pada kertas; kuas (brush) adalah alat yang dipakai pada dinding. Soal ini dapat ditafsirkan lain (paint)."
+    },
+    {
+      "no": 13,
+      "soal": "Essential : Necessary = Chilly : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cold",
+        "B": "Guilty",
+        "C": "Hot",
+        "D": "Snatch"
+      },
+      "jawaban": "A",
+      "penjelasan": "Essential dan necessary bersinonim; chilly (dingin) bersinonim dengan cold."
+    },
+    {
+      "no": 14,
+      "soal": "Day : Light = .... : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Floor : Smooth",
+        "B": "Hair : Bald",
+        "C": "Rock : Hard",
+        "D": "Hard : Soft"
+      },
+      "jawaban": "C",
+      "penjelasan": "Siang bercirikan terang; batu bercirikan keras (benda : sifatnya)."
+    },
+    {
+      "no": 15,
+      "soal": "Flock : Birds = Swarm : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mice",
+        "B": "Bees",
+        "C": "Monkeys",
+        "D": "Chickens"
+      },
+      "jawaban": "B",
+      "penjelasan": "Sekelompok burung disebut flock; sekelompok lebah disebut swarm."
+    },
+    {
+      "no": 16,
+      "soal": "You surf in the blue ocean.\nThe underlined word \"surf\" is a ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Noun",
+        "B": "Adjective",
+        "C": "Verb",
+        "D": "Adverb"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pada kalimat ini 'surf' (berselancar) adalah kata kerja setelah subjek 'You'."
+    },
+    {
+      "no": 17,
+      "soal": "She was the .......... of my life.",
+      "gambar": null,
+      "pilihan": {
+        "A": "love",
+        "B": "loving",
+        "C": "lovely",
+        "D": "loveable"
+      },
+      "jawaban": "A",
+      "penjelasan": "Setelah 'the' dibutuhkan kata benda: love."
+    },
+    {
+      "no": 18,
+      "soal": "The ...... of the bells woke me from sleep.",
+      "gambar": null,
+      "pilihan": {
+        "A": "sound",
+        "B": "soundness",
+        "C": "soundly",
+        "D": "sounded"
+      },
+      "jawaban": "A",
+      "penjelasan": "Setelah 'The' dibutuhkan kata benda yang sesuai makna: sound (bunyi)."
+    },
+    {
+      "no": 19,
+      "soal": "The chair is beside the desk.\nThe underlined word \"beside\" is a ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Verb",
+        "B": "Preposition",
+        "C": "Noun",
+        "D": "Adjective"
+      },
+      "jawaban": "B",
+      "penjelasan": "'Beside' (di samping) adalah preposisi."
+    },
+    {
+      "no": 20,
+      "soal": "Viona cuts an onion with a knife.\nThe underlined word \"an\" is a/an ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pronoun",
+        "B": "Noun",
+        "C": "Article",
+        "D": "Conjunction"
+      },
+      "jawaban": "C",
+      "penjelasan": "'An' adalah article (kata sandang)."
+    },
+    {
+      "no": 21,
+      "soal": "If it rains, the ground gets wet. The ground is not wet. What can we conclude?",
+      "gambar": null,
+      "pilihan": {
+        "A": "It definitely rained",
+        "B": "It could be rain",
+        "C": "It did not rain",
+        "D": "It rained but the ground stayed dry"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jika hujan maka tanah basah. Tanah tidak basah, jadi tidak hujan (kontraposisi)."
+    },
+    {
+      "no": 22,
+      "soal": "If Sarah studies, she will pass the test. If Sarah passes the test, she will graduate. Sarah did not graduate. What can we conclude?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sarah studied",
+        "B": "Sarah passed the test",
+        "C": "Sarah did not study",
+        "D": "Sarah will graduate"
+      },
+      "jawaban": "C",
+      "penjelasan": "Tidak lulus berarti tidak lulus tes, dan berarti tidak belajar (kontraposisi berantai)."
+    },
+    {
+      "no": 23,
+      "soal": "If the alarm is set, the door will be locked. The door is not locked. What can we conclude?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The alarm is broken",
+        "B": "The alarm is not set",
+        "C": "Someone forced the door open",
+        "D": "Nothing can be concluded"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pintu tidak terkunci, jadi alarm tidak diset (kontraposisi)."
+    },
+    {
+      "no": 24,
+      "soal": "A laptop is more expensive than a tablet. A tablet is more expensive than a smartphone. A smartphone is more expensive than a smartwatch. Which item is the second cheapest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Smartphone",
+        "B": "Tablet",
+        "C": "Laptop",
+        "D": "Smartwatch"
+      },
+      "jawaban": "A",
+      "penjelasan": "Urutan murah ke mahal: smartwatch, smartphone, tablet, laptop. Termurah kedua adalah smartphone."
+    },
+    {
+      "no": 25,
+      "soal": "Dania scored higher than Bella.\nBella scored higher than Chelsa.\nChelsa scored higher than Dani.\n\nWho scored the third highest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dania",
+        "B": "Chelsa",
+        "C": "Dani",
+        "D": "Bella"
+      },
+      "jawaban": "B",
+      "penjelasan": "Urutan: Dania > Bella > Chelsa > Dani. Tertinggi ketiga adalah Chelsa."
+    },
+    {
+      "no": 26,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Leopard",
+        "B": "Lion",
+        "C": "Cougar",
+        "D": "Monkey"
+      },
+      "jawaban": "D",
+      "penjelasan": "Leopard, lion, dan cougar adalah kucing besar; monkey bukan."
+    },
+    {
+      "no": 27,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Square",
+        "B": "Angle",
+        "C": "Hexagon",
+        "D": "Rectangle"
+      },
+      "jawaban": "B",
+      "penjelasan": "Square, hexagon, dan rectangle adalah bangun datar; angle (sudut) bukan."
+    },
+    {
+      "no": 28,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Heading",
+        "B": "Closing",
+        "C": "Letter",
+        "D": "Body"
+      },
+      "jawaban": "C",
+      "penjelasan": "Heading, closing, dan body adalah bagian surat; letter adalah suratnya sendiri."
+    },
+    {
+      "no": 29,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Guitar",
+        "B": "Violin",
+        "C": "Flute",
+        "D": "Cello"
+      },
+      "jawaban": "C",
+      "penjelasan": "Guitar, violin, dan cello adalah alat musik berdawai; flute adalah alat musik tiup."
+    },
+    {
+      "no": 30,
+      "soal": "Which word does not belong to the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Wing",
+        "B": "Beak",
+        "C": "Fin",
+        "D": "Rudder"
+      },
+      "jawaban": "D",
+      "penjelasan": "Wing, beak, dan fin adalah bagian tubuh hewan; rudder (kemudi) adalah bagian kapal."
+    },
+    {
+      "no": 31,
+      "soal": "There is no chance to meet.\nThe underlined word \"chance\" means ......",
+      "gambar": null,
+      "pilihan": {
+        "A": "enjoyment",
+        "B": "frequency",
+        "C": "opportunity",
+        "D": "improvement"
+      },
+      "jawaban": "C",
+      "penjelasan": "Chance di sini berarti opportunity (kesempatan)."
+    },
+    {
+      "no": 32,
+      "soal": "She is active and young and also haughty and over confident. \"Haughty\" means .......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Humble",
+        "B": "Rude",
+        "C": "Elegant",
+        "D": "Ambitious"
+      },
+      "jawaban": "B",
+      "penjelasan": "Haughty berarti sombong; di antara pilihan, rude paling dekat sebagai sikap negatif terhadap orang lain. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 33,
+      "soal": "Add pieces of toasted bread and cookies to make crumbs.\nThe underlined word \"crumbs\" means ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "small pieces",
+        "B": "special color",
+        "C": "soft texture",
+        "D": "coating"
+      },
+      "jawaban": "A",
+      "penjelasan": "Crumbs berarti remah (potongan kecil)."
+    },
+    {
+      "no": 34,
+      "soal": "I was mesmerized by London by night.\nThe underlined word \"mesmerized\" means ..........",
+      "gambar": null,
+      "pilihan": {
+        "A": "amazed",
+        "B": "shocked",
+        "C": "surprised",
+        "D": "bored"
+      },
+      "jawaban": "A",
+      "penjelasan": "Mesmerized (terpukau) paling dekat dengan amazed."
+    },
+    {
+      "no": 35,
+      "soal": "\"Recycle a one-liter bottle into an adorable puppy bank.\"\nThe underlined word \"adorable\" is similar in meaning to......",
+      "gambar": null,
+      "pilihan": {
+        "A": "important",
+        "B": "gorgeous",
+        "C": "valuable",
+        "D": "exclusive"
+      },
+      "jawaban": "B",
+      "penjelasan": "Adorable (menggemaskan, menarik) paling dekat dengan gorgeous."
+    },
+    {
+      "no": 36,
+      "soal": "Read the following text to answer the questions!\n\nOnce upon a time, there was a king who ruled a kingdom in Teberu Lombok. He had a beautiful daughter called Puteri Mandalika. Because of her beauty, princes and kings from other kingdoms around Teberu wished that she would be their wife. Six of them came to Teberu and asked for her hand in marriage. They were Prince Bumbang, Prince Arya Johor, Prince Singa Trasak, Prince Daria Loka, Prince Gunung Piring, and Prince Bungsu. Each prince wanted to win the heart of Puteri Mandalika.\n\nHer father, the king of Teberu, was very confused and did not know what to do. If he chose one prince instead of another, then it would cause jealousy and there could be war against his kingdom. All the princes were handsome and powerful so the king allowed the daughter to make her own choice. But Putri Mandalika was confused too and she also knew the serious risk that her kingdom and people would get if she chose either one of the princes.\n\nAfter several days of serious thinking Puteri Mandalika met her parents and asked their permission to announce her decision in front of all the princes and the people of Teberu the next day at the beach. Early next morning, everybody gathered at the beach. There was a gentle breeze with small waves breaking softly across the shore. Everybody was looking for Puteri Mandalika, waiting for her announcement.\n\nMeanwhile, the six princes prayed in their heart that they would be the chosen one. Then in a loud and clear voice, Puteri Mandalika said, \"Oh my beloved mother and father, all the princes and especially the people of Teberu Kingdom, today I would like to announce that I will not give myself to any one of the princes, but rather to all people of Teberu and my own kingdom\". Then Puteri Mandalika threw herself into the sea from the top of a hill and disappeared. Everybody desperately searched for her but she could not be found and people believed she was transformed into flowing sea worms called \"nyale\".\n\nFrom the text we may conclude that ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Puteri Mandalika sacrificed herself to the sea for the sake of her people",
+        "B": "Puteri Mandalika was a selfish princess",
+        "C": "One of the princes won the heart of Puteri Mandalika.",
+        "D": "The war happened against the kingdom due to the princess decision"
+      },
+      "jawaban": "A",
+      "penjelasan": "Puteri Mandalika menceburkan diri ke laut agar tidak memilih salah satu pangeran dan menghindari perang, sehingga ia berkorban demi rakyatnya."
+    },
+    {
+      "no": 37,
+      "soal": "Read the following text to answer the questions!\n\nOnce upon a time, there was a king who ruled a kingdom in Teberu Lombok. He had a beautiful daughter called Puteri Mandalika. Because of her beauty, princes and kings from other kingdoms around Teberu wished that she would be their wife. Six of them came to Teberu and asked for her hand in marriage. They were Prince Bumbang, Prince Arya Johor, Prince Singa Trasak, Prince Daria Loka, Prince Gunung Piring, and Prince Bungsu. Each prince wanted to win the heart of Puteri Mandalika.\n\nHer father, the king of Teberu, was very confused and did not know what to do. If he chose one prince instead of another, then it would cause jealousy and there could be war against his kingdom. All the princes were handsome and powerful so the king allowed the daughter to make her own choice. But Putri Mandalika was confused too and she also knew the serious risk that her kingdom and people would get if she chose either one of the princes.\n\nAfter several days of serious thinking Puteri Mandalika met her parents and asked their permission to announce her decision in front of all the princes and the people of Teberu the next day at the beach. Early next morning, everybody gathered at the beach. There was a gentle breeze with small waves breaking softly across the shore. Everybody was looking for Puteri Mandalika, waiting for her announcement.\n\nMeanwhile, the six princes prayed in their heart that they would be the chosen one. Then in a loud and clear voice, Puteri Mandalika said, \"Oh my beloved mother and father, all the princes and especially the people of Teberu Kingdom, today I would like to announce that I will not give myself to any one of the princes, but rather to all people of Teberu and my own kingdom\". Then Puteri Mandalika threw herself into the sea from the top of a hill and disappeared. Everybody desperately searched for her but she could not be found and people believed she was transformed into flowing sea worms called \"nyale\".\n\nEverybody desperately searched for her.... (Paragraph 4)\nThe synonym of the underlined word \"desperately\" is ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "enthusiastically",
+        "B": "hopelessly",
+        "C": "slightly",
+        "D": "lively"
+      },
+      "jawaban": "B",
+      "penjelasan": "Desperately (dengan putus asa) bersinonim dengan hopelessly."
+    },
+    {
+      "no": 38,
+      "soal": "Read the following text to answer the questions!\n\nAn ant went to the river to get a drink. The water rushed so fast that he was washed off the bank into the river. \"I shall drown!\" he cried. \"Help! Help! Help!\" But his voice was too tiny to be heard.\nA dove perched on a branch overhanging the water. She saw the ant struggling and quickly nipped off a leaf, letting it fall into the river. The ant climbed onto it and floated safely to the bank.\n\"Thank you, kind dove! You saved my life,\" the ant called. But the dove couldn't hear him.\nDays later, the dove was resting on the same branch when a hunter crept up the tree, aiming his gun. Suddenly, the ant bit the hunter's leg.\n\"Ouch!\" the hunter yelled, dropping his gun. The startled dove flew away. \"Thank you, kind ant,\" she cooed. The ant heard her and smiled, glad to return the favor.\n\nWhat does the text generally tell us about?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The dove on the tree",
+        "B": "The ant and the dove",
+        "C": "The ant near the river.",
+        "D": "The hunter and the dove."
+      },
+      "jawaban": "B",
+      "penjelasan": "Cerita secara umum tentang saling tolong antara semut dan merpati."
+    },
+    {
+      "no": 39,
+      "soal": "Read the following text to answer the questions!\n\nAn ant went to the river to get a drink. The water rushed so fast that he was washed off the bank into the river. \"I shall drown!\" he cried. \"Help! Help! Help!\" But his voice was too tiny to be heard.\nA dove perched on a branch overhanging the water. She saw the ant struggling and quickly nipped off a leaf, letting it fall into the river. The ant climbed onto it and floated safely to the bank.\n\"Thank you, kind dove! You saved my life,\" the ant called. But the dove couldn't hear him.\nDays later, the dove was resting on the same branch when a hunter crept up the tree, aiming his gun. Suddenly, the ant bit the hunter's leg.\n\"Ouch!\" the hunter yelled, dropping his gun. The startled dove flew away. \"Thank you, kind ant,\" she cooed. The ant heard her and smiled, glad to return the favor.\n\nWhat can we learn from the story?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Supporting each other in crime is a must.",
+        "B": "Sharing each other, making a wealthy life",
+        "C": "Helping each other is the best thing to do in life.",
+        "D": "Thanking each other for kindness is dangerous."
+      },
+      "jawaban": "C",
+      "penjelasan": "Semut dan merpati saling menolong, pelajarannya saling membantu adalah hal terbaik."
+    },
+    {
+      "no": 40,
+      "soal": "Read the following text to answer the questions!\n\nSudirman Street No. 22\nJakarta\nJune 21st\n\nDear Maya,\n\nHow have you been? It's been a while since I last wrote to you. Do you still live in Yogyakarta?\n\nI am writing this letter to tell you that I will be moving to Canada. My father was appointed to the Indonesian Embassy in Canada. We will leave sometime between December 20th and 23rd. I will enroll in a new high school. I am so excited and nervous at the same time.\n\nI want to meet you before I leave Indonesia. I will be visiting my uncle in Yogyakarta in August. Maybe we can meet then?\n\nEarlier this year, I went to the Snow Festival in Japan. It was so beautiful. I thought of you when I saw the ice sculpture of Sailor Moon. It was huge and so detailed. I took a photo of it and have enclosed it with this letter. I hope you like it.\n\nWhat about you? Is there anything new and interesting? Please let me know if you have time in August. I look forward to your reply.\n\nLove,\nAdina\n\nFrom the text above, we can conclude that.......",
+      "gambar": null,
+      "pilihan": {
+        "A": "The writer studied in Canada",
+        "B": "The writer will move to Canada",
+        "C": "The writer visited Japan last year",
+        "D": "The writer does not live in Bandung"
+      },
+      "jawaban": "B",
+      "penjelasan": "Penulis menulis 'I will be moving to Canada'. Ia tidak menyebut tinggal di Bandung (D tidak dapat disimpulkan), dan ke Jepang 'earlier this year', bukan tahun lalu."
+    },
+    {
+      "no": 41,
+      "soal": "My father got appointed to the Indonesian Embassy in Canada.\nThe underlined word \"Embassy\" means ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Consulate",
+        "B": "Lawyer",
+        "C": "Representative",
+        "D": "Delegacy"
+      },
+      "jawaban": "A",
+      "penjelasan": "Embassy (kedutaan besar) paling dekat dengan consulate (kantor perwakilan diplomatik). Soal ini dapat ditafsirkan lain (representative)."
+    },
+    {
+      "no": 42,
+      "soal": "Read the cloze text and choose the best answer!\n\nHi, my name is Nick. Yesterday was a ....... (42) day for me because I stayed at home all day. I wanted to go out but it was raining outside. I was tired of being trapped inside the house.\nI tried to play with my sister but she was doing ...... (43) homework. My father was reading his book and my mother was watching TV.\nAfter lunch, I ....... (44) by the window and looked outside. Some people were waiting at the bus stop. ....... (45) I was looking at the street, I witnessed an accident. A car couldn't stop at the traffic lights and hit another car. Luckily nobody got injured.\n\n42. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "worried",
+        "B": "terrible",
+        "C": "pleasing",
+        "D": "bored"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ia di rumah seharian dan lelah terkurung, jadi harinya membosankan (bored)."
+    },
+    {
+      "no": 43,
+      "soal": "Read the cloze text and choose the best answer!\n\nHi, my name is Nick. Yesterday was a ....... (42) day for me because I stayed at home all day. I wanted to go out but it was raining outside. I was tired of being trapped inside the house.\nI tried to play with my sister but she was doing ...... (43) homework. My father was reading his book and my mother was watching TV.\nAfter lunch, I ....... (44) by the window and looked outside. Some people were waiting at the bus stop. ....... (45) I was looking at the street, I witnessed an accident. A car couldn't stop at the traffic lights and hit another car. Luckily nobody got injured.\n\n43. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "his",
+        "B": "her",
+        "C": "my",
+        "D": "our"
+      },
+      "jawaban": "B",
+      "penjelasan": "Yang mengerjakan PR adalah adiknya perempuan (my sister), jadi 'her'."
+    },
+    {
+      "no": 44,
+      "soal": "Read the cloze text and choose the best answer!\n\nHi, my name is Nick. Yesterday was a ....... (42) day for me because I stayed at home all day. I wanted to go out but it was raining outside. I was tired of being trapped inside the house.\nI tried to play with my sister but she was doing ...... (43) homework. My father was reading his book and my mother was watching TV.\nAfter lunch, I ....... (44) by the window and looked outside. Some people were waiting at the bus stop. ....... (45) I was looking at the street, I witnessed an accident. A car couldn't stop at the traffic lights and hit another car. Luckily nobody got injured.\n\n44. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "sit",
+        "B": "sat",
+        "C": "was sitting",
+        "D": "has sat"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kejadian lampau setelah makan siang ('After lunch, I ... and looked'), jadi bentuk lampau sat."
+    },
+    {
+      "no": 45,
+      "soal": "Read the cloze text and choose the best answer!\n\nHi, my name is Nick. Yesterday was a ....... (42) day for me because I stayed at home all day. I wanted to go out but it was raining outside. I was tired of being trapped inside the house.\nI tried to play with my sister but she was doing ...... (43) homework. My father was reading his book and my mother was watching TV.\nAfter lunch, I ....... (44) by the window and looked outside. Some people were waiting at the bus stop. ....... (45) I was looking at the street, I witnessed an accident. A car couldn't stop at the traffic lights and hit another car. Luckily nobody got injured.\n\n45. ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "When",
+        "B": "After",
+        "C": "While",
+        "D": "Before"
+      },
+      "jawaban": "C",
+      "penjelasan": "Dua kegiatan berlangsung bersamaan (sedang melihat jalan saat melihat kecelakaan), jadi 'While'."
+    }
+  ]
+}
