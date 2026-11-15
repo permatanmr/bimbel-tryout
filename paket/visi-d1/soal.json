@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D1",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal, kata beda, dan pemahaman bacaan.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Substansi = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Batas",
+        "B": "Isi",
+        "C": "Permukaan",
+        "D": "Bagian"
+      },
+      "jawaban": "B",
+      "penjelasan": "Substansi berarti isi atau inti sesuatu, sinonimnya Isi."
+    },
+    {
+      "no": 2,
+      "soal": "Warta = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hasil",
+        "B": "Harta",
+        "C": "Benda",
+        "D": "Berita"
+      },
+      "jawaban": "D",
+      "penjelasan": "Warta berarti kabar atau berita."
+    },
+    {
+      "no": 3,
+      "soal": "Makar = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Aman",
+        "B": "Tipu",
+        "C": "Rugi",
+        "D": "Sejahtera"
+      },
+      "jawaban": "B",
+      "penjelasan": "Makar berarti akal busuk atau tipu muslihat, sinonimnya Tipu."
+    },
+    {
+      "no": 4,
+      "soal": "Makro = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ekonomi",
+        "B": "Besar",
+        "C": "Kecil",
+        "D": "Untung"
+      },
+      "jawaban": "B",
+      "penjelasan": "Makro berarti besar atau berskala luas."
+    },
+    {
+      "no": 5,
+      "soal": "Acuh = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Peduli",
+        "B": "Cuek",
+        "C": "Marah",
+        "D": "Sayang"
+      },
+      "jawaban": "A",
+      "penjelasan": "Menurut KBBI, acuh berarti peduli atau mengindahkan. Cuek (B) justru bermakna tidak peduli, seperti pada ungkapan \"acuh tak acuh\"."
+    },
+    {
+      "no": 6,
+      "soal": "Pasca = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Awal",
+        "B": "Akhir",
+        "C": "Sesudah",
+        "D": "Sebelum"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pasca berarti sesudah atau setelah."
+    },
+    {
+      "no": 7,
+      "soal": "Absorpsi = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Penafsiran",
+        "B": "Pengeluaran",
+        "C": "Penyerapan",
+        "D": "Penelitian"
+      },
+      "jawaban": "C",
+      "penjelasan": "Absorpsi berarti penyerapan."
+    },
+    {
+      "no": 8,
+      "soal": "Sanitasi = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Imitasi",
+        "B": "Irigasi",
+        "C": "Kotor",
+        "D": "Sehat"
+      },
+      "jawaban": "D",
+      "penjelasan": "Sanitasi berkaitan dengan usaha menjaga kebersihan dan kesehatan, sehingga pilihan yang paling dekat adalah Sehat."
+    },
+    {
+      "no": 9,
+      "soal": "Duka = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Suka",
+        "B": "Cita",
+        "C": "Sedih",
+        "D": "Gelisah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Duka berarti kesedihan atau sedih."
+    },
+    {
+      "no": 10,
+      "soal": "Kapabel = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pandai",
+        "B": "Bodoh",
+        "C": "Kurang",
+        "D": "Baik"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kapabel berarti cakap atau mampu, paling dekat dengan Pandai."
+    },
+    {
+      "no": 11,
+      "soal": "Proteksi >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ancaman",
+        "B": "Perlindungan",
+        "C": "Pertahanan",
+        "D": "Pengamanan"
+      },
+      "jawaban": "A",
+      "penjelasan": "Proteksi berarti perlindungan. Lawan katanya Ancaman, sedangkan pilihan lain searti dengan proteksi."
+    },
+    {
+      "no": 12,
+      "soal": "Luring >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jaring",
+        "B": "Garing",
+        "C": "Daring",
+        "D": "Baring"
+      },
+      "jawaban": "C",
+      "penjelasan": "Luring (luar jaringan) berlawanan dengan Daring (dalam jaringan)."
+    },
+    {
+      "no": 13,
+      "soal": "Orator >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pembicara",
+        "B": "Penceramah",
+        "C": "Pemikir",
+        "D": "Pendengar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Orator adalah pembicara. Lawannya adalah Pendengar."
+    },
+    {
+      "no": 14,
+      "soal": "Akurat >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hasil",
+        "B": "Tepat",
+        "C": "Salah",
+        "D": "Cermat"
+      },
+      "jawaban": "C",
+      "penjelasan": "Akurat berarti tepat atau benar. Lawannya adalah Salah."
+    },
+    {
+      "no": 15,
+      "soal": "Mobilitas >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bergerak",
+        "B": "Statis",
+        "C": "Dinamis",
+        "D": "Kaku"
+      },
+      "jawaban": "B",
+      "penjelasan": "Mobilitas adalah kemampuan bergerak. Lawannya adalah Statis (diam, tidak bergerak)."
+    },
+    {
+      "no": 16,
+      "soal": "Baju : Kain = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sendok : Piring",
+        "B": "Bunga : Indah",
+        "C": "Ban : Karet",
+        "D": "Mangga : Manis"
+      },
+      "jawaban": "C",
+      "penjelasan": "Baju terbuat dari kain, ban terbuat dari karet (hubungan benda dan bahan pembuatnya)."
+    },
+    {
+      "no": 17,
+      "soal": "Tempayan : Air = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Asbak : Rokok",
+        "B": "Celengan : Uang",
+        "C": "Lemari : Piring",
+        "D": "Perpustakaan : Pustakawan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tempayan adalah tempat menyimpan air, celengan adalah tempat menyimpan uang."
+    },
+    {
+      "no": 18,
+      "soal": "Kompor : Gas = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Motor : Bensin",
+        "B": "Jaring : Nelayan",
+        "C": "Gergaji : Tukang Kayu",
+        "D": "Direktur : Perusahaan"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kompor memerlukan gas sebagai bahan bakar, motor memerlukan bensin."
+    },
+    {
+      "no": 19,
+      "soal": "Cendrawasih : Maleo = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kucing : Anggora",
+        "B": "Burung : Merpati",
+        "C": "Gurami : Nila",
+        "D": "Herder : Anjing"
+      },
+      "jawaban": "C",
+      "penjelasan": "Cendrawasih dan Maleo sama-sama jenis burung. Gurami dan Nila sama-sama jenis ikan."
+    },
+    {
+      "no": 20,
+      "soal": "Basket : Ring = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Badminton : Kok",
+        "B": "Tinju : Sarung Tangan",
+        "C": "Renang : Kolam",
+        "D": "Sepak Bola : Gawang"
+      },
+      "jawaban": "D",
+      "penjelasan": "Dalam basket bola dimasukkan ke ring, dalam sepak bola bola dimasukkan ke gawang."
+    },
+    {
+      "no": 21,
+      "soal": "Petani : Cangkul : Padi = ... : ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Nelayan : Jala : Ikan",
+        "B": "Sopir : Penumpang : Angkutan",
+        "C": "Pemburu : Hutan : Burung",
+        "D": "Politisi : Suara : Pemilu"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pelaku : alat : hasil yang didapat. Petani memakai cangkul untuk menghasilkan padi, nelayan memakai jala untuk mendapatkan ikan."
+    },
+    {
+      "no": 22,
+      "soal": "Kabel : Karet = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Buku : Sampul",
+        "B": "Madu : Manis",
+        "C": "Samo : Rambut",
+        "D": "Gelas : Kaca"
+      },
+      "jawaban": "A",
+      "penjelasan": "Karet adalah pembungkus (isolator) kabel, sampul adalah pembungkus buku. Keduanya berhubungan benda dan pelapis luarnya."
+    },
+    {
+      "no": 23,
+      "soal": "Gudeg : Yogyakarta = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pempek : Sumatra Utara",
+        "B": "Jakarta : Soto",
+        "C": "Rendang : Sumatra Barat",
+        "D": "Papua : Papeda"
+      },
+      "jawaban": "C",
+      "penjelasan": "Makanan khas dan daerah asalnya. Gudeg dari Yogyakarta, rendang dari Sumatra Barat."
+    },
+    {
+      "no": 24,
+      "soal": "Laba : Rugi = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Obat : Pahit",
+        "B": "Segar : Buah",
+        "C": "Kasar : Halus",
+        "D": "Manis : Madu"
+      },
+      "jawaban": "C",
+      "penjelasan": "Laba dan rugi berlawanan, kasar dan halus juga berlawanan."
+    },
+    {
+      "no": 25,
+      "soal": "Pandai : Pintar = ... : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Watak : Protagonis",
+        "B": "Ayah : Ibu",
+        "C": "Virtual : Maya",
+        "D": "Dalam : Dangkal"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pandai dan pintar bersinonim, virtual dan maya juga bersinonim."
+    },
+    {
+      "no": 26,
+      "soal": "Klasifikasi Kata: pilih kata yang berbeda dari tiga kata lainnya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berkebun",
+        "B": "Berenang",
+        "C": "Menyelam",
+        "D": "Memancing"
+      },
+      "jawaban": "A",
+      "penjelasan": "Berenang, menyelam, dan memancing adalah kegiatan di air. Berkebun dilakukan di darat."
+    },
+    {
+      "no": 27,
+      "soal": "Klasifikasi Kata: pilih kata yang berbeda dari tiga kata lainnya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Timah",
+        "B": "Tembaga",
+        "C": "Pasir",
+        "D": "Aluminium"
+      },
+      "jawaban": "C",
+      "penjelasan": "Timah, tembaga, dan aluminium adalah logam. Pasir bukan logam."
+    },
+    {
+      "no": 28,
+      "soal": "Klasifikasi Kata: pilih kata yang berbeda dari tiga kata lainnya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bisa",
+        "B": "Sanggup",
+        "C": "Bekerja",
+        "D": "Hebat"
+      },
+      "jawaban": "C",
+      "penjelasan": "Bisa, sanggup, dan hebat berkaitan dengan kemampuan. Bekerja adalah kegiatan."
+    },
+    {
+      "no": 29,
+      "soal": "Klasifikasi Kata: pilih kata yang berbeda dari tiga kata lainnya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Megawati",
+        "B": "Soekarno",
+        "C": "Anies Baswedan",
+        "D": "Abdurrahman Wahid"
+      },
+      "jawaban": "C",
+      "penjelasan": "Megawati, Soekarno, dan Abdurrahman Wahid pernah menjadi Presiden Indonesia. Anies Baswedan tidak."
+    },
+    {
+      "no": 30,
+      "soal": "Klasifikasi Kata: pilih kata yang berbeda dari tiga kata lainnya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lumba-lumba",
+        "B": "Paus",
+        "C": "Manusia",
+        "D": "Lele"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lumba-lumba, paus, dan manusia adalah mamalia. Lele adalah ikan."
+    },
+    {
+      "no": 31,
+      "soal": "Jika ibu memasak di rumah, maka saya makan di rumah. Ternyata, ibu memasak di rumah. Maka ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Saya makan di rumah",
+        "B": "Saya tidak makan di rumah",
+        "C": "Ibu memasak kesukaan saya",
+        "D": "Saya selalu makan di rumah"
+      },
+      "jawaban": "A",
+      "penjelasan": "Modus ponens: jika P maka Q, P benar, maka Q benar. Ibu memasak di rumah, jadi saya makan di rumah."
+    },
+    {
+      "no": 32,
+      "soal": "Semua demam adalah penyakit. Semua penyakit adalah mengganggu kesehatan. Maka ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua demam mengganggu kesehatan",
+        "B": "Sebagian yang mengganggu kesehatan adalah demam",
+        "C": "Sebagian demam tidak mengganggu kesehatan",
+        "D": "Semua yang mengganggu kesehatan adalah penyakit"
+      },
+      "jawaban": "A",
+      "penjelasan": "Silogisme: demam termasuk penyakit dan semua penyakit mengganggu kesehatan, sehingga semua demam mengganggu kesehatan."
+    },
+    {
+      "no": 33,
+      "soal": "Beberapa dokter gigi ada yang menjadi dosen. Semua dokter gigi memiliki klinik untuk praktik. Maka ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua dokter gigi adalah dosen",
+        "B": "Beberapa dokter gigi adalah dosen dan tidak memiliki klinik untuk praktik",
+        "C": "Ada dokter gigi yang menjadi dosen dan memiliki klinik untuk praktik",
+        "D": "Tidak ada dokter gigi yang memiliki klinik untuk praktik"
+      },
+      "jawaban": "C",
+      "penjelasan": "Dokter gigi yang menjadi dosen juga dokter gigi, sehingga ia memiliki klinik untuk praktik."
+    },
+    {
+      "no": 34,
+      "soal": "Jika Ratna pergi ke Candi Prambanan, maka ia juga pergi ke Keraton Yogyakarta. Jika Ratna pergi ke Keraton Yogyakarta, maka Kiki pergi ke Candi Borobudur. Kiki pergi ke Malioboro. Simpulan yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ratna dan Kiki pergi ke Malioboro",
+        "B": "Kiki dan Ratna pergi ke Candi Prambanan",
+        "C": "Ratna tidak pergi ke Candi Prambanan",
+        "D": "Ratna pergi ke Keraton Yogyakarta dan Candi Borobudur"
+      },
+      "jawaban": "C",
+      "penjelasan": "Kiki pergi ke Malioboro (tidak ke Borobudur), maka Ratna tidak pergi ke Keraton Yogyakarta, dan akibatnya Ratna tidak pergi ke Candi Prambanan (modus tollens)."
+    },
+    {
+      "no": 35,
+      "soal": "Banyak seniman di Bali yang menjadi penari. Pak Wayan seorang seniman di Bali. Simpulan yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pak Wayan tidak menjadi penari",
+        "B": "Pak Wayan hanya menjadi penari",
+        "C": "Pak Wayan mungkin menjadi penari",
+        "D": "Pak Wayan pasti menjadi penari"
+      },
+      "jawaban": "C",
+      "penjelasan": "Premis hanya menyebut banyak (bukan semua) seniman Bali yang menjadi penari, jadi Pak Wayan mungkin menjadi penari."
+    },
+    {
+      "no": 36,
+      "soal": "Kata Beda (Kelas Kata): pilih kata yang berbeda kelas katanya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kebaikan",
+        "B": "Perkantoran",
+        "C": "Perkelahian",
+        "D": "Berkelahi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kebaikan, perkantoran, dan perkelahian adalah kata benda. Berkelahi adalah kata kerja."
+    },
+    {
+      "no": 37,
+      "soal": "Kata Beda (Kelas Kata): pilih kata yang berbeda kelas katanya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baik",
+        "B": "Rajin",
+        "C": "Malas",
+        "D": "Belajar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Baik, rajin, dan malas adalah kata sifat. Belajar adalah kata kerja."
+    },
+    {
+      "no": 38,
+      "soal": "Kata Beda (Kelas Kata): pilih kata yang berbeda kelas katanya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Anak",
+        "B": "Baik",
+        "C": "Buku",
+        "D": "Sekolah"
+      },
+      "jawaban": "B",
+      "penjelasan": "Anak, buku, dan sekolah adalah kata benda. Baik adalah kata sifat."
+    },
+    {
+      "no": 39,
+      "soal": "Kata Beda (Kelas Kata): pilih kata yang berbeda kelas katanya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Besar",
+        "B": "Cerah",
+        "C": "Biru",
+        "D": "Langit"
+      },
+      "jawaban": "D",
+      "penjelasan": "Besar, cerah, dan biru adalah kata sifat. Langit adalah kata benda."
+    },
+    {
+      "no": 40,
+      "soal": "Kata Beda (Kelas Kata): pilih kata yang berbeda kelas katanya.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berteriak",
+        "B": "Melihat",
+        "C": "Diberikan",
+        "D": "Penyanyi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Berteriak, melihat, dan diberikan adalah kata kerja. Penyanyi adalah kata benda."
+    },
+    {
+      "no": 41,
+      "soal": "Bacalah kutipan teks berikut!\n\nPetugas pengelola pariwisata Taman Seroja memprediksi terdapat sekitar 27 ribu pelancong yang datang ke tempat ini pada saat liburan akhir semester di tahun ini. Prediksi ini tentu saja tidak berlebihan karena berkaca pada jumlah pelancong yang datang pada saat musim liburan di tahun lalu. Dalam rangka menambah minat dan daya tarik pelancong, petugas pengelola akan mempersiapkan beberapa hiburan baru seperti misalnya wahana air, pertunjukan musik, sulap, dan masih banyak lagi.\n\nGagasan utama pada paragraf di atas adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Taman Seroja adalah tempat wisata terbaik di Indonesia.",
+        "B": "Adanya tambahan wahana air di tempat wisata Taman Seroja.",
+        "C": "Prediksi peningkatan jumlah pelancong wisata Taman Seroja di tahun ini.",
+        "D": "Beberapa wahana baru Taman Seroja akan menarik minat para pelancong."
+      },
+      "jawaban": "C",
+      "penjelasan": "Gagasan utama ada pada kalimat pertama, yaitu prediksi jumlah pelancong di tahun ini. Kalimat berikutnya menjelaskan alasan dan upaya pengelola."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah kutipan teks berikut!\n\nProgram 3R (reduce, reuse, dan recycle) yang didengungkan para aktivis lingkungan hingga kini tersendat-sendat bahkan tidak berjalan karena kurangnya kepedulian masyarakat. Setiap orang hanya memikirkan mudahnya saja tanpa berpikir panjang. Kondisi masyarakat seperti ini harus diubah. Dengan konsep zero waste, yaitu memproses sampah mulai dari sumbernya, masalah sampah ini bisa ditangani antara lain dengan mengubah sampah menjadi kompos. Pembuatan kompos terbilang mudah, biaya murah, dan bisa dilakukan semua orang.\n\nSimpulan isi paragraf tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cara mengolah sampah menjadi kompos terbilang mudah, murah, dan bisa dilakukan semua orang.",
+        "B": "Program 3R berjalan tersendat-sendat karena kurangnya kepedulian masyarakat terhadap sampah.",
+        "C": "Kondisi masyarakat saat ini harus diubah karena hanya memikirkan mudahnya saja tanpa berpikir panjang.",
+        "D": "Program 3R yang tersendat-sendat dapat diatasi dengan penanganan sampah yang dimulai dari sumbernya."
+      },
+      "jawaban": "D",
+      "penjelasan": "Simpulan merangkum masalah (program 3R tersendat) dan solusinya (zero waste, pengolahan sampah dari sumbernya)."
+    },
+    {
+      "no": 43,
+      "soal": "Perhatikan data-data formulir berikut!\n\nData:\n1. Jalan Patal IV No. 20 Paku Jaya, Tangerang Selatan\n2. Tangerang, 11 Agustus 2013\n3. Xavier\n4. Islam\n5. SD Visi Barito\n\nDaftar Riwayat Hidup:\nNama : [...]\nTempat, tanggal lahir : [...]\nSekolah : [...]\nAgama : [...]\nAlamat : [...]\n\nUrutan data yang tepat jika diisikan dalam \"Daftar Riwayat Hidup\" adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "3 – 1 – 5 – 2 – 4",
+        "B": "3 – 5 – 4 – 2 – 1",
+        "C": "3 – 2 – 1 – 4 – 5",
+        "D": "3 – 2 – 5 – 4 – 1"
+      },
+      "jawaban": "D",
+      "penjelasan": "Nama = 3 (Xavier), tempat dan tanggal lahir = 2, sekolah = 5, agama = 4, alamat = 1. Urutannya 3 – 2 – 5 – 4 – 1."
+    },
+    {
+      "no": 44,
+      "soal": "Cermati kerangka surat pribadi berikut!\n\n(1) Salam rindu, Kakak bagaimana kabarmu di sana?\n(2) Untuk Pelangi, Kakakku Tercinta, di Bandung\n(3) Indramayu, 10 Maret 2025\n(4) Isi tentang kerinduan adik pada kakak yang sedang kuliah di Bandung\n(5) Wassalamualaikum wr. wb.\n(6) Akhir kata, semoga Kakak selalu dalam lindungan-Nya.\n(7) Dari Adikmu Tersayang, Dede Ayung\n\nUrutan kerangka untuk penulisan surat pribadi yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "(1) - (7) - (6) - (4) - (5) - (2) - (3)",
+        "B": "(3) - (2) - (1) - (4) - (6) - (5) - (7)",
+        "C": "(2) - (3) - (1) - (7) - (5) - (6) - (4)",
+        "D": "(7) - (2) - (1) - (3) - (4) - (6) - (5)"
+      },
+      "jawaban": "B",
+      "penjelasan": "Urutan surat pribadi: tempat dan tanggal (3), alamat tujuan (2), salam pembuka (1), isi (4), kalimat penutup (6), salam penutup (5), nama pengirim (7)."
+    },
+    {
+      "no": 45,
+      "soal": "Perhatikan kalimat-kalimat berikut!\n\n(1) Arkan dijuluki si kutu buku karena suka membaca buku.\n(2) Ibu membeli emas 10 gram di toko perhiasan kemarin.\n(3) Para petani menanam padi di sawah yang luas.\n(4) Santi membaca buku di perpustakaan setiap sore.\n\nDari keempat kalimat tersebut, makna konotatif terletak pada kalimat bernomor ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kalimat 1",
+        "B": "Kalimat 2",
+        "C": "Kalimat 3",
+        "D": "Kalimat 4"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kutu buku pada kalimat 1 bermakna kiasan (orang yang gemar membaca), bukan kutu sebenarnya. Kalimat lain bermakna denotatif."
+    },
+    {
+      "no": 46,
+      "soal": "Bacalah kutipan pidato berikut!\n\nHadirin yang saya hormati, menerapkan pola hidup sehat dilakukan agar kita terhindar dari berbagai penyakit. Ada beberapa pola hidup sehat yang perlu diperhatikan, antara lain pola makan dan olahraga teratur. Pola makan harus dijaga agar tidak menimbulkan sesuatu yang tidak kita inginkan, seperti obesitas dan kekurangan gizi. Berolahraga teratur juga harus kita lakukan karena dapat memberikan manfaat bagi kesehatan tubuh. […]\n\nKalimat ajakan yang tepat untuk melengkapi pidato tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Oleh karena itu, selalu sediakan makanan yang mengandung banyak zat gizi di rumahmu.",
+        "B": "Oleh karena itu, hindarilah mengonsumsi makanan yang tidak mengandung zat gizi.",
+        "C": "Oleh karena itu, gunakanlah waktumu untuk istirahat jangan sampai kelelahan ketika berolahraga.",
+        "D": "Oleh karena itu, terapkanlah pola makan sehat dan olahraga teratur agar terhindar dari penyakit."
+      },
+      "jawaban": "D",
+      "penjelasan": "Ajakan penutup harus mencakup dua pokok pidato, yaitu pola makan sehat dan olahraga teratur."
+    },
+    {
+      "no": 47,
+      "soal": "Bacalah teks petunjuk berikut!\n\n(1) Ambillah troli belanja yang terletak di samping pintu masuk.\n(2) Masuklah melalui pintu masuk yang disediakan.\n(3) Pilihlah barang belanjaan sesuai kebutuhanmu.\n(4) Bawalah barang belanjaan tersebut menuju kasir.\n(5) ...........\n(6) Jangan lupa simpan uang kembalian dan mintalah struk belanjaanmu.\n\nKalimat yang tepat melengkapi petunjuk di atas adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bayarlah barang belanjaan di kasir.",
+        "B": "Kembalikan troli belanja ke tempat semula.",
+        "C": "Pilihlah barang belanjaan sesuai keinginan hatimu.",
+        "D": "Kembalikan barang belanjaanmu yang terlalu mahal."
+      },
+      "jawaban": "A",
+      "penjelasan": "Setelah membawa barang ke kasir (4) langkah berikutnya adalah membayar, lalu menerima uang kembalian dan struk (6)."
+    },
+    {
+      "no": 48,
+      "soal": "Bacalah kutipan biografi berikut!\n\nGalileo lahir di Italia, 15 Februari 1564. Ia adalah sosok yang pantang menyerah walau tidak mampu memperoleh gelar perguruan tinggi. Sumbangan Galileo yang nyata ialah mengenai hukum kelambanan pada tahun 1583. Namun, penemuan di bidang astronomi lah yang membuatnya terkenal. Berkat teleskop yang diciptakannya, ia bisa membuktikan bahwa teori Copernicus yang menyatakan bahwa bumi mengitari matahari adalah benar.\n\nKeteladanan tokoh yang sesuai dengan isi biografi tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tokoh yang membuktikan kebenaran teori Copernicus",
+        "B": "Sosok yang pantang menyerah dalam belajar",
+        "C": "Tokoh yang percaya bumi mengitari matahari",
+        "D": "Ilmuwan yang menciptakan teleskop"
+      },
+      "jawaban": "B",
+      "penjelasan": "Keteladanan adalah sikap yang dapat dicontoh, yaitu pantang menyerah dalam belajar meski tidak memperoleh gelar perguruan tinggi. Pilihan lain hanya menyebut fakta."
+    },
+    {
+      "no": 49,
+      "soal": "Bacalah laporan pengamatan berikut!\n\nSiswa kelas VI SD Barito mendapat tugas mengamati siswa kelas IV yang sedang mengikuti pesta siaga di SD Visi. Pengamatan dilaksanakan pada hari Minggu, 11 Agustus 2024. [...]. Lomba tersebut antara lain, baris berbaris, semapur, morse, menaksir, cerdas cermat, lempar bola, dan tali-temali. Masing-masing regu wajib mewakilkan dua peserta untuk mengikuti lomba.\n\nKalimat yang tepat untuk melengkapi teks laporan tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Setiap regu membawa atribut pramuka lengkap.",
+        "B": "Pesta siaga dimeriahkan dengan berbagai kegiatan lomba.",
+        "C": "Setiap sekolah mengirim 20 siswa untuk mengikuti pesta siaga.",
+        "D": "Ada 20 regu putra dan 20 regu putri yang mengikuti pesta siaga."
+      },
+      "jawaban": "B",
+      "penjelasan": "Kalimat setelah bagian yang hilang diawali \"Lomba tersebut\", sehingga kalimat yang melengkapinya harus menyebut lomba lebih dulu."
+    },
+    {
+      "no": 50,
+      "soal": "Bacalah kedua teks berita berikut!\n\nBerita 1\nKebakaran Los Angeles bermula di Pacific Palisades yang kemudian menyebar ke arah barat menuju Malibu sepanjang Pacific Coast Highway. Lantas untuk penyebaran api yang begitu hebat diduga adalah dampak dari angin Santa Ana yang bertiup dari pedalaman menuju pantai dengan kecepatan 90km/jam. Sementara untuk pemantik api yang menyebabkan kobaran besar, pemerintah setempat sedang melakukan investigasi mendalam untuk mengumpulkan bukti dan data.\nSumber: Suara.com \"Apa Penyebab Kebakaran Los Angeles? Begini Nasib Rumah Nikita Willy di Kawasan Elite Amerika\", 10 Januari 2025\n\nBerita 2\nPenyebab utama kebakaran Los Angeles dipicu oleh kondisi cuaca ekstrem dan efek perubahan iklim. Kuatnya angin Santa Ana, ditambah kekeringan yang berkepanjangan ini semacam jadi bahan bakar api sehingga penyebaran api semakin cepat. Fenomena angin Santa Ana dianggap sebagai angin paling mematikan di Los Angeles. Bahkan sampai mendapat julukan angin setan.\nSumber: Suara.com \"Penyebab Kebakaran Hutan Los Angeles Gara-gara Santa Ana, Apa Itu?\", 14 Januari 2025\n\nKesamaan informasi kedua berita tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kebakaran hutan karena cuaca ekstrim.",
+        "B": "Angin Santa Ana sebagai penyebab kebakaran.",
+        "C": "Dampak cuaca ekstrim yang tidak dapat diprediksi.",
+        "D": "Dampak bencana sangat berpengaruh bagi ekonomi sekitar."
+      },
+      "jawaban": "B",
+      "penjelasan": "Kedua berita sama-sama menyebut angin Santa Ana sebagai penyebab menyebarnya kebakaran."
+    },
+    {
+      "no": 51,
+      "soal": "Cermati poster iklan berikut! Jenis iklan dari poster tersebut adalah ...",
+      "gambar": "soal_51.png",
+      "pilihan": {
+        "A": "komersial",
+        "B": "layanan masyarakat",
+        "C": "penawaran",
+        "D": "permintaan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Poster mengajak masyarakat mengikuti vaksinasi COVID-19 dan menjaga protokol kesehatan, tanpa menjual barang atau jasa. Itu ciri iklan layanan masyarakat."
+    },
+    {
+      "no": 52,
+      "soal": "Teks cerita berikut untuk menjawab soal nomor 52 dan 53.\n\nPemuda Yang Bersahaja\n\nPada zaman dahulu, di Sumatra Utara hiduplah seorang pemuda bernama Tigor. Ia hidup sebatang kara. Kedua orang tuanya telah meninggal ketika Tigor masih berusia muda. Tigor tidak memiliki kakak ataupun adik. Ia pun tak mempunyai sanak saudara. Oleh karena itu terkadang Tigor merasa hampa dan kesepian menjalani hidup menyendiri seperti itu.\n\nTigor tinggal di sebuah gubuk tua peninggalan orang tuanya. Tigor bekerja sebagai seorang petani. Sehari-hari ia menggarap sepetak sawah yang juga peninggalan orang-tuanya. Ia sangat giat bekerja menggarap sepetak sawah kecil miliknya itu. Sehingga kegigihannya itu membuahkan hasil.\n\nHampir setiap tahun, hasil panen Tigor sangat memuaskan. Meskipun padi yang dihasilkan dari sepetak sawah yang dimilikinya itu sangat sedikit, tetapi kualitas padi milik Tigor termasuk yang terbaik di desa itu. Uang yang ia peroleh dari hasil panen disimpannya untuk memenuhi kebutuhan sehari-hari. Tidak lupa Tigor pun menyisihkan uangnya untuk ditabung sebagai bekal bila ia menikah nanti.\n\nKini Tigor telah beranjak dewasa. Ia tumbuh menjadi seorang pemuda yang cukup tampan. Namun sayang belum ada satu gadis pun yang mampu menarik hatinya. Memang banyak gadis-gadis cantik yang memujanya, tetapi Tigor menginginkan calon istrinya kelak tidak hanya terlihat cantik di luar saja tetapi harus cantik hatinya pula. Selain itu, memang untuk waktu dekat ini, Tigor belum memiliki keinginan untuk berkeluarga. Hidupnya masih terasa belum mapan.\n\nBegitulah keseharian Tigor. Hidupnya hanya diabdikan untuk bekerja. Ia ingin hidupnya terus mengalami peningkatan menjadi lebih baik. Tigor ingin kelak jika sudah menemukan pendamping hidupnya, tidak akan membuat istrinya menderita. Ia akan berusaha memberikan kebahagiaan kepada istrinya itu.\n\nSumber: DISPUSIP Daerah Provinsi Sumatra Utara\n\nWatak tokoh dalam cerita tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemalas dan pekerja keras",
+        "B": "Serakah dan sombong",
+        "C": "Mudah putus asa dan gigih",
+        "D": "Gigih dan bertanggung jawab"
+      },
+      "jawaban": "D",
+      "penjelasan": "Tigor giat menggarap sawah, menabung, dan merencanakan masa depannya. Itu menunjukkan watak gigih dan bertanggung jawab."
+    },
+    {
+      "no": 53,
+      "soal": "Teks cerita berikut untuk menjawab soal nomor 52 dan 53.\n\nPemuda Yang Bersahaja\n\nPada zaman dahulu, di Sumatra Utara hiduplah seorang pemuda bernama Tigor. Ia hidup sebatang kara. Kedua orang tuanya telah meninggal ketika Tigor masih berusia muda. Tigor tidak memiliki kakak ataupun adik. Ia pun tak mempunyai sanak saudara. Oleh karena itu terkadang Tigor merasa hampa dan kesepian menjalani hidup menyendiri seperti itu.\n\nTigor tinggal di sebuah gubuk tua peninggalan orang tuanya. Tigor bekerja sebagai seorang petani. Sehari-hari ia menggarap sepetak sawah yang juga peninggalan orang-tuanya. Ia sangat giat bekerja menggarap sepetak sawah kecil miliknya itu. Sehingga kegigihannya itu membuahkan hasil.\n\nHampir setiap tahun, hasil panen Tigor sangat memuaskan. Meskipun padi yang dihasilkan dari sepetak sawah yang dimilikinya itu sangat sedikit, tetapi kualitas padi milik Tigor termasuk yang terbaik di desa itu. Uang yang ia peroleh dari hasil panen disimpannya untuk memenuhi kebutuhan sehari-hari. Tidak lupa Tigor pun menyisihkan uangnya untuk ditabung sebagai bekal bila ia menikah nanti.\n\nKini Tigor telah beranjak dewasa. Ia tumbuh menjadi seorang pemuda yang cukup tampan. Namun sayang belum ada satu gadis pun yang mampu menarik hatinya. Memang banyak gadis-gadis cantik yang memujanya, tetapi Tigor menginginkan calon istrinya kelak tidak hanya terlihat cantik di luar saja tetapi harus cantik hatinya pula. Selain itu, memang untuk waktu dekat ini, Tigor belum memiliki keinginan untuk berkeluarga. Hidupnya masih terasa belum mapan.\n\nBegitulah keseharian Tigor. Hidupnya hanya diabdikan untuk bekerja. Ia ingin hidupnya terus mengalami peningkatan menjadi lebih baik. Tigor ingin kelak jika sudah menemukan pendamping hidupnya, tidak akan membuat istrinya menderita. Ia akan berusaha memberikan kebahagiaan kepada istrinya itu.\n\nSumber: DISPUSIP Daerah Provinsi Sumatra Utara\n\nPesan moral yang terkandung dalam cerita tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kesendirian dapat menyebabkan hidup menjadi hampa dan tanpa tujuan.",
+        "B": "Kecantikan fisik adalah hal utama yang harus dicari dalam diri pasangan hidup.",
+        "C": "Hidup sebatang kara membuat seseorang harus selalu bergantung pada orang lain.",
+        "D": "Ketekunan dan kerja keras akan membuahkan hasil yang baik serta pentingnya perencanaan untuk masa depan."
+      },
+      "jawaban": "D",
+      "penjelasan": "Cerita menunjukkan kerja keras Tigor membuahkan hasil panen yang baik, dan ia menabung untuk masa depan."
+    },
+    {
+      "no": 54,
+      "soal": "Bacalah puisi berikut!\n\nDulu Kita Bersama\n\nSekumpulan pemuda penuh euphoria\nMencoba berbagai fasilitas ibukota\nBermain menikmati semuanya\nNamun, kini kita tak lagi bersama\nJalanan kehidupan yang berliku\nTelah memaksa kita memilih\npersimpangan yang berbeda\nYang menjauhkan kita dari sedia kala\n\nMakna kata yang dicetak miring (euphoria) pada puisi tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Perasaan gembira yang berlebihan.",
+        "B": "Perasaan penuh harapan dan cita-cita.",
+        "C": "Perasaan sedih yang mendalam.",
+        "D": "Perasaan duka yang berlebihan."
+      },
+      "jawaban": "A",
+      "penjelasan": "Euphoria (euforia) berarti perasaan gembira yang berlebihan. Konteksnya cocok, yaitu pemuda yang bermain dan menikmati semuanya."
+    },
+    {
+      "no": 55,
+      "soal": "Bacalah kalimat berikut!\n\nraja Salman bin abdul aziz menerima batik dari Presiden.\n\nPerbaikan penggunaan huruf kapital yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Raja Salman bin Abdul Aziz menerima batik dari Presiden.",
+        "B": "Raja Salman Bin Abdul Aziz menerima Batik dari presiden.",
+        "C": "Raja Salman bin Abdul Aziz menerima batik dari presiden.",
+        "D": "Raja Salman bin Abdul Aziz menerima Batik dari Presiden."
+      },
+      "jawaban": "A",
+      "penjelasan": "Huruf kapital dipakai pada gelar dan nama orang (Raja Salman, Abdul Aziz) dan pada jabatan yang tidak diikuti nama (Presiden dalam konteks ini). Kata bin tidak dikapitalkan, dan batik tidak dikapitalkan."
+    }
+  ]
+}
