@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D6",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal (urutan kecepatan), kata beda, dan pemahaman bacaan (poster, laporan, pidato, petunjuk, cerita, puisi, dan ejaan).",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Dusta = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kala",
+        "B": "Bohong",
+        "C": "Puba",
+        "D": "Kasta"
+      },
+      "jawaban": "B",
+      "penjelasan": "Dusta berarti bohong."
+    },
+    {
+      "no": 2,
+      "soal": "Mutu = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kualitas",
+        "B": "Kuantitas",
+        "C": "Jaminan",
+        "D": "Hasil"
+      },
+      "jawaban": "A",
+      "penjelasan": "Mutu berarti kualitas."
+    },
+    {
+      "no": 3,
+      "soal": "Acuh = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mau",
+        "B": "Peduli",
+        "C": "Bisa",
+        "D": "Marah"
+      },
+      "jawaban": "B",
+      "penjelasan": "Menurut KBBI, acuh berarti peduli atau mengindahkan (bukan 'tidak peduli'). Soal ini bergantung pada makna menurut KBBI."
+    },
+    {
+      "no": 4,
+      "soal": "Steril = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kotor",
+        "B": "Bersih",
+        "C": "Sehat",
+        "D": "Sakit"
+      },
+      "jawaban": "B",
+      "penjelasan": "Steril berarti bersih dari kuman, paling dekat dengan bersih."
+    },
+    {
+      "no": 5,
+      "soal": "Spiral = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Melengkung",
+        "B": "Sulur batang",
+        "C": "Kawat",
+        "D": "Lurus"
+      },
+      "jawaban": "B",
+      "penjelasan": "Spiral berbentuk pilinan melingkar, mirip sulur batang yang melilit. Soal ini dapat ditafsirkan lain (melengkung)."
+    },
+    {
+      "no": 6,
+      "soal": "Sesuai = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kompak",
+        "B": "Layak",
+        "C": "Banyak",
+        "D": "Kelompok"
+      },
+      "jawaban": "B",
+      "penjelasan": "Sesuai berarti cocok atau pantas, dekat dengan layak. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 7,
+      "soal": "Wangi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bau",
+        "B": "Lezat",
+        "C": "Harum",
+        "D": "Busuk"
+      },
+      "jawaban": "C",
+      "penjelasan": "Wangi berarti harum."
+    },
+    {
+      "no": 8,
+      "soal": "Motif = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Wujud",
+        "B": "Gambar",
+        "C": "Pola",
+        "D": "Motivasi"
+      },
+      "jawaban": "C",
+      "penjelasan": "Motif (pada batik atau gambar) berarti pola. Soal ini dapat ditafsirkan lain (motivasi)."
+    },
+    {
+      "no": 9,
+      "soal": "Klarifikasi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pengelompokan",
+        "B": "Penentuan",
+        "C": "Penjelasan",
+        "D": "Permintaan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Klarifikasi berarti penjelasan atau pengiriman penegasan."
+    },
+    {
+      "no": 10,
+      "soal": "Homogen = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berbeda",
+        "B": "Harmonis",
+        "C": "Udara",
+        "D": "Sejenis"
+      },
+      "jawaban": "D",
+      "penjelasan": "Homogen berarti sejenis atau sama jenisnya."
+    },
+    {
+      "no": 11,
+      "soal": "Noda >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kotor",
+        "B": "Cuci",
+        "C": "Rapi",
+        "D": "Suci"
+      },
+      "jawaban": "D",
+      "penjelasan": "Noda berarti cela atau kotoran; lawan katanya suci (tanpa cela). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 12,
+      "soal": "Simpati >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Suka",
+        "B": "Iri",
+        "C": "Benci",
+        "D": "Jahat"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata simpati (rasa suka) adalah benci."
+    },
+    {
+      "no": 13,
+      "soal": "Teratur >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rapi",
+        "B": "Terarah",
+        "C": "Rusuh",
+        "D": "Sistematis"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata teratur adalah rusuh (kacau)."
+    },
+    {
+      "no": 14,
+      "soal": "Berubah >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Asing",
+        "B": "Pindah",
+        "C": "Konstan",
+        "D": "Tukar"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata berubah adalah konstan (tetap)."
+    },
+    {
+      "no": 15,
+      "soal": "Mini >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kecil",
+        "B": "Sedikit",
+        "C": "Mikro",
+        "D": "Jumbo"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata mini (kecil) adalah jumbo (besar)."
+    },
+    {
+      "no": 16,
+      "soal": "Guru : Sekolah = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Musisi : Gitar",
+        "B": "Penebang pohon : Pabrik",
+        "C": "Petani : Ladang",
+        "D": "Pengacara : Hukum"
+      },
+      "jawaban": "C",
+      "penjelasan": "Guru bekerja di sekolah, petani bekerja di ladang (profesi : tempat kerja)."
+    },
+    {
+      "no": 17,
+      "soal": "Baju : Pakaian = Beras : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sawah",
+        "B": "Petani",
+        "C": "Padi",
+        "D": "Desa"
+      },
+      "jawaban": "C",
+      "penjelasan": "Baju adalah salah satu bentuk pakaian; beras adalah hasil olahan dari padi. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 18,
+      "soal": "Orang bodoh : Ilmu = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Orang miskin : Derma",
+        "B": "Orang kaya : Harta",
+        "C": "Orang menganggur : Kerja",
+        "D": "Orang bekerja : gaji"
+      },
+      "jawaban": "C",
+      "penjelasan": "Orang bodoh tidak memiliki ilmu, orang menganggur tidak memiliki kerja (kekurangan)."
+    },
+    {
+      "no": 19,
+      "soal": "Samudra : Laut = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Danau : Air",
+        "B": "Pulau : Benua",
+        "C": "Laut : Sungai",
+        "D": "Bukit : Lembah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Samudra lebih luas daripada laut, laut lebih luas daripada sungai (besar : lebih kecil). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 20,
+      "soal": "Kulit : Sisik = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tegal : Dinding",
+        "B": "Dinding : Mosaik",
+        "C": "Atap : Genteng",
+        "D": "Rumah : Lantai"
+      },
+      "jawaban": "C",
+      "penjelasan": "Kulit ular ditutupi sisik, atap ditutupi genteng (penutup luar). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 21,
+      "soal": "Penulis : Buku : Terbit = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemusik : Lagu : Aransemen",
+        "B": "Penari : Pentas : Koreo",
+        "C": "Pelukis : Gambar : Pameran",
+        "D": "Aktor : Film : Teater"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis membuat buku lalu diterbitkan; pelukis membuat gambar lalu dipamerkan."
+    },
+    {
+      "no": 22,
+      "soal": "Pembohong : Kejujuran = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pengacara : Belas kasih",
+        "B": "Tentara : Kekuatan",
+        "C": "Ibu : Keluarga",
+        "D": "Bodoh : Bijaksana"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pembohong tidak memiliki kejujuran, orang bodoh tidak memiliki kebijaksanaan."
+    },
+    {
+      "no": 23,
+      "soal": "Beras : Nasi goreng = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kayu : Kursi",
+        "B": "Kayu : Tebang",
+        "C": "Kayu : Hutan",
+        "D": "Kayu : Gelondongan"
+      },
+      "jawaban": "A",
+      "penjelasan": "Beras diolah menjadi nasi goreng, kayu diolah menjadi kursi (bahan : produk)."
+    },
+    {
+      "no": 24,
+      "soal": "Basket : Olahraga = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kelinci : Kucing",
+        "B": "Pelari : Atlet",
+        "C": "Harimau : Hutan",
+        "D": "Lari : Lapangan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Basket adalah salah satu olahraga; pelari adalah salah satu atlet (jenis : kelompok)."
+    },
+    {
+      "no": 25,
+      "soal": "Siswa : Murid = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hakim : Hukum",
+        "B": "Guru : Pendidik",
+        "C": "Sekolah : Perpustakaan",
+        "D": "Cahaya : Lampu"
+      },
+      "jawaban": "B",
+      "penjelasan": "Siswa dan murid bersinonim; guru dan pendidik bersinonim."
+    },
+    {
+      "no": 26,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Teropong",
+        "B": "Gelas",
+        "C": "Bola",
+        "D": "Pipa"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teropong, gelas, dan pipa berbentuk tabung (berongga); bola berbentuk bulat. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 27,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kertas",
+        "B": "Origami",
+        "C": "Kanvas",
+        "D": "Penggaris"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kertas, kanvas, dan penggaris adalah benda; origami adalah seni melipat. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 28,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dasi",
+        "B": "Kemeja",
+        "C": "Kaos",
+        "D": "Jaket"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kemeja, kaos, dan jaket adalah pakaian; dasi adalah aksesori."
+    },
+    {
+      "no": 29,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ceri",
+        "B": "Anggur",
+        "C": "Dukuh",
+        "D": "Semangka"
+      },
+      "jawaban": "C",
+      "penjelasan": "Ceri, anggur, dan semangka adalah buah; dukuh adalah kampung (dusun)."
+    },
+    {
+      "no": 30,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jawa Barat",
+        "B": "Banten",
+        "C": "Depok",
+        "D": "Jakarta"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jawa Barat, Banten, dan Jakarta adalah provinsi; Depok adalah kota."
+    },
+    {
+      "no": 31,
+      "soal": "Ilustrasi berikut untuk menjawab soal nomor 31—34.\n\nAnto berjalan lebih cepat daripada Artur. Intan berjalan lebih cepat daripada Dimas. Wina berjalan lebih lambat dari Artur. Tidak ada anak yang berjalan dengan kecepatan yang sama.\n\nJika Intan berjalan lebih cepat daripada Anto, maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Wina berjalan lebih cepat daripada Dimas",
+        "B": "Intan berjalan lebih cepat daripada Artur.",
+        "C": "Wina berjalan paling cepat di antara semuanya.",
+        "D": "Artur berjalan lebih cepat daripada Anto."
+      },
+      "jawaban": "B",
+      "penjelasan": "Intan > Anto > Artur, jadi Intan lebih cepat daripada Artur."
+    },
+    {
+      "no": 32,
+      "soal": "Ilustrasi berikut untuk menjawab soal nomor 31—34.\n\nAnto berjalan lebih cepat daripada Artur. Intan berjalan lebih cepat daripada Dimas. Wina berjalan lebih lambat dari Artur. Tidak ada anak yang berjalan dengan kecepatan yang sama.\n\nJika Wina berjalan lebih cepat daripada Intan, maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Anto berjalan paling cepat",
+        "B": "Dimas berjalan lebih cepat daripada Anto",
+        "C": "Dimas berjalan paling lambat",
+        "D": "Jawaban A dan C benar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Urutan: Anto > Artur > Wina > Intan > Dimas, sehingga Anto paling cepat dan Dimas paling lambat."
+    },
+    {
+      "no": 33,
+      "soal": "Ilustrasi berikut untuk menjawab soal nomor 31—34.\n\nAnto berjalan lebih cepat daripada Artur. Intan berjalan lebih cepat daripada Dimas. Wina berjalan lebih lambat dari Artur. Tidak ada anak yang berjalan dengan kecepatan yang sama.\n\nJika Dimas berjalan tidak lebih lambat daripada Artur, maka …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dimas berjalan lebih cepat daripada Wina",
+        "B": "Wina berjalan tidak lebih lambat daripada Dimas",
+        "C": "Dimas berjalan lebih cepat daripada Anto",
+        "D": "Anto berjalan lebih cepat daripada Dimas"
+      },
+      "jawaban": "A",
+      "penjelasan": "Dimas > Artur > Wina, jadi Dimas lebih cepat daripada Wina."
+    },
+    {
+      "no": 34,
+      "soal": "Ilustrasi berikut untuk menjawab soal nomor 31—34.\n\nAnto berjalan lebih cepat daripada Artur. Intan berjalan lebih cepat daripada Dimas. Wina berjalan lebih lambat dari Artur. Tidak ada anak yang berjalan dengan kecepatan yang sama.\n\nJika Intan berjalan lebih lambat daripada Artur, maka anak yang berjalan paling cepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Wina",
+        "B": "Dimas",
+        "C": "Anto",
+        "D": "Artur"
+      },
+      "jawaban": "C",
+      "penjelasan": "Anto > Artur > Intan > Dimas dan Wina < Artur, jadi Anto paling cepat."
+    },
+    {
+      "no": 35,
+      "soal": "Setiap pagi Isa sarapan bubur. Setiap makan bubur Isa minum susu. Simpulan yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Isa sangat suka makan bubur",
+        "B": "Isa selalu makan susu dan minum bubur",
+        "C": "Isa hanya makan bubur dan minum susu",
+        "D": "Isa minum susu setiap pagi"
+      },
+      "jawaban": "D",
+      "penjelasan": "Isa sarapan bubur setiap pagi, dan setiap makan bubur ia minum susu, jadi ia minum susu setiap pagi."
+    },
+    {
+      "no": 36,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cangkir",
+        "B": "Pulpen",
+        "C": "Baju",
+        "D": "Berjalan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Cangkir, pulpen, dan baju adalah kata benda; berjalan kata kerja."
+    },
+    {
+      "no": 37,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Menendang",
+        "B": "Berjalan",
+        "C": "Belajar",
+        "D": "Sekolah"
+      },
+      "jawaban": "D",
+      "penjelasan": "Menendang, berjalan, dan belajar adalah kata kerja; sekolah kata benda."
+    },
+    {
+      "no": 38,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bulan",
+        "B": "Bumi",
+        "C": "Bintang",
+        "D": "Terbang"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bulan, bumi, dan bintang adalah kata benda; terbang kata kerja."
+    },
+    {
+      "no": 39,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Baik",
+        "B": "Sopan",
+        "C": "Peluk",
+        "D": "Malas"
+      },
+      "jawaban": "C",
+      "penjelasan": "Baik, sopan, dan malas adalah kata sifat; peluk kata kerja."
+    },
+    {
+      "no": 40,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gunting",
+        "B": "Tancap",
+        "C": "Pisau",
+        "D": "Dapur"
+      },
+      "jawaban": "B",
+      "penjelasan": "Gunting, pisau, dan dapur adalah kata benda; tancap kata kerja."
+    },
+    {
+      "no": 41,
+      "soal": "Setiap hari Pak Dadang mencari […] untuk memenuhi kebutuhan keluarganya. Dia bekerja sebagai pedagang sayuran di Pasar Lembang.\n\nIstilah yang tepat untuk melengkapi kalimat rumpang tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jasa",
+        "B": "Nafkah",
+        "C": "Jualan",
+        "D": "Profesi"
+      },
+      "jawaban": "B",
+      "penjelasan": "Mencari nafkah adalah istilah untuk bekerja memenuhi kebutuhan keluarga."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah kutipan teks berikut!\n\nTumbuhan sangat bermanfaat bagi lingkungan, di antaranya sebagai penghasil oksigen yang dapat digunakan sebagai proses pernapasan bagi manusia dan hewan. Selain itu, untuk mencegah erosi dan banjir. Tumbuhan juga bermanfaat untuk makhluk hidup lain seperti burung sebagai tempat tinggal dan membuat sarang.\n\nGagasan utama paragraf tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lingkungan bagi makhluk hidup.",
+        "B": "Manfaat tumbuhan bagi hewan.",
+        "C": "Pentingnya lingkungan bagi tumbuhan.",
+        "D": "Manfaat tumbuhan bagi lingkungan."
+      },
+      "jawaban": "D",
+      "penjelasan": "Seluruh paragraf menjelaskan berbagai manfaat tumbuhan bagi lingkungan."
+    },
+    {
+      "no": 43,
+      "soal": "Bacalah kutipan teks berikut!\n\nPohon beringin yang ada di halaman sekolahku tumbuh menjulang tinggi. Daunnya berwarna hijau tua terlihat sangat rimbun dan dipenuhi akar gantung. Beberapa burung terlihat hinggap di dahan dan memakan buah beringin yang banyak mengandung kalsium.\n\nParagraf tersebut merupakan jenis teks ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Narasi",
+        "B": "Deskripsi",
+        "C": "Eksposisi",
+        "D": "Prosedur"
+      },
+      "jawaban": "B",
+      "penjelasan": "Paragraf menggambarkan ciri-ciri pohon beringin, sehingga jenisnya deskripsi."
+    },
+    {
+      "no": 44,
+      "soal": "Penjual mainan di depan sekolahku akhir-akhir ini sepi pembeli. Akhirnya, sekarang penjual mainan itu […].\n\nUngkapan yang tepat untuk melengkapi kalimat tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Buah tangan",
+        "B": "Tulang punggung",
+        "C": "Berpangku tangan",
+        "D": "Gulung tikar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Gulung tikar berarti bangkrut atau usahanya berhenti karena sepi pembeli."
+    },
+    {
+      "no": 45,
+      "soal": "Riyan adalah murid SD Barito. Dia pintar, sopan, dan tidak sombong. Semua teman dan guru sangat menyukai sifatnya. Riyan dikenal sebagai anak yang [...].\n\nUngkapan yang tepat untuk melengkapi bagian rumpang tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tinggi hati",
+        "B": "Rendah diri",
+        "C": "Ringan tangan",
+        "D": "Rendah hati"
+      },
+      "jawaban": "D",
+      "penjelasan": "Rendah hati berarti tidak sombong."
+    },
+    {
+      "no": 46,
+      "soal": "Bacalah kutipan pidato berikut!\n\nBapak/Ibu yang saya hormati,\nSaya mewakili teman-teman memohon maaf atas kesalahan kami selama 6 tahun menimba ilmu di sekolah tercinta ini. Kami mohon doa restu Bapak/Ibu Guru, semoga kami dapat melanjutkan sekolah ke jenjang yang lebih tinggi sesuai harapan kami.\n[...]\n\nBagian penutup pidato yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bapak/Ibu yang kami hormati, demikianlah yang dapat saya sampaikan, Semoga kami bisa membanggakan orang tua kami.",
+        "B": "Demikian sambutan singkat ini, akhir kata semoga perpisahan ini bermanfaat dan bisa kita kenang selamanya.",
+        "C": "Demikian kesan yang dapat saya sampaikan. Saya memohon maad apabila terdapat kata yang kurang berkenan. Terima kasih kepada Bapak/Ibu guru tercinta.",
+        "D": "Teman-teman sekian dulu sambutan ini mohon maaf jika ada kekurangan dan kesalahan serta saya ucapkan terima kasih."
+      },
+      "jawaban": "C",
+      "penjelasan": "Penutup pidato berisi ringkasan, permohonan maaf, dan ucapan terima kasih dengan bahasa sopan. D memakai bahasa tidak baku untuk pidato kepada guru. Soal ini dapat ditafsirkan lain (B)."
+    },
+    {
+      "no": 47,
+      "soal": "Bacalah teks petunjuk berikut!\n\nPetunjuk Memakai Baju\n(1) Kancingkan baju dari atas ke bawah dan tata bagian kerahnya hingga rapi.\n(2) Kemudian lepaskan baju dari hanger atau gantungan baju.\n(3) Selanjutnya, masukkan tangan kanan Anda pada lubang lengan kanan, demikian juga untuk tangan kiri ke lengan baju sebelah kiri.\n(4) Buka kancing baju yang masih mengait.\n\nSusunan agar menjadi teks prosedur yang tepat adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "(2) – (4) – (3) – (1)",
+        "B": "(4) – (3) – (2) – (1)",
+        "C": "(4) – (2) – (3) – (1)",
+        "D": "(4) – (1) – (3) – (2)"
+      },
+      "jawaban": "C",
+      "penjelasan": "Kata 'kemudian' pada (2) dan 'selanjutnya' pada (3) menunjukkan urutan: buka kancing (4), lepas dari hanger (2), masukkan tangan (3), lalu kancingkan (1)."
+    },
+    {
+      "no": 48,
+      "soal": "Cermatilah data laporan berikut!\n\nPengamat : Angel\nObjek yang diamati : Hama padi\nWaktu pengamatan : Selasa, 16 April 2026\nTempat pengamatan : Persawahan Desa Asri\nTujuan pengamatan : […]\nHasil pengamatan :\n- Para petani mengalami kerugian pasca ladang diserang hama.\n- Walang sangit, belalang, dan wereng merupakan hama yang menyerang padi.\n- Petani menggunakan pestisida organik untuk membasmi hama, karena tidak merusak kesuburan tanah.\n\nKalimat yang tepat untuk melengkapi teks laporan tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Melihat keindahan persawahan Desa Asri.",
+        "B": "Mengamati cara petani membasmi hama.",
+        "C": "Mengamati jenis hama yang menyerang padi.",
+        "D": "Menghitung kerugian petani pasca panen."
+      },
+      "jawaban": "C",
+      "penjelasan": "Tujuan sesuai dengan objek (hama padi) dan hasil utama (jenis hama dan dampaknya). Soal ini dapat ditafsirkan lain (B)."
+    },
+    {
+      "no": 49,
+      "soal": "Cermatilah poster berikut!\n\nKalimat fakta yang terdapat pada poster iklan tersebut adalah …",
+      "gambar": "soal_49.png",
+      "pilihan": {
+        "A": "Bahagia itu ketika semua cucian diantar ke Keysa Mode Laundry Qu.",
+        "B": "Paket cuci kering seharga Rp20.000 untuk 7 kg.",
+        "C": "Paket cuci Kering dan lipat membuat baju lebih awet.",
+        "D": "Baju dijamin bersih, rapi, dan wangi."
+      },
+      "jawaban": "B",
+      "penjelasan": "Poster mencantumkan Cuci Kering 7 KG Rp 20.000, yang dapat dibuktikan. Pilihan lain berupa ajakan atau klaim."
+    },
+    {
+      "no": 50,
+      "soal": "Bacalah kedua teks berikut!\n\nTeks 1\nHarga garam di Magelang mengalami kenaikan 100 persen selama beberapa waktu terakhir. Kondisi tersebut membuat sebagian besar pedagang, terutama pedagang makanan mengeluh karena harus mengeluarkan uang dua kali lipat dibanding biasanya.\n\nTeks 2\nLangka dan mahalnya harga garam membuat para peternak sapi di Kabupaten Semarang menjerit. Sebab, garam selama ini menjadi salah satu bahan campuran untuk suplemen sapi atau biasa disebut komboran.\n\nPersamaan isi pada kedua teks di atas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Harga garam mengalami kenaikan.",
+        "B": "Garam menjadi kebutuhan utama untuk sapi.",
+        "C": "Peternak dan pedagang mengalami kerugian.",
+        "D": "Para pedagang mengeluhkan harga garam."
+      },
+      "jawaban": "A",
+      "penjelasan": "Kedua teks membahas harga garam yang naik (teks 1 naik 100 persen, teks 2 mahal dan langka)."
+    },
+    {
+      "no": 51,
+      "soal": "Teks cerita berikut untuk menjawab soal nomor 51 dan 52.\n\nKisah Pemulung yang Jujur\n\nPak Didu adalah pemulung yang sangat rajin bekerja. Ia harus menghidupi empat orang anaknya yang masih kecil. Setiap hari, ia harus pergi memulung untuk ditukarkan dengan sejumlah uang. Walau tak seberapa yang didapatkan setiap harinya, ia selalu bersyukur. Dalam hatinya, ia ingin mendapatkan pekerjaan yang layak dan dapat menghidupi keluarganya seperti kebanyakan orang lain.\n\nSuatu pagi, ia bergegas memulai pekerjaannya. Ia menuju sebuah pasar yang dekat dengan gubuk tempat tinggalnya. Tiba-tiba \"Bluk!\" Ada sebuah tas jatuh di depannya. Dipungutnya tas itu lalu ia berteriak kepada seorang wanita yang sedang diboncengi sepeda motor.\n\"Ibu ... ibu ... tas ibu jatuh...!\" teriaknya. Spontan ibu muda yang diboncengi tadi menoleh ke belakang. Tukang ojek pun berhenti dan si ibu muda tadi berlari menuju Pak Didu. \"Heh, kamu mau mencuri, ya!\" teriak ibu tadi. \"Maaf, Bu. Tas ibu tadi jatuh dan saya memungutnya untuk saya kembalikan,\" kata Pak Didu dengan jujur. \"Ah, aku tidak percaya, mana ada pencuri mengaku,\" si ibu muda naik pitam.\nBeruntung ada seorang guru yang lewat dan memperhatikan sedari tadi. \"Maaf Bu, Bapak ini memang benar, ia memungut dan mengembalikannya kepada Ibu. Seharusnya Ibu berterima kasih kepada Bapak ini.\" Tanpa basa-basi, ibu itu langsung pergi tanpa sepatah kata.\"\nGuru tadi merasa ibu dengan Pak Didu diajak ke rumah guru tersebut. Akhir cerita, melihat kejujuran hati si pemulung ini, guru tadi mengajak Pak Didu bekerja sebagai penjaga sekolah di tempat ia bekerja.\n\nNilai moral yang dapat diambil dari cerita tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak ingkar bila mempunyai janji.",
+        "B": "Tanpa kenal waktu dalam bekerja.",
+        "C": "Jujur dan bersyukur dalam bekerja.",
+        "D": "Bekerja keras untuk memperoleh uang."
+      },
+      "jawaban": "C",
+      "penjelasan": "Pak Didu bersyukur meski penghasilan sedikit dan jujur mengembalikan tas."
+    },
+    {
+      "no": 52,
+      "soal": "(Berdasarkan teks cerita \"Kisah Pemulung yang Jujur\" pada soal nomor 51.)\n\nSikap yang bisa diteladani dari tokoh Pak Didu adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Datang tepat waktu ketika masuk kerja.",
+        "B": "Bekerja setiap hari demi keluarganya.",
+        "C": "Tabah dalam menghadapi kesulitan.",
+        "D": "Mengembalikan tas yang bukan miliknya."
+      },
+      "jawaban": "D",
+      "penjelasan": "Sikap paling menonjol yang menjadi inti cerita adalah kejujuran: mengembalikan tas yang bukan miliknya."
+    },
+    {
+      "no": 53,
+      "soal": "Bacalah puisi berikut!\n\nSekolahku\nTempat aku menimba ilmu\nTempat yang selalu aku rindu\nSuasana penuh gembira\nBelajar bersama dengan ceria\nTak akan aku lupa sepanjang masa\n\nMakna tersurat pada puisi tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sekolah tempat mencari ilmu.",
+        "B": "Sekolah tempat menarik ilmu.",
+        "C": "Sekolah tempat menaikkan ilmu.",
+        "D": "Sekolah tempat mengangkat ilmu."
+      },
+      "jawaban": "A",
+      "penjelasan": "Menimba ilmu berarti mencari ilmu, dan inilah makna yang tertulis langsung pada baris pertama."
+    },
+    {
+      "no": 54,
+      "soal": "Bacalah kalimat berikut!\n\nAyah berpesan, \"Belajarlah yang rajin untuk menghadapi ujian agar kamu dapat meraih nilai yang memuaskan?\"\n\nPerbaikan tanda baca yang tepat untuk mengakhiri kalimat tersebut adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "tanda titik koma (;)",
+        "B": "tanda titik (.)",
+        "C": "tanda seru (!)",
+        "D": "tanda koma (,)"
+      },
+      "jawaban": "C",
+      "penjelasan": "Kalimat dalam tanda petik berupa pesan atau perintah (Belajarlah ...), sehingga diakhiri tanda seru. Soal ini dapat ditafsirkan lain (tanda titik)."
+    },
+    {
+      "no": 55,
+      "soal": "Anak dari suku asmat itu hidup di gunung jayawijaya.\n\nPerbaikan huruf kapital pada kalimat tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Anak dari suku asmat itu hidup di gunung jayawijaya.",
+        "B": "Anak dari Suku Asmat itu hidup di Gunung Jayawijaya.",
+        "C": "Anak dari suku Asmat itu hidup di Gunung Jayawijaya.",
+        "D": "Anak dari suku Asmat itu hidup di gunung Jayawijaya."
+      },
+      "jawaban": "C",
+      "penjelasan": "Nama suku dan nama gunung ditulis dengan huruf kapital, tetapi kata 'suku' sebagai nama umum ditulis dengan huruf kecil; 'Gunung' ditulis kapital karena menjadi bagian nama diri."
+    }
+  ]
+}
