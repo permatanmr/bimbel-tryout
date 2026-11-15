@@ -1,0 +1,592 @@
+{
+  "judul": "VISI E3",
+  "deskripsi": "Latihan verbal dan bacaan bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, vocabulary/idiom, iklan, dialog, recount text, dan kartu ucapan.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Compliant : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Furious",
+        "B": "Miserly",
+        "C": "Obedient",
+        "D": "Trustworthy"
+      },
+      "jawaban": "C",
+      "penjelasan": "Compliant (patuh) bersinonim dengan obedient."
+    },
+    {
+      "no": 2,
+      "soal": "Timid : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Senile",
+        "B": "Fragile",
+        "C": "Shy",
+        "D": "Gloomy"
+      },
+      "jawaban": "C",
+      "penjelasan": "Timid (pemalu, penakut) bersinonim dengan shy."
+    },
+    {
+      "no": 3,
+      "soal": "Tightfisted : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gigantic",
+        "B": "Stingy",
+        "C": "Boring",
+        "D": "Tiny"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tightfisted (pelit) bersinonim dengan stingy."
+    },
+    {
+      "no": 4,
+      "soal": "Tedious : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Charming",
+        "B": "Monotonous",
+        "C": "Exciting",
+        "D": "Delighted"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tedious (membosankan) bersinonim dengan monotonous."
+    },
+    {
+      "no": 5,
+      "soal": "Trustworthy : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Extensive",
+        "B": "Immense",
+        "C": "Dependable",
+        "D": "Disinclined"
+      },
+      "jawaban": "C",
+      "penjelasan": "Trustworthy (dapat dipercaya) bersinonim dengan dependable."
+    },
+    {
+      "no": 6,
+      "soal": "Commend >< ........",
+      "gambar": null,
+      "pilihan": {
+        "A": "Blame",
+        "B": "Ruin",
+        "C": "Lessen",
+        "D": "Overlook"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata commend (memuji) adalah blame (menyalahkan)."
+    },
+    {
+      "no": 7,
+      "soal": "Hinder >< .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Assist",
+        "B": "Die",
+        "C": "Perish",
+        "D": "Dissuade"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata hinder (menghalangi) adalah assist (membantu)."
+    },
+    {
+      "no": 8,
+      "soal": "Perish >< .....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Outlive",
+        "B": "Survive",
+        "C": "Doubt",
+        "D": "Fail"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata perish (binasa) adalah survive (bertahan hidup). Outlive juga bermakna dekat dengan survive, tetapi survive paling tepat sebagai lawan kata. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 9,
+      "soal": "Compulsion >< ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Discord",
+        "B": "Discordantly",
+        "C": "Idleness",
+        "D": "Option"
+      },
+      "jawaban": "D",
+      "penjelasan": "Compulsion (paksaan) berlawanan dengan option (pilihan bebas)."
+    },
+    {
+      "no": 10,
+      "soal": "Vow >< ......",
+      "gambar": null,
+      "pilihan": {
+        "A": "Idleness",
+        "B": "Encouragement",
+        "C": "Denial",
+        "D": "Clarity"
+      },
+      "jawaban": "C",
+      "penjelasan": "Vow (sumpah, janji) paling berlawanan dengan denial (penyangkalan). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 11,
+      "soal": "Doctor : Hospital = Teacher : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Student",
+        "B": "Class",
+        "C": "House",
+        "D": "Study center"
+      },
+      "jawaban": "B",
+      "penjelasan": "Dokter bekerja di rumah sakit; guru bekerja di kelas (profesi : tempat kerja). Soal ini dapat ditafsirkan lain (study center)."
+    },
+    {
+      "no": 12,
+      "soal": "Knife : Cut = Pen : ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Paper",
+        "B": "Write",
+        "C": "Pencil",
+        "D": "School"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pisau digunakan untuk memotong; pena digunakan untuk menulis (alat : fungsi)."
+    },
+    {
+      "no": 13,
+      "soal": "Bird : Nest = Bee : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Honey",
+        "B": "Fly",
+        "C": "Hive",
+        "D": "Flower"
+      },
+      "jawaban": "C",
+      "penjelasan": "Burung tinggal di sarang (nest); lebah tinggal di sarang lebah (hive)."
+    },
+    {
+      "no": 14,
+      "soal": "Big : Huge = Fast : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Slow",
+        "B": "Run",
+        "C": "Quick",
+        "D": "Speed"
+      },
+      "jawaban": "C",
+      "penjelasan": "Big dan huge bersinonim; fast dan quick bersinonim."
+    },
+    {
+      "no": 15,
+      "soal": "Fire : Hot = Ice : ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Snow",
+        "B": "Blue",
+        "C": "Cold",
+        "D": "Water"
+      },
+      "jawaban": "C",
+      "penjelasan": "Api bersifat panas (hot); es bersifat dingin (cold)."
+    },
+    {
+      "no": 16,
+      "soal": "Which one is not an adjective below?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Happy",
+        "B": "Tired",
+        "C": "Slowly",
+        "D": "Kind"
+      },
+      "jawaban": "C",
+      "penjelasan": "Happy, tired, dan kind adalah kata sifat; slowly adalah kata keterangan (adverb)."
+    },
+    {
+      "no": 17,
+      "soal": "One of these words is noun; what is it?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Beautiful",
+        "B": "Beautify",
+        "C": "Beautifully",
+        "D": "Beauty"
+      },
+      "jawaban": "D",
+      "penjelasan": "Beauty adalah kata benda; beautiful (adjective), beautify (verb), beautifully (adverb)."
+    },
+    {
+      "no": 18,
+      "soal": "Choose the word that function as verb below!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Complicated",
+        "B": "Communication",
+        "C": "Anticipation",
+        "D": "Participate"
+      },
+      "jawaban": "D",
+      "penjelasan": "Participate adalah kata kerja; communication dan anticipation kata benda, complicated kata sifat."
+    },
+    {
+      "no": 19,
+      "soal": "Roni ran fast.\nThe underlined word \"fast\" is ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Verb",
+        "B": "Noun",
+        "C": "Adjective",
+        "D": "Adverb"
+      },
+      "jawaban": "D",
+      "penjelasan": "Fast pada kalimat ini menerangkan kata kerja 'ran', jadi adverb."
+    },
+    {
+      "no": 20,
+      "soal": "The following are nouns, except ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Envious",
+        "B": "Dietary",
+        "C": "Ability",
+        "D": "Announcement"
+      },
+      "jawaban": "A",
+      "penjelasan": "Ability dan announcement kata benda; envious adalah kata sifat. Dietary juga umumnya kata sifat, tetapi envious jelas bukan kata benda. Soal ini dapat ditafsirkan lain (B)."
+    },
+    {
+      "no": 21,
+      "soal": "All birds have wings. An eagle is a bird. Therefore, the eagle...",
+      "gambar": null,
+      "pilihan": {
+        "A": "cannot fly",
+        "B": "has no feathers",
+        "C": "has wings",
+        "D": "lives in water"
+      },
+      "jawaban": "C",
+      "penjelasan": "Elang adalah burung dan semua burung punya sayap."
+    },
+    {
+      "no": 22,
+      "soal": "All cats like to sleep. Some pets are cats. So...",
+      "gambar": null,
+      "pilihan": {
+        "A": "all pets like to sleep",
+        "B": "all pets are cats",
+        "C": "some pets like to sleep",
+        "D": "no pet likes to sleep"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sebagian hewan peliharaan adalah kucing, dan semua kucing suka tidur, jadi sebagian hewan peliharaan suka tidur."
+    },
+    {
+      "no": 23,
+      "soal": "Leaves fall in autumn. Snow falls in winter. That means flowers bloom in...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Spring",
+        "B": "Summer",
+        "C": "Autumn",
+        "D": "Winter"
+      },
+      "jawaban": "A",
+      "penjelasan": "Musim gugur dan musim dingin sudah disebut, bunga mekar pada musim semi (spring)."
+    },
+    {
+      "no": 24,
+      "soal": "Rice is processed in the factory. A farmer works in a field to...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Plant and harvest crops",
+        "B": "Teach children",
+        "C": "Drive buses",
+        "D": "Fix computers"
+      },
+      "jawaban": "A",
+      "penjelasan": "Petani bekerja di ladang untuk menanam dan memanen tanaman."
+    },
+    {
+      "no": 25,
+      "soal": "A tailor uses a needle and thread to make clothes. A carpenter uses tools to...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Teach students",
+        "B": "Sing songs",
+        "C": "Build furniture",
+        "D": "Wash dishes"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penjahit membuat pakaian; tukang kayu membuat furnitur."
+    },
+    {
+      "no": 26,
+      "soal": "Which word is different from the rest?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Justice",
+        "B": "Honesty",
+        "C": "Kindness",
+        "D": "Bicycle"
+      },
+      "jawaban": "D",
+      "penjelasan": "Justice, honesty, dan kindness adalah sifat/nilai abstrak; bicycle adalah benda."
+    },
+    {
+      "no": 27,
+      "soal": "Choose the word that is different",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mercury",
+        "B": "Earth",
+        "C": "Jupiter",
+        "D": "Moon"
+      },
+      "jawaban": "D",
+      "penjelasan": "Mercury, Earth, dan Jupiter adalah planet; Moon adalah satelit."
+    },
+    {
+      "no": 28,
+      "soal": "Find the odd one out",
+      "gambar": null,
+      "pilihan": {
+        "A": "Square",
+        "B": "Triangle",
+        "C": "Rectangle",
+        "D": "Cube"
+      },
+      "jawaban": "D",
+      "penjelasan": "Square, triangle, dan rectangle adalah bangun datar; cube adalah bangun ruang."
+    },
+    {
+      "no": 29,
+      "soal": "Which word is the odd one out?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Violin",
+        "B": "Guitar",
+        "C": "Piano",
+        "D": "Painting"
+      },
+      "jawaban": "D",
+      "penjelasan": "Violin, guitar, dan piano adalah alat musik; painting adalah karya seni lukis."
+    },
+    {
+      "no": 30,
+      "soal": "Which of the following is NOT like the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Asia",
+        "B": "Europe",
+        "C": "Africa",
+        "D": "Russia"
+      },
+      "jawaban": "D",
+      "penjelasan": "Asia, Europe, dan Africa adalah benua; Russia adalah negara."
+    },
+    {
+      "no": 31,
+      "soal": "\"When it comes to drawing, Rani is a cut above the rest.\"\nWhat does the idiom \"a cut above the rest\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She likes to draw with scissors",
+        "B": "She is better than others",
+        "C": "She always cuts her paper",
+        "D": "She draws faster than everyone"
+      },
+      "jawaban": "B",
+      "penjelasan": "'A cut above the rest' berarti lebih baik daripada yang lain."
+    },
+    {
+      "no": 32,
+      "soal": "\"Tom tried to lie to his teacher, but he was caught red-handed.\"\nWhat does \"caught red-handed\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "His hand was really red",
+        "B": "He was injured during class",
+        "C": "He was caught while doing something wrong",
+        "D": "He was angry and shouting"
+      },
+      "jawaban": "C",
+      "penjelasan": "'Caught red-handed' berarti tertangkap basah saat melakukan kesalahan."
+    },
+    {
+      "no": 33,
+      "soal": "\"Even though she failed once, she decided to go the extra mile to improve.\"\nWhat does \"go the extra mile\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "She walked farther",
+        "B": "She made more effort",
+        "C": "She joined a race",
+        "D": "She changed her goal"
+      },
+      "jawaban": "B",
+      "penjelasan": "'Go the extra mile' berarti berusaha lebih keras."
+    },
+    {
+      "no": 34,
+      "soal": "\"The magician's tricks were so baffling that no one could guess how he did them.\"\nWhat does \"baffling\" most likely mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Boring",
+        "B": "Confusing",
+        "C": "Funny",
+        "D": "Scary"
+      },
+      "jawaban": "B",
+      "penjelasan": "Baffling (membingungkan) bermakna confusing."
+    },
+    {
+      "no": 35,
+      "soal": "\"The children were completely exhausted and fell asleep quickly.\"\nWhat does \"exhausted\" mean?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tired",
+        "B": "Bored",
+        "C": "Lost",
+        "D": "Sick"
+      },
+      "jawaban": "A",
+      "penjelasan": "Exhausted (kelelahan) bermakna tired."
+    },
+    {
+      "no": 36,
+      "soal": "Look at the picture and answer the questions.\n\nIn the advertisement, the text is made for...",
+      "gambar": "soal_36.png",
+      "pilihan": {
+        "A": "People who want to have non-spicy burgers",
+        "B": "People who have a budget under $20",
+        "C": "People who like a fresh and hot burger",
+        "D": "People who feel better by eating a burger"
+      },
+      "jawaban": "C",
+      "penjelasan": "Iklan menawarkan 'Fresh & Hot Burger', jadi ditujukan bagi orang yang menyukai burger segar dan hangat/panas."
+    },
+    {
+      "no": 37,
+      "soal": "Look at the picture and answer the questions.\n\nWhat is the conclusion of the advertisement?",
+      "gambar": "soal_37.png",
+      "pilihan": {
+        "A": "The burgers are expensive",
+        "B": "The place only serves drinks",
+        "C": "You should visit the store to get cheap burgers there",
+        "D": "Eating burgers is not healthy"
+      },
+      "jawaban": "C",
+      "penjelasan": "Iklan memuat penawaran terbatas dengan harga khusus dan gratis ongkir, sehingga simpulannya mengajak membeli burger murah di toko itu."
+    },
+    {
+      "no": 38,
+      "soal": "Read the dialogue and answer the questions.\n\nAgus: Would you like to come to my birthday party next Saturday?\nJaden: That sounds fun! I'd love to come. What time does it start?\nAgus: It starts at 3 p.m. and there will be lots of games and food.\n\nWhat kind of expression is this?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Inviting",
+        "B": "Thanking",
+        "C": "Requesting",
+        "D": "Greeting"
+      },
+      "jawaban": "A",
+      "penjelasan": "'Would you like to come to my birthday party?' adalah ungkapan mengundang."
+    },
+    {
+      "no": 39,
+      "soal": "Read the dialogue and answer the questions.\n\nAgus: Would you like to come to my birthday party next Saturday?\nJaden: That sounds fun! I'd love to come. What time does it start?\nAgus: It starts at 3 p.m. and there will be lots of games and food.\n\nWhat kind of event is at Agus' birthday party, and what time does it start?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Numerous games and the party starts at 3 p.m",
+        "B": "Numerous foods and the party starts at 3 a.m",
+        "C": "Eating cake competition",
+        "D": "Celebration at 10 a.m"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pesta ulang tahun dimulai pukul 3 sore dan ada banyak permainan dan makanan."
+    },
+    {
+      "no": 40,
+      "soal": "Read the text to answer the questions!\n\nMy School Field Trip\n\nLast Friday, our class went on a field trip to the city museum. It was our first time visiting the museum together. We were very excited because our teacher told us to be careful and pay attention during the trip. When we arrived, a guide showed us around the museum. We saw many interesting things like old paintings, fossils, and ancient tools. The guide explained the history behind each exhibit, and we asked many questions. After the tour, we had lunch in the museum garden. We shared our food and talked about our favorite exhibits. I liked the dinosaur fossils the most because they looked very big and scary! Before going back to school, we took a group photo in front of the museum. It was a fun and educational day. I hope we can go on another field trip soon.\n\nWhat is the text about?",
+      "gambar": null,
+      "pilihan": {
+        "A": "A trip to the zoo with family",
+        "B": "A visit to a library",
+        "C": "A field trip to the city museum",
+        "D": "A day at school studying history"
+      },
+      "jawaban": "C",
+      "penjelasan": "Teks menceritakan kunjungan lapangan kelas ke museum kota."
+    },
+    {
+      "no": 41,
+      "soal": "Read the text to answer the questions!\n\nMy School Field Trip\n\nLast Friday, our class went on a field trip to the city museum. It was our first time visiting the museum together. We were very excited because our teacher told us to be careful and pay attention during the trip. When we arrived, a guide showed us around the museum. We saw many interesting things like old paintings, fossils, and ancient tools. The guide explained the history behind each exhibit, and we asked many questions. After the tour, we had lunch in the museum garden. We shared our food and talked about our favorite exhibits. I liked the dinosaur fossils the most because they looked very big and scary! Before going back to school, we took a group photo in front of the museum. It was a fun and educational day. I hope we can go on another field trip soon.\n\nWhat does the word \"we\" in paragraph 1 refer to?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The teachers",
+        "B": "The museum guides",
+        "C": "The museum staff",
+        "D": "The class/students"
+      },
+      "jawaban": "D",
+      "penjelasan": "'We' merujuk pada penulis dan teman sekelasnya (siswa)."
+    },
+    {
+      "no": 42,
+      "soal": "Read the text to answer the questions!\n\nMy School Field Trip\n\nLast Friday, our class went on a field trip to the city museum. It was our first time visiting the museum together. We were very excited because our teacher told us to be careful and pay attention during the trip. When we arrived, a guide showed us around the museum. We saw many interesting things like old paintings, fossils, and ancient tools. The guide explained the history behind each exhibit, and we asked many questions. After the tour, we had lunch in the museum garden. We shared our food and talked about our favorite exhibits. I liked the dinosaur fossils the most because they looked very big and scary! Before going back to school, we took a group photo in front of the museum. It was a fun and educational day. I hope we can go on another field trip soon.\n\nWhich of the following did the students see in the museum?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Books and dinosaurs",
+        "B": "Ancient tools and fossils",
+        "C": "Rockets and satellites",
+        "D": "Live animals and flowers"
+      },
+      "jawaban": "B",
+      "penjelasan": "Siswa melihat lukisan lama, fosil, dan alat kuno."
+    },
+    {
+      "no": 43,
+      "soal": "Read the text to answer the questions!\n\nMy School Field Trip\n\nLast Friday, our class went on a field trip to the city museum. It was our first time visiting the museum together. We were very excited because our teacher told us to be careful and pay attention during the trip. When we arrived, a guide showed us around the museum. We saw many interesting things like old paintings, fossils, and ancient tools. The guide explained the history behind each exhibit, and we asked many questions. After the tour, we had lunch in the museum garden. We shared our food and talked about our favorite exhibits. I liked the dinosaur fossils the most because they looked very big and scary! Before going back to school, we took a group photo in front of the museum. It was a fun and educational day. I hope we can go on another field trip soon.\n\nWhat can we conclude from the text?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The writer had a boring and tiring day",
+        "B": "The students didn't enjoy the museum",
+        "C": "The writer wants to go on another trip",
+        "D": "The museum was very crowded and noisy"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis berharap bisa ikut kunjungan lapangan lagi."
+    },
+    {
+      "no": 44,
+      "soal": "Read the text to answer the questions!\n\nDear Sonny,\nWish you get well soon. We miss your laugh and cheers.\nArnold\n\nWhat is the purpose of the text?",
+      "gambar": null,
+      "pilihan": {
+        "A": "To congratulate someone",
+        "B": "To show gratitude",
+        "C": "To ask for an apology",
+        "D": "To show sympathy"
+      },
+      "jawaban": "D",
+      "penjelasan": "'Wish you get well soon' menunjukkan simpati kepada orang yang sakit."
+    },
+    {
+      "no": 45,
+      "soal": "\"We miss your laugh and cheers\". What is the opposite meaning of the word \"cheers\"?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Happiness",
+        "B": "Sadness",
+        "C": "Satisfaction",
+        "D": "Disappointment"
+      },
+      "jawaban": "B",
+      "penjelasan": "Cheers (keceriaan, kegembiraan) berlawanan dengan sadness (kesedihan)."
+    }
+  ]
+}
