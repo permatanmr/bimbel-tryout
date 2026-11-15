@@ -1,0 +1,722 @@
+{
+  "judul": "VISI D5",
+  "deskripsi": "Latihan kemampuan verbal dan bacaan bahasa Indonesia: sinonim, antonim, analogi, klasifikasi kata, penalaran verbal, kata beda, dan pemahaman bacaan (tabel, resensi, fabel, puisi, syair, dan kalimat tidak langsung).",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Nyata = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Asli",
+        "B": "Bisa",
+        "C": "Wujud",
+        "D": "Sanggup"
+      },
+      "jawaban": "A",
+      "penjelasan": "Nyata (sungguh ada) paling dekat dengan asli. Soal ini dapat ditafsirkan lain (wujud)."
+    },
+    {
+      "no": 2,
+      "soal": "Kuasa = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kemampuan",
+        "B": "Keharusan",
+        "C": "Ketaatan",
+        "D": "Kesanggupan"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kuasa berarti kemampuan atau kekuatan untuk berbuat."
+    },
+    {
+      "no": 3,
+      "soal": "Kisah = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rahasia",
+        "B": "Riwayat",
+        "C": "Rencana",
+        "D": "Buram"
+      },
+      "jawaban": "B",
+      "penjelasan": "Kisah berarti riwayat atau cerita."
+    },
+    {
+      "no": 4,
+      "soal": "Analogi = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Perbedaan",
+        "B": "Persamaan",
+        "C": "Pemisahan",
+        "D": "Pertentangan"
+      },
+      "jawaban": "B",
+      "penjelasan": "Analogi berarti persamaan atau kesepadanan."
+    },
+    {
+      "no": 5,
+      "soal": "Dilema = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Solusi",
+        "B": "Kepastian",
+        "C": "Pilihan sulit",
+        "D": "Kemudahan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Dilema adalah situasi sulit memilih di antara dua pilihan."
+    },
+    {
+      "no": 6,
+      "soal": "Baku = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak standar",
+        "B": "Standar",
+        "C": "Umum",
+        "D": "Acak"
+      },
+      "jawaban": "B",
+      "penjelasan": "Baku berarti standar."
+    },
+    {
+      "no": 7,
+      "soal": "Eksplisit = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak jelas",
+        "B": "Tersirat",
+        "C": "Jelas",
+        "D": "Samar"
+      },
+      "jawaban": "C",
+      "penjelasan": "Eksplisit berarti terang-terangan atau jelas."
+    },
+    {
+      "no": 8,
+      "soal": "Kaidah = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Penyimpangan",
+        "B": "Kekacauan",
+        "C": "Pengecualian",
+        "D": "Aturan"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kaidah berarti aturan."
+    },
+    {
+      "no": 9,
+      "soal": "Norma = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tatanan",
+        "B": "Pelanggaran",
+        "C": "Ketidaklaziman",
+        "D": "Keunikan"
+      },
+      "jawaban": "A",
+      "penjelasan": "Norma adalah aturan atau tatanan yang berlaku di masyarakat."
+    },
+    {
+      "no": 10,
+      "soal": "Konsisten = …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak tetap",
+        "B": "Berganti",
+        "C": "Terpisah",
+        "D": "Stabil"
+      },
+      "jawaban": "D",
+      "penjelasan": "Konsisten berarti tetap atau stabil."
+    },
+    {
+      "no": 11,
+      "soal": "Aktif >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Energik",
+        "B": "Lincah",
+        "C": "Gesit",
+        "D": "Pasif"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata aktif adalah pasif."
+    },
+    {
+      "no": 12,
+      "soal": "Liar >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Buas",
+        "B": "Ganas",
+        "C": "Jinak",
+        "D": "Bebas"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata liar adalah jinak."
+    },
+    {
+      "no": 13,
+      "soal": "Lemah >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Takut",
+        "B": "Sembunyi",
+        "C": "Kuat",
+        "D": "Kurang"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata lemah adalah kuat."
+    },
+    {
+      "no": 14,
+      "soal": "Gadai >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Meluncurkan",
+        "B": "Menangguhkan",
+        "C": "Menebus",
+        "D": "Mengaitkan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Menggadai lawannya menebus barang gadai."
+    },
+    {
+      "no": 15,
+      "soal": "Kusut >< …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rumit",
+        "B": "Rusuh",
+        "C": "Lusuh",
+        "D": "Rapih"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata kusut adalah rapi (tertulis 'rapih' di soal)."
+    },
+    {
+      "no": 16,
+      "soal": "Suap : Politik = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Legislatif : Pemilu",
+        "B": "Ikan : Pelet",
+        "C": "Contek : Ujian",
+        "D": "Manjur : Paten"
+      },
+      "jawaban": "C",
+      "penjelasan": "Suap adalah kecurangan dalam politik, contek adalah kecurangan dalam ujian."
+    },
+    {
+      "no": 17,
+      "soal": "Penulis : Artikel = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Koki : Restoran",
+        "B": "Dokter : Pasien",
+        "C": "Komponis : Lagu",
+        "D": "Bangunan : Arsitek"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis membuat artikel, komponis membuat lagu (pembuat : karya)."
+    },
+    {
+      "no": 18,
+      "soal": "Gawang : Jaring = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Dinding : Atap",
+        "B": "Tanah : Rawa",
+        "C": "Buku : Sampul",
+        "D": "Kolam : Renang"
+      },
+      "jawaban": "C",
+      "penjelasan": "Gawang memiliki jaring sebagai bagiannya, buku memiliki sampul sebagai bagiannya. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 19,
+      "soal": "Mulut : Hidung = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rambut : Kepala",
+        "B": "Telinga : Kulit",
+        "C": "Siku : Perut",
+        "D": "Jari : Tangan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Mulut dan hidung sama-sama anggota tubuh yang setara; siku dan perut juga. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 20,
+      "soal": "Cenderawasih : Bulu = … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semut : Kecil",
+        "B": "Lebah : Manis",
+        "C": "Gajah : Gading",
+        "D": "Belang : Macan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Cenderawasih dikenal dengan bulunya yang indah, gajah dikenal dengan gadingnya."
+    },
+    {
+      "no": 21,
+      "soal": "Penulis : Buku : Terbit = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pemusik : Lagu : Aransemen",
+        "B": "Penari : Pentas : Koreo",
+        "C": "Pelukis : Gambar : Pameran",
+        "D": "Aktor : Film : Teater"
+      },
+      "jawaban": "C",
+      "penjelasan": "Penulis membuat buku lalu diterbitkan; pelukis membuat gambar lalu dipamerkan."
+    },
+    {
+      "no": 22,
+      "soal": "Bibit : Tumbuh : Pohon = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bayi : Besar : Dewasa",
+        "B": "Koki : Makanan : Enak",
+        "C": "Ulat : Metamorfosis : Kupu-kupu",
+        "D": "Telur : Menetas : Ayam"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bibit tumbuh menjadi pohon; telur menetas menjadi ayam (awal : proses : hasil)."
+    },
+    {
+      "no": 23,
+      "soal": "Air : Minum : Haus = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Makanan : Makan : Lapar",
+        "B": "Obat : Minum : Sirup",
+        "C": "Tidur : Bantal : Ngantuk",
+        "D": "Udara : Sejuk : Dingin"
+      },
+      "jawaban": "A",
+      "penjelasan": "Air diminum untuk mengatasi haus, makanan dimakan untuk mengatasi lapar."
+    },
+    {
+      "no": 24,
+      "soal": "Kayu : Arang : Abu = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Besi : Baja : Karat",
+        "B": "Air : Es : Uap",
+        "C": "Emas : Perhiasan : Logam",
+        "D": "Tanah : Liat : Keramik"
+      },
+      "jawaban": "D",
+      "penjelasan": "Kayu diolah jadi arang lalu abu; tanah menjadi liat lalu keramik (bahan : olahan : olahan lanjut). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 25,
+      "soal": "Dingin : Jaket : Hangat = … : … : …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hujan : Payung : Basah",
+        "B": "Gelap : Lampu : Terang",
+        "C": "Haus : Air : Kembung",
+        "D": "Nasi : Kenyang : Lapar"
+      },
+      "jawaban": "B",
+      "penjelasan": "Dingin diatasi jaket sehingga hangat; gelap diatasi lampu sehingga terang (masalah : alat : hasil)."
+    },
+    {
+      "no": 26,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Apel",
+        "B": "Jeruk",
+        "C": "Kentang",
+        "D": "Mangga"
+      },
+      "jawaban": "C",
+      "penjelasan": "Apel, jeruk, dan mangga adalah buah; kentang adalah umbi (sayuran)."
+    },
+    {
+      "no": 27,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Meja",
+        "B": "Kursi",
+        "C": "Lemari",
+        "D": "Buku"
+      },
+      "jawaban": "D",
+      "penjelasan": "Meja, kursi, dan lemari adalah perabot; buku bukan."
+    },
+    {
+      "no": 28,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sepeda",
+        "B": "Mobil",
+        "C": "Truk",
+        "D": "Bus"
+      },
+      "jawaban": "A",
+      "penjelasan": "Mobil, truk, dan bus bermesin; sepeda dikayuh."
+    },
+    {
+      "no": 29,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Padi",
+        "B": "Jagung",
+        "C": "Kacang",
+        "D": "Wortel"
+      },
+      "jawaban": "D",
+      "penjelasan": "Padi, jagung, dan kacang diambil bijinya; wortel diambil umbinya."
+    },
+    {
+      "no": 30,
+      "soal": "Manakah yang berbeda?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jakarta",
+        "B": "London",
+        "C": "New York",
+        "D": "Paris"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jakarta, London, dan Paris adalah ibu kota negara; New York bukan."
+    },
+    {
+      "no": 31,
+      "soal": "Semua burung bisa terbang. Sebagian hewan peliharaan adalah burung. Simpulan yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua hewan peliharaan bisa terbang.",
+        "B": "Sebagian burung tidak bisa terbang.",
+        "C": "Sebagian hewan peliharaan bisa terbang.",
+        "D": "Semua hewan peliharaan bukan burung."
+      },
+      "jawaban": "C",
+      "penjelasan": "Hewan peliharaan yang berupa burung pasti bisa terbang, jadi sebagian hewan peliharaan bisa terbang."
+    },
+    {
+      "no": 32,
+      "soal": "Calon pesepak bola yang lolos seleksi adalah yang bertalenta. Sebagian calon pesepak bola dari kota A bertalenta. Simpulan yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Semua calon pesepak bola dari kota A lolos seleksi.",
+        "B": "Sebagian calon pesepak bola dari kota A lolos seleksi.",
+        "C": "Sebagian calon pesepak bola dari kota A tidak ikut seleksi.",
+        "D": "Hanya calon pesepak bola dari kota A yang bertalenta."
+      },
+      "jawaban": "B",
+      "penjelasan": "Yang bertalenta lolos seleksi, dan sebagian calon dari kota A bertalenta, jadi sebagian dari kota A lolos."
+    },
+    {
+      "no": 33,
+      "soal": "Semua siswa perempuan diwajibkan mengikuti pentas seni. Sebagian siswa yang mengikuti pentas seni diminta berangkat ke sekolah pada hari Minggu. Simpulan yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sebagian siswa perempuan tidak mengikuti pentas seni karena tidak mau berangkat pada hari Minggu.",
+        "B": "Sebagian siswa perempuan tidak mengikuti pentas seni pada hari Minggu.",
+        "C": "Sebagian siswa perempuan diminta berangkat ke sekolah pada hari Minggu.",
+        "D": "Siswa perempuan yang mengikuti pentas seni tidak berangkat saat hari Minggu."
+      },
+      "jawaban": "C",
+      "penjelasan": "Semua siswa perempuan ikut pentas seni, dan sebagian peserta diminta berangkat Minggu, sehingga sebagian siswa perempuan diminta berangkat. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 34,
+      "soal": "Pada sebuah festival musik, empat band berkompetisi untuk menjadi yang terbaik. Band Harmoni mendapatkan peringkat lebih tinggi dari Melodi, tetapi tidak lebih tinggi dari Irama. Sementara itu, band Ritme berada di bawah Irama tetapi di atas Harmoni. Band yang berada di urutan kedua adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Irama",
+        "B": "Ritme",
+        "C": "Melodi",
+        "D": "Harmoni"
+      },
+      "jawaban": "B",
+      "penjelasan": "Urutan: Irama, Ritme, Harmoni, Melodi, sehingga yang kedua adalah Ritme."
+    },
+    {
+      "no": 35,
+      "soal": "Terdapat empat sahabat yang sedang memilih baju yaitu Ani, Budi, Citra, dan Doni. Ani suka warna biru. Budi tidak suka warna merah, tetapi Citra suka warna kuning. Jika setiap orang suka satu warna yang berbeda. Sedangkan pilihan warnanya hanya merah, biru, kuning dan hijau. Siapa yang menyukai warna merah? ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ani",
+        "B": "Budi",
+        "C": "Citra",
+        "D": "Doni"
+      },
+      "jawaban": "D",
+      "penjelasan": "Ani biru, Citra kuning, Budi bukan merah sehingga hijau; sisa merah untuk Doni."
+    },
+    {
+      "no": 36,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lima",
+        "B": "Pertama",
+        "C": "Beberapa",
+        "D": "Berikut"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lima, pertama, dan beberapa adalah kata bilangan; berikut bukan kata bilangan."
+    },
+    {
+      "no": 37,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Si",
+        "B": "Sang",
+        "C": "Kaum",
+        "D": "Oleh"
+      },
+      "jawaban": "D",
+      "penjelasan": "Si, sang, dan kaum adalah kata sandang; oleh adalah kata depan."
+    },
+    {
+      "no": 38,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bintang",
+        "B": "Bahu",
+        "C": "Celana",
+        "D": "Duka"
+      },
+      "jawaban": "D",
+      "penjelasan": "Bintang, bahu, dan celana adalah benda konkret; duka adalah benda abstrak (perasaan). Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 39,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Minum",
+        "B": "Makan",
+        "C": "Majalah",
+        "D": "Pindah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Minum, makan, dan pindah adalah kata kerja; majalah kata benda."
+    },
+    {
+      "no": 40,
+      "soal": "Manakah kata yang berbeda kelas katanya?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Gelas",
+        "B": "Makan",
+        "C": "Sendok",
+        "D": "Garpu"
+      },
+      "jawaban": "B",
+      "penjelasan": "Gelas, sendok, dan garpu adalah kata benda; makan kata kerja."
+    },
+    {
+      "no": 41,
+      "soal": "Kita tidak boleh culas dalam mengejarkan tugas sekolah dari guru.\n\nAntonim kata culas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jujur",
+        "B": "Malas",
+        "C": "Yakin",
+        "D": "Curang"
+      },
+      "jawaban": "A",
+      "penjelasan": "Culas berarti curang; lawannya jujur."
+    },
+    {
+      "no": 42,
+      "soal": "Bacalah kutipan teks berikut!\n\nSusu sangat bermanfaat bagi manusia, yaitu memulihkan otot dan menjaga kesehatan tulang dan gigi. Bahkan konon, Cleopatra rutin mandi susu agar kulit tetap kenyal, lembut, dan bercahaya.\n\nBerdasarkan letak kalimat utamanya, paragraf tersebut termasuk jenis ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Deduktif",
+        "B": "Induktif",
+        "C": "Deskripsi",
+        "D": "Campuran"
+      },
+      "jawaban": "A",
+      "penjelasan": "Kalimat utama ada di awal paragraf, jadi paragraf deduktif."
+    },
+    {
+      "no": 43,
+      "soal": "Cermatilah tabel berikut!\n\nDaftar Pengunjung Perpustakaan\nHari | Jumlah Murid\nSenin | 20\nSelasa | 25\nRabu | 15\nKamis | 30\nJumat | 10\n\nBerdasarkan tabel tersebut, pernyataan yang benar adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jumlah siswa terbanyak yang membaca buku terjadi pada hari Rabu dan Kamis.",
+        "B": "Jumlah siswa yang membaca buku pada hari Jumat lebih sedikit dibandingkan hari Senin.",
+        "C": "Pada hari Kamis, jumlah siswa yang membaca buku lebih sedikit dibandingkan hari Rabu.",
+        "D": "Jumlah siswa yang membaca buku pada hari Selasa lebih sedikit daripada hari Jumat."
+      },
+      "jawaban": "B",
+      "penjelasan": "Jumat 10 lebih sedikit dari Senin 20. A salah (terbanyak hanya Kamis), C salah (30 > 15), D salah (25 > 10)."
+    },
+    {
+      "no": 44,
+      "soal": "Di bawah ini peribahasa yang memiliki makna kebaikan dibalas dengan keburukan adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Air cucuran atap jatuhnya ke pelimbahan juga",
+        "B": "Alang-alang berdawat biarlah hitam",
+        "C": "Air susu dibalas dengan air tuba",
+        "D": "Angkuh terbawa tampan tertinggal"
+      },
+      "jawaban": "C",
+      "penjelasan": "Air susu dibalas dengan air tuba berarti kebaikan dibalas dengan kejahatan."
+    },
+    {
+      "no": 45,
+      "soal": "Bagian surat yang merupakan salam pembuka pada surat dinas adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Jakarta, 23 Juni 2025",
+        "B": "Dengan hormat,",
+        "C": "Semoga kabarmu baik-baik saja",
+        "D": "Yth. Bapak/Ibu di Jakarta"
+      },
+      "jawaban": "B",
+      "penjelasan": "Salam pembuka surat dinas adalah 'Dengan hormat,'."
+    },
+    {
+      "no": 46,
+      "soal": "Cermatilah data-data berikut!\n(1) Sungai Serayu bersih dan alami.\n(2) Airnya jernih dan pemandangannya indah.\n(3) Di pinggir sungai terdapat bebatuan.\n\nTeks laporan yang tepat berdasarkan data tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sungai Serayu tampak bersih dan alami. Sungai itu berair jernih. Pemandangan di sekitar sungai pun tampak indah. Tidak terdapat sampah sedikit pun di sekitar sungai itu. Di pinggirnya, terdapat bebatuan yang ditumpuk rata dan rapi. Orang-orang yang biasanya mancing di sekitar sungai itu biasanya duduk-duduk di atas batu tersebut.",
+        "B": "Semua orang mengetahui kalau Sungai Serayu itu bersih dan alami. Sungai tersebut terlihat bersih dan alami karena selalu dibersihkan. Oleh karena itu, setiap hari banyak sekali orang yang datang ke sana untuk memancing.",
+        "C": "Sungai Serayu tampak bersih. Walaupun air sungai ini jernih dan tidak ada sampah sedikit pun, tetapi tampak kurang indah. Di pinggirnya terdapat bebatuan yang ditumpuk ala kadarnya dan tidak rapi. Orang-orang yang memancing di sekitar sungai itu biasanya duduk-duduk di atas batu tersebut.",
+        "D": "Sungai Serayu merupakan salah satu objek wisata alam yang terdapat di Provinsi Jawa Tengah. Sungai yang berhulu di dataran tinggi Dieng dan memiliki panjang sekitar 30 km ini melintasi lima kabupaten di Jawa Tengah."
+      },
+      "jawaban": "A",
+      "penjelasan": "Hanya A yang memuat ketiga data (bersih dan alami, air jernih dan pemandangan indah, bebatuan di pinggir sungai) tanpa mengubahnya."
+    },
+    {
+      "no": 47,
+      "soal": "Bacalah kutipan teks berikut!\n\nLinda suka sekali membeli banyak baju baru setiap bulan, padahal lemarinya sudah penuh. Akibatnya, ia sering kehabisan uang di akhir bulan dan menumpuk baju yang jarang dipakai.\n\nKalimat saran yang sesuai dengan ilustrasi tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sebaiknya Linda terus membeli baju agar selalu punya pilihan.",
+        "B": "Seharusnya linda meminjam uang untuk membeli lebih banyak baju.",
+        "C": "Seharusnya Linda membuang semua baju lamanya agar bisa membeli yang baru.",
+        "D": "Sebaiknya Linda mengatur uangnya dan tidak terlalu sering membeli baju agar tidak boros."
+      },
+      "jawaban": "D",
+      "penjelasan": "Masalahnya boros, jadi saran yang tepat adalah mengatur uang dan mengurangi pembelian baju."
+    },
+    {
+      "no": 48,
+      "soal": "Cermatilah data buku berikut!\n\nNo 1, Judul: Koala Kumal\nNo 2, Penulis: Raditya Dika\nNo 3, Penerbit: Gagas Media\nNo 4, Tahun: 2015\nNo 5, Keunggulan: Konsep temanya berbeda dengan buku-buku sebelumnya yang memang sama. Gaya penulisan di dalam buku ini menggunakan gaya bahasa yang gaul dan mudah dipahami. Tata penulisan buku ini lebih baik daripada karya tulis perdananya yang berjudul Kambing Jantan.\nNo 6, Kelemahan: Tebal buku ini sangat berbeda dengan karya tulis lainnya yang terbilang lebih tipis. Mengenai akhir dari ceritanya kurang menarik karena tidak sesuai dengan ekspektasi dari sebagian pembaca.\n\nPenulisan resensi buku yang sesuai dengan data tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Buku Koala Kumal karya Raditya Dika yang diterbitkan oleh Gagas Media pada tahun 2015 ini memiliki konsep tema yang unik dan gaya penulisan yang mudah dimengerti. Sayangnya, buku ini terlalu tebal dibandingkan buku-buku lain, dan akhir ceritanya kurang memuaskan pembaca.",
+        "B": "Koala Kumal oleh Raditya Dika adalah sebuah buku yang sangat direkomendasikan. Kelebihannya terletak pada konsep temanya yang segar dan gaya bahasanya yang gaul. Meskipun demikian, buku ini sedikit tebal dan bagian akhirnya mengecewakan.",
+        "C": "Karya terbaru dari Raditya Dika, Koala Kumal, menunjukkan peningkatan signifikan dalam tata penulisan dibandingkan Kambing Jantan. Tema yang diangkat pun orisinal dan cocok untuk kalangan remaja hingga dewasa. Namun, ketebalan buku serta akhir cerita yang tidak sesuai ekspektasi menjadi kekurangan yang mencolok.",
+        "D": "Meskipun buku Koala Kumal ini tebal dan memiliki akhir cerita yang kurang menarik, Raditya Dika berhasil menyajikan tema yang berbeda dan gaya penulisan yang mudah dicerna. Keunggulan lainnya adalah tata penulisannya yang lebih rapi dari buku-buku sebelumnya."
+      },
+      "jawaban": "A",
+      "penjelasan": "A memuat judul, penulis, penerbit, tahun, keunggulan (tema, gaya bahasa), dan kelemahan (tebal, akhir cerita) sesuai data tanpa menambah informasi. B dan C menambah hal yang tidak ada (rekomendasi, kalangan pembaca)."
+    },
+    {
+      "no": 49,
+      "soal": "Cerita fabel berikut untuk menjawab soal nomor 49 dan 50.\n\nKancil berusaha untuk ke luar dari dasar jurang. Tiba-tiba Gajah lewat di sana. Kancil pun memanggilnya untuk ikut masuk dalam jurang. Mula-mula Gajah menolak sebab Gajah bermaksud untuk ke sungai. Selain itu, Gajah akan menengok sawah di pojok hutan. Namun, ketika Kancil menipunya dengan mengatakan bahwa langit akan runtuh menimpa bumi, Gajah pun terjun ke dalam jurang. Si Kancil kemudian bisa keluar dari jurang dengan cara melompat lewat punggung Gajah. Sementara, Gajah bersedih ditinggal sendiri di dalam jurang.\n\nLatar tempat cerita tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Hutan",
+        "B": "Jurang",
+        "C": "Sawah",
+        "D": "Sungai"
+      },
+      "jawaban": "B",
+      "penjelasan": "Peristiwa utama (Kancil dan Gajah) terjadi di dalam jurang."
+    },
+    {
+      "no": 50,
+      "soal": "(Berdasarkan cerita fabel pada soal nomor 49.)\n\nAmanat cerita tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Berpikirlah secara matang sebelum bertindak.",
+        "B": "Abaikan saja setiap perkataan dari orang lain.",
+        "C": "Biarlah kita selalu tertipu asalkan kita tidak rugi.",
+        "D": "Jangan pernah percaya dengan perkataan orang lain."
+      },
+      "jawaban": "A",
+      "penjelasan": "Gajah terjun ke jurang karena langsung percaya tipuan Kancil; amanatnya berpikir matang sebelum bertindak."
+    },
+    {
+      "no": 51,
+      "soal": "Puisi berikut untuk menjawab soal nomor 51 dan 52.\n\nGuruku, pelita di kegelapan,\nLangkah kecilku kau tuntun perlahan,\nDi setiap huruf yang kau ajarkan,\nTertanam mimpi masa depan.\n\nSabarmu tak kenal batas,\nSeperti mentari yang terus panas,\nMenghangatkan hati yang penuh tanya,\nMembimbing kami mengenal dunia.\n\nHari ini, pada kesempatan ini,\nKami ucapkan terima kasih setulus hati,\nEngkaulah terang dalam perjalanan,\nYang tak pernah pudar oleh zaman\n\nJudul yang sesuai dengan puisi tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Mentari Pagi",
+        "B": "Langkah Kecil",
+        "C": "Terang di Setiap Langkah",
+        "D": "Mimpi Masa Depan"
+      },
+      "jawaban": "C",
+      "penjelasan": "Puisi menggambarkan guru sebagai pelita dan terang dalam perjalanan murid, sehingga judul C paling mewakili seluruh isi."
+    },
+    {
+      "no": 52,
+      "soal": "(Berdasarkan puisi pada soal nomor 51.)\n\nAmanat yang terkandung dalam puisi tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Pentingnya menuntut ilmu setinggi-tingginya.",
+        "B": "Masa depan yang cerah harus diraih dengan kerja keras.",
+        "C": "Jangan pernah melupakan jasa guru yang telah membimbing kita.",
+        "D": "Kesabaran seorang guru sangatlah dibutuhkan dalam mendidik siswa."
+      },
+      "jawaban": "C",
+      "penjelasan": "Puisi berisi ucapan terima kasih kepada guru; amanatnya jangan melupakan jasa guru."
+    },
+    {
+      "no": 53,
+      "soal": "Cermatilah syair berikut!\n\nAdik kuberi baju kebaya\nWarna baju putih bagai sutra\nAdik tersenyum hati bahagia\nHilang sudah duka lara\n\nMaksud syair tersebut adalah …",
+      "gambar": null,
+      "pilihan": {
+        "A": "Membuat baju untuk adik",
+        "B": "Adik diberi baju agar bahagia",
+        "C": "Adik tersenyum hati bahagia",
+        "D": "Duka dan lara hilang karena adik tersenyum"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pemberian baju kebaya membuat adik bahagia; B merangkum sebab dan akibatnya."
+    },
+    {
+      "no": 54,
+      "soal": "Bacalah kalimat berikut!\n\n\"Saya akan pulang sebentar lagi dan membawa minuman kesukaanmu,\" ujar Albert kepada adiknya.\n\nPerubahan kalimat tidak langsung yang tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Albert mengatakan bahwa dia akan pulang sebentar lagi dan membawa minuman kesukaanmu.",
+        "B": "Albert mengatakan bahwa dia akan pulang sebentar lagi dan membawa minuman kesukaan dia.",
+        "C": "Albert mengatakan bahwa dia akan pulang sebentar lagi dan membawa minuman kesukaan adiknya.",
+        "D": "Albert berjanji akan pulang sebentar lagi dan membawa minuman kesukaan adiknya."
+      },
+      "jawaban": "C",
+      "penjelasan": "Kata ganti 'kesukaanmu' berubah menjadi 'kesukaan adiknya' dan kata kerja tetap mengatakan. D mengubah makna menjadi janji."
+    },
+    {
+      "no": 55,
+      "soal": "Penggunaan kata depan yang tidak tepat adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sepeda Alika dicuri oleh penjahat saat ia tertidur.",
+        "B": "Alisa sudah mendengar beritanya dari televisi.",
+        "C": "Ibu memberi dukungan ke pada kakak yang akan merantau untuk bekerja.",
+        "D": "Lebih baik terlambat daripada tidak melakukan apapun sama sekali."
+      },
+      "jawaban": "C",
+      "penjelasan": "Kata depan 'kepada' harus ditulis serangkai, bukan 'ke pada'."
+    }
+  ]
+}
