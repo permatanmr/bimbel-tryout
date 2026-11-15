@@ -1,0 +1,462 @@
+{
+  "judul": "VISI E4",
+  "deskripsi": "Latihan verbal dan kosakata bahasa Inggris: synonym, antonym, verbal analogy, word classification, logical reasoning, different word, dan vocabulary.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Serene = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Turbulent",
+        "B": "Calm",
+        "C": "Chaotic",
+        "D": "Stormy"
+      },
+      "jawaban": "B",
+      "penjelasan": "Serene (tenang) bersinonim dengan calm."
+    },
+    {
+      "no": 2,
+      "soal": "Arrange = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Sterilize",
+        "B": "Plagiarize",
+        "C": "Terrorize",
+        "D": "Organize"
+      },
+      "jawaban": "D",
+      "penjelasan": "Arrange (menyusun) bersinonim dengan organize."
+    },
+    {
+      "no": 3,
+      "soal": "Humanity = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Woman",
+        "B": "Land",
+        "C": "Mankind",
+        "D": "Man"
+      },
+      "jawaban": "C",
+      "penjelasan": "Humanity (umat manusia) bersinonim dengan mankind."
+    },
+    {
+      "no": 4,
+      "soal": "Local = ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Distant",
+        "B": "Global",
+        "C": "Regional",
+        "D": "Far"
+      },
+      "jawaban": "C",
+      "penjelasan": "Local (setempat) paling dekat dengan regional (kedaerahan); distant, global, dan far bukan sinonimnya. Soal ini dapat ditafsirkan lain."
+    },
+    {
+      "no": 5,
+      "soal": "Conservation = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Environment",
+        "B": "Preservation",
+        "C": "Agriculture",
+        "D": "Reservation"
+      },
+      "jawaban": "B",
+      "penjelasan": "Conservation (pelestarian) bersinonim dengan preservation."
+    },
+    {
+      "no": 6,
+      "soal": "Accept >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Support",
+        "B": "Have",
+        "C": "Approve",
+        "D": "Refuse"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata accept (menerima) adalah refuse (menolak)."
+    },
+    {
+      "no": 7,
+      "soal": "Fortunate >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Unlucky",
+        "B": "Gifted",
+        "C": "Blessed",
+        "D": "Privileged"
+      },
+      "jawaban": "A",
+      "penjelasan": "Lawan kata fortunate (beruntung) adalah unlucky."
+    },
+    {
+      "no": 8,
+      "soal": "Blend >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Combine",
+        "B": "Mix",
+        "C": "Merge",
+        "D": "Separate"
+      },
+      "jawaban": "D",
+      "penjelasan": "Lawan kata blend (mencampur) adalah separate (memisahkan)."
+    },
+    {
+      "no": 9,
+      "soal": "Heterogeneous >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Diverse",
+        "B": "Varied",
+        "C": "Homogeneous",
+        "D": "Complex"
+      },
+      "jawaban": "C",
+      "penjelasan": "Lawan kata heterogeneous (beragam) adalah homogeneous (seragam)."
+    },
+    {
+      "no": 10,
+      "soal": "Reluctant >< ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Unwilling",
+        "B": "Eager",
+        "C": "Hesitant",
+        "D": "Unenthusiastic"
+      },
+      "jawaban": "B",
+      "penjelasan": "Lawan kata reluctant (enggan) adalah eager (bersemangat)."
+    },
+    {
+      "no": 11,
+      "soal": "Whisper : shout :: glance : ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Ignore",
+        "B": "Watch",
+        "C": "Sleep",
+        "D": "Stare"
+      },
+      "jawaban": "D",
+      "penjelasan": "Whisper (berbisik) versi lemah dari shout (berteriak); glance (melirik sekilas) versi lemah dari stare (menatap tajam)."
+    },
+    {
+      "no": 12,
+      "soal": "____ is to scientist as ____ is to geologist.",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lab – microscope",
+        "B": "Research – fossil",
+        "C": "Experiment – rock",
+        "D": "Microscope – compass"
+      },
+      "jawaban": "C",
+      "penjelasan": "Ilmuwan melakukan eksperimen; ahli geologi mempelajari batuan (rock). Soal ini dapat ditafsirkan lain (B)."
+    },
+    {
+      "no": 13,
+      "soal": "Cheese cake is to dessert as ____ is to ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Chicken soup is to snack",
+        "B": "Salad is to main course",
+        "C": "Lemonade is to beverage",
+        "D": "Chili sauce is to appetizer"
+      },
+      "jawaban": "C",
+      "penjelasan": "Cheese cake adalah jenis hidangan penutup; lemonade adalah jenis minuman (contoh : kategori)."
+    },
+    {
+      "no": 14,
+      "soal": "Black smith is to ____ as cobbler is to ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Knives – shoes",
+        "B": "Vase – beer",
+        "C": "Building – ornament",
+        "D": "Newspaper – make up"
+      },
+      "jawaban": "A",
+      "penjelasan": "Pandai besi membuat pisau; tukang sepatu membuat/memperbaiki sepatu."
+    },
+    {
+      "no": 15,
+      "soal": "Rainbow is to be ____ as radiation is to be ____",
+      "gambar": null,
+      "pilihan": {
+        "A": "Beautiful – safety",
+        "B": "Monochrome – flammable",
+        "C": "Colorful – toxic",
+        "D": "Shadowy – illegal"
+      },
+      "jawaban": "C",
+      "penjelasan": "Pelangi berwarna-warni (colorful); radiasi beracun/berbahaya (toxic)."
+    },
+    {
+      "no": 16,
+      "soal": "Which one is not a noun below?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Darkness",
+        "B": "Black",
+        "C": "Shadow",
+        "D": "Lamp"
+      },
+      "jawaban": "B",
+      "penjelasan": "Darkness, shadow, dan lamp adalah kata benda; black di sini kata sifat."
+    },
+    {
+      "no": 17,
+      "soal": "Which one is verb?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Imagine",
+        "B": "Imagination",
+        "C": "Imaginable",
+        "D": "Imaginative"
+      },
+      "jawaban": "A",
+      "penjelasan": "Imagine adalah kata kerja; imagination (noun), imaginable dan imaginative (adjective)."
+    },
+    {
+      "no": 18,
+      "soal": "Which one adjective from the words below?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Satisfy",
+        "B": "Satisfaction",
+        "C": "Satisfactory",
+        "D": "Satisfactorily"
+      },
+      "jawaban": "C",
+      "penjelasan": "Satisfactory adalah kata sifat; satisfy (verb), satisfaction (noun), satisfactorily (adverb)."
+    },
+    {
+      "no": 19,
+      "soal": "Which one is different?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Vivacious",
+        "B": "Precision",
+        "C": "Enthusiastic",
+        "D": "Persuasive"
+      },
+      "jawaban": "B",
+      "penjelasan": "Vivacious, enthusiastic, dan persuasive adalah kata sifat; precision adalah kata benda."
+    },
+    {
+      "no": 20,
+      "soal": "The following are verbs, except...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Enervate",
+        "B": "Defrost",
+        "C": "Fastidious",
+        "D": "Unable"
+      },
+      "jawaban": "C",
+      "penjelasan": "Enervate dan defrost adalah kata kerja; fastidious dan unable sama-sama kata sifat, sehingga soal ini punya dua jawaban yang memenuhi (C atau D). Kunci dipilih C."
+    },
+    {
+      "no": 21,
+      "soal": "All reptiles lay eggs. A lizard is a reptile. So, a lizard...",
+      "gambar": null,
+      "pilihan": {
+        "A": "lays eggs",
+        "B": "gives birth to live young",
+        "C": "might lay eggs",
+        "D": "does not lay eggs"
+      },
+      "jawaban": "A",
+      "penjelasan": "Semua reptil bertelur dan kadal adalah reptil, jadi kadal bertelur."
+    },
+    {
+      "no": 22,
+      "soal": "Jake is stronger than Joshua. Jackson is weaker than Jake but stronger than Joshua. Which statement is true?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Joshua is the strongest",
+        "B": "Jackson is the weakest",
+        "C": "Jake is weaker than Jackson",
+        "D": "Joshua is the weakest"
+      },
+      "jawaban": "D",
+      "penjelasan": "Urutan kekuatan: Jake > Jackson > Joshua, jadi Joshua paling lemah."
+    },
+    {
+      "no": 23,
+      "soal": "When iron is exposed to oxygen and moisture, it rusts. A piece of iron was exposed to oxygen but remained dry. What is the most likely outcome?",
+      "gambar": null,
+      "pilihan": {
+        "A": "The iron will rust immediately",
+        "B": "The iron will never rust",
+        "C": "The iron may not rust because moisture is missing",
+        "D": "The iron rusts only when exposed to sunlight"
+      },
+      "jawaban": "C",
+      "penjelasan": "Karat membutuhkan oksigen dan kelembapan; tanpa kelembapan besi mungkin tidak berkarat."
+    },
+    {
+      "no": 24,
+      "soal": "If plants don't get enough sunlight, they produce less chlorophyll. If they produce less chlorophyll, their leaves turn yellow. A plant's leaves are yellow. What is a possible cause?",
+      "gambar": null,
+      "pilihan": {
+        "A": "It is overwatered",
+        "B": "It lacks sunlight",
+        "C": "It was recently trimmed",
+        "D": "It has enough chlorophyll"
+      },
+      "jawaban": "B",
+      "penjelasan": "Rantai sebab-akibat dalam soal menyebut kurang sinar matahari sebagai penyebab daun menguning."
+    },
+    {
+      "no": 25,
+      "soal": "When sleep is reduced, concentration drops. When concentration drops, productivity suffers. Danielle has had very low productivity this week. Which is the most reasonable deduction?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Danielle is lazy",
+        "B": "Danielle has not been sleeping enough",
+        "C": "Danielle has too much work",
+        "D": "Danielle is distracted by social media"
+      },
+      "jawaban": "B",
+      "penjelasan": "Mengikuti rantai dalam teks (kurang tidur, konsentrasi turun, produktivitas turun), deduksi paling masuk akal adalah Danielle kurang tidur."
+    },
+    {
+      "no": 26,
+      "soal": "Choose the word that doesn't have the same group!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Cheese",
+        "B": "Milk",
+        "C": "Yogurt",
+        "D": "Sugar"
+      },
+      "jawaban": "D",
+      "penjelasan": "Cheese, milk, dan yogurt adalah produk susu; sugar bukan."
+    },
+    {
+      "no": 27,
+      "soal": "What word is the odd one?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Regret",
+        "B": "Calm",
+        "C": "Peace",
+        "D": "Serenity"
+      },
+      "jawaban": "A",
+      "penjelasan": "Calm, peace, dan serenity bermakna tenang; regret berarti penyesalan."
+    },
+    {
+      "no": 28,
+      "soal": "Which word doesn't belong with the others?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Eiffel Tower",
+        "B": "Great Wall of China",
+        "C": "Statue of Liberty",
+        "D": "Amazon Rainforest"
+      },
+      "jawaban": "D",
+      "penjelasan": "Eiffel Tower, Great Wall of China, dan Statue of Liberty adalah bangunan buatan manusia; Amazon Rainforest adalah alam."
+    },
+    {
+      "no": 29,
+      "soal": "Which word that doesn't belong to the same group?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Democracy",
+        "B": "Monarchy",
+        "C": "Republic",
+        "D": "Factory"
+      },
+      "jawaban": "D",
+      "penjelasan": "Democracy, monarchy, dan republic adalah bentuk/sistem pemerintahan; factory adalah pabrik."
+    },
+    {
+      "no": 30,
+      "soal": "Determine the difference in one word from the following four words!",
+      "gambar": null,
+      "pilihan": {
+        "A": "Beige",
+        "B": "Emerald",
+        "C": "Lime",
+        "D": "Olive"
+      },
+      "jawaban": "A",
+      "penjelasan": "Emerald, lime, dan olive adalah warna hijau; beige adalah krem."
+    },
+    {
+      "no": 31,
+      "soal": "A river or other body of water's steep fall over a rocky ledge into a plunge pool below is called...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Lake",
+        "B": "Ocean",
+        "C": "Bay",
+        "D": "Waterfall"
+      },
+      "jawaban": "D",
+      "penjelasan": "Jatuhan air dari tebing batu ke kolam di bawahnya disebut waterfall (air terjun)."
+    },
+    {
+      "no": 32,
+      "soal": "A stalwart is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A person who is weak and fragile",
+        "B": "A person who is loyal and reliable",
+        "C": "A type of rock formation",
+        "D": "A type of tree"
+      },
+      "jawaban": "B",
+      "penjelasan": "Stalwart berarti orang yang setia dan dapat diandalkan."
+    },
+    {
+      "no": 33,
+      "soal": "A cosmopolitan is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A person who is from small town",
+        "B": "A person who is sophisticated and worldly",
+        "C": "A person who loves to stay at home",
+        "D": "A person who enjoys to live in coastal area"
+      },
+      "jawaban": "B",
+      "penjelasan": "Cosmopolitan berarti orang yang berwawasan luas dan berpengalaman dunia."
+    },
+    {
+      "no": 34,
+      "soal": "A humorist is...",
+      "gambar": null,
+      "pilihan": {
+        "A": "A person who writes romantic stories",
+        "B": "A person who eases to laugh",
+        "C": "A person who tells humorous stories",
+        "D": "A person who performs in a circus"
+      },
+      "jawaban": "C",
+      "penjelasan": "Humorist adalah orang yang menceritakan kisah lucu."
+    },
+    {
+      "no": 35,
+      "soal": "The study of the structure, behavior and evolution of the universe is called...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Biology",
+        "B": "Cosmology",
+        "C": "Botany",
+        "D": "Anthropology"
+      },
+      "jawaban": "B",
+      "penjelasan": "Cosmology adalah ilmu tentang struktur, perilaku, dan evolusi alam semesta."
+    }
+  ]
+}
