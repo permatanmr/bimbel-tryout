@@ -34,7 +34,10 @@ h1 { margin:0 0 8px; font-size:1.6rem; }
 .score { margin:12px 0 20px; font-size:1.3rem; }
 .big { font-size:3rem; font-weight:700; color:var(--pri); }
 .review { list-style:none; padding:0; margin:0 0 16px; display:grid; gap:6px; }
-.review li { display:flex; gap:10px; align-items:center; }
+.review li { display:grid; gap:8px; padding:12px 0; border-bottom:1px solid var(--line); }
+.review-head { display:flex; gap:10px; align-items:center; }
+.review-question { margin:0; white-space:pre-wrap; }
+.review-answers p { margin:4px 0; }
 .chip { width:34px; height:34px; border-radius:8px; border:none; color:#fff; font-weight:600; cursor:pointer; }
 .chip.ok { background:var(--ok); } .chip.bad { background:var(--bad); } .chip.skip { background:#9aa3b5; }
 a.btn { text-decoration:none; display:inline-block; }

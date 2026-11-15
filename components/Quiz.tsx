@@ -98,16 +98,27 @@ export default function Quiz({ paket }: { paket: Paket }) {
               const ok = a === s.jawaban;
               return (
                 <li key={s.no}>
-                  <button
-                    className={`chip ${a === undefined ? "skip" : ok ? "ok" : "bad"}`}
-                    onClick={() => { setIdx(i); setDone(false); }}
-                    title="Tinjau soal"
-                  >
-                    {i + 1}
-                  </button>
-                  <span className="muted">
-                    {a === undefined ? "Belum dijawab" : ok ? "Benar" : `Salah (jawabanmu ${a}, benar ${s.jawaban})`}
-                  </span>
+                  <div className="review-head">
+                    <button
+                      className={`chip ${a === undefined ? "skip" : ok ? "ok" : "bad"}`}
+                      onClick={() => { setIdx(i); setDone(false); }}
+                      title="Tinjau soal"
+                    >
+                      {i + 1}
+                    </button>
+                    <span className="muted">
+                      {a === undefined ? "Belum dijawab" : ok ? "Benar" : "Salah"}
+                    </span>
+                  </div>
+                  <p className="review-question">{s.soal}</p>
+                  {s.gambar && (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img className="gambar" src={s.gambar} alt={`Gambar soal ${s.no}`} />
+                  )}
+                  <div className="review-answers">
+                    <p><strong>Jawaban benar:</strong> {s.jawaban}{s.pilihan[s.jawaban] ? ` — ${s.pilihan[s.jawaban]}` : ""}</p>
+                    <p><strong>Jawaban dipilih:</strong> {a === undefined ? "Belum dijawab" : `${a}${s.pilihan[a] ? ` — ${s.pilihan[a]}` : ""}`}</p>
+                  </div>
                 </li>
               );
             })}
