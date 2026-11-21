@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { listPaket } from "@/lib/paket";
+import PaketList from "@/components/PaketList";
 
 export const dynamic = "force-dynamic";
 
@@ -15,17 +16,17 @@ export default function Home() {
           atau jalankan <code>python3 scripts/import_paket.py</code>.
         </div>
       )}
-      <div className="grid">
-        {paket.map((p) => (
-          <Link key={p.slug} href={`/paket/${p.slug}`} className="card pk">
-            <h2>{p.judul}</h2>
-            {p.deskripsi && <p className="muted">{p.deskripsi}</p>}
-            <div className="meta">
-              {p.soal.length} soal{p.durasiMenit ? ` · ${p.durasiMenit} menit` : ""}
-            </div>
-          </Link>
-        ))}
-      </div>
+      {paket.length > 0 && (
+        <PaketList
+          paket={paket.map(({ slug, judul, deskripsi, durasiMenit, soal }) => ({
+            slug,
+            judul,
+            deskripsi,
+            durasiMenit,
+            jumlahSoal: soal.length,
+          }))}
+        />
+      )}
     </main>
   );
 }

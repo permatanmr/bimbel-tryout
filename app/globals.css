@@ -240,6 +240,26 @@ a.btn {
   gap: 14px;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
+.search-label {
+  display: block;
+  margin: 20px 0 6px;
+  font-weight: 600;
+}
+.search-input {
+  width: 100%;
+  min-height: 44px;
+  margin-bottom: 14px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+}
+.search-input:focus {
+  outline: 2px solid var(--pri);
+  outline-offset: 1px;
+}
 a.pk {
   text-decoration: none;
   color: inherit;
