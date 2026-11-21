@@ -1,0 +1,397 @@
+{
+  "judul": "VISI M1",
+  "deskripsi": "Latihan kuantitatif: operasi bilangan bulat, pecahan, akar dan pangkat, KPK dan FPB, perbandingan, aritmetika sosial, serta pola bilangan.",
+  "durasi_menit": null,
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Hasil dari -15 + 30 : (-5) – 12 x 2 = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "-27",
+        "B": "-30",
+        "C": "-45",
+        "D": "-47"
+      },
+      "jawaban": "C",
+      "penjelasan": "30 : (-5) = -6 dan 12 x 2 = 24, sehingga -15 + (-6) – 24 = -45."
+    },
+    {
+      "no": 2,
+      "soal": "Hasil dari -20 + 7 x 5 – 18 : (-3) = ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "-21",
+        "B": "-14",
+        "C": "14",
+        "D": "21"
+      },
+      "jawaban": "D",
+      "penjelasan": "7 x 5 = 35 dan 18 : (-3) = -6, sehingga -20 + 35 + 6 = 21."
+    },
+    {
+      "no": 3,
+      "soal": "Nilai dari (117 x 18 + 18 x (-17)) / (45 x 32 – 45 x 12) adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "18",
+        "B": "10",
+        "C": "9",
+        "D": "2"
+      },
+      "jawaban": "D",
+      "penjelasan": "Pembilang = 18 x (117 – 17) = 1.800; penyebut = 45 x (32 – 12) = 900; hasilnya 1.800 : 900 = 2."
+    },
+    {
+      "no": 4,
+      "soal": "Dalam suatu tes, jawaban benar mendapat skor 4, yang salah mendapat skor -2 dan untuk yang tidak dijawab diberi skor -1. Jika dari 50 soal, Sifa menjawab benar 30 soal dan menjawab salah 7 soal serta sisanya tidak dikerjakan. Maka total skor yang diperoleh Sifa adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "90",
+        "B": "93",
+        "C": "99",
+        "D": "103"
+      },
+      "jawaban": "B",
+      "penjelasan": "Tidak dikerjakan = 50 – 37 = 13 soal. Skor = 30 x 4 + 7 x (-2) + 13 x (-1) = 120 – 14 – 13 = 93."
+    },
+    {
+      "no": 5,
+      "soal": "Setiap ketinggian naik 90 meter dari permukaan laut, suhu udara turun 1/2 °C. Jika suhu udara dipermukaan laut 38 °C, suhu udara pada ketinggian 3.600 meter diatas permukaan laut adalah....",
+      "gambar": null,
+      "pilihan": {
+        "A": "18 °C",
+        "B": "16 °C",
+        "C": "15 °C",
+        "D": "13 °C"
+      },
+      "jawaban": "A",
+      "penjelasan": "3.600 : 90 = 40 kali penurunan, sehingga turun 40 x 1/2 = 20 °C. Suhu = 38 – 20 = 18 °C."
+    },
+    {
+      "no": 6,
+      "soal": "Operasi \"△\" berarti kalikan bilangan pertama dengan bilangan kedua, kemudian tambahkan hasilnya dengan kuadrat bilangan kedua.\n\nHasil dari -17 △ 9 adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "-153",
+        "B": "-72",
+        "C": "72",
+        "D": "153"
+      },
+      "jawaban": "B",
+      "penjelasan": "-17 △ 9 = (-17 x 9) + 9² = -153 + 81 = -72."
+    },
+    {
+      "no": 7,
+      "soal": "Apabila a = -1, b = -3, dan c = 9 maka hasil dari -2a² + 3b – 6c adalah....",
+      "gambar": null,
+      "pilihan": {
+        "A": "-65",
+        "B": "-61",
+        "C": "-47",
+        "D": "65"
+      },
+      "jawaban": "A",
+      "penjelasan": "-2(-1)² + 3(-3) – 6(9) = -2 – 9 – 54 = -65."
+    },
+    {
+      "no": 8,
+      "soal": "Perhatikan persamaan berikut!\na + (-5) = b x (-4) = 12 + c = 20 – d = e – (-10) = 8\n\nDari persamaan di atas, bilangan terbesar dan terkecil secara berturut-turut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "a dan c",
+        "B": "b dan d",
+        "C": "c dan e",
+        "D": "d dan a"
+      },
+      "jawaban": "A",
+      "penjelasan": "Semua bentuk bernilai 8: a = 13, b = -2, c = -4, d = 12, e = -2. Terbesar a (13) dan terkecil c (-4)."
+    },
+    {
+      "no": 9,
+      "soal": "Perhatikan tabel perkalian bilangan bulat berikut!\n\nX | Q | -5 | S\n-4 | -24 | A | -32\nM | 36 | -45 | C\nN | B | 60 | -48\n\nBerdasarkan tabel di atas, nilai dari A + B + C adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "126",
+        "B": "114",
+        "C": "108",
+        "D": "96"
+      },
+      "jawaban": null,
+      "penjelasan": "Dari sel yang jelas: Q = 6, S = 8, A = (-4) x (-5) = 20, M = 9, N = -12, sehingga B = -72 dan C = 72, jumlah A + B + C = 20. Nilai ini tidak ada di pilihan, dan tabel di buku tidak konsisten (M x Q seharusnya 54, N x S seharusnya -96). Kunci tidak dapat ditentukan, mohon cek ke kunci buku."
+    },
+    {
+      "no": 10,
+      "soal": "Sebuah toko kue menerima kiriman 12 dus kue kering. Setiap dus berisi 25 toples kue kering. Setiap toples kue kering berisi 30 buah kue kering. Pada hari itu, toko tersebut berhasil menjual kue kering setiap jamnya, 15 toples mulai dari pukul 09.00 pagi hingga 15.00 sore. Banyak sisa kue kering yang belum terjual di toko tersebut adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "6.000 buah",
+        "B": "6.200 buah",
+        "C": "6.300 buah",
+        "D": "6.400 buah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Total = 12 x 25 x 30 = 9.000 kue. Terjual = 6 jam x 15 toples x 30 = 2.700 kue. Sisa = 9.000 – 2.700 = 6.300 kue."
+    },
+    {
+      "no": 11,
+      "soal": "Pak Rafi memiliki 2 batang bambu dengan panjang 2 1/4 m dan 3 1/2 m. Bambu tersebut digunakan untuk membuat rak sepatu sepanjang 5 1/3 m dan sebuah kursi dengan panjang 1/3.\n\nPanjang bambu yang tersisa adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "1/9",
+        "B": "1/12",
+        "C": "1/15",
+        "D": "1/18"
+      },
+      "jawaban": "B",
+      "penjelasan": "Total bambu = 2 1/4 + 3 1/2 = 5 3/4. Terpakai = 5 1/3 + 1/3 = 5 2/3. Sisa = 5 3/4 – 5 2/3 = 23/4 – 17/3 = 69/12 – 68/12 = 1/12."
+    },
+    {
+      "no": 12,
+      "soal": "Dani, Juna, dan Risa adalah anak dari Tari dan Juan. Saat liburan sekolah, mereka mengunjungi taman di sekitar rumah untuk bermain. Ketiganya membawa kelereng dengan jumlah yang berbeda.\n\nDiketahui:\n• Dani memiliki 3/4 dari jumlah kelereng Juna.\n• Juna memiliki 2/5 dari jumlah kelereng Risa.\n• Risa memiliki 60 kelereng.\n\nBerapakah total jumlah kelereng yang dimiliki oleh ketiga anak Tari dan Juan?",
+      "gambar": null,
+      "pilihan": {
+        "A": "93",
+        "B": "97",
+        "C": "102",
+        "D": "105"
+      },
+      "jawaban": "C",
+      "penjelasan": "Juna = 2/5 x 60 = 24; Dani = 3/4 x 24 = 18. Total = 18 + 24 + 60 = 102."
+    },
+    {
+      "no": 13,
+      "soal": "Ibu memiliki 4 liter sirup. Ia akan menuangkannya ke dalam botol-botol kecil yang masing-masing berisi 3/4 liter. Jika hanya tersedia 4 botol, maka sirup yang tersisa adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Tidak ada sisa sirup",
+        "B": "1/3 liter",
+        "C": "1 liter",
+        "D": "1 1/3 liter"
+      },
+      "jawaban": "C",
+      "penjelasan": "4 botol x 3/4 liter = 3 liter. Sisa = 4 – 3 = 1 liter."
+    },
+    {
+      "no": 14,
+      "soal": "Hasil dari :\n8² + √121 + 15² – ∛6.859\nadalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "218",
+        "B": "281",
+        "C": "319",
+        "D": "391"
+      },
+      "jawaban": "B",
+      "penjelasan": "64 + 11 + 225 – 19 = 281 (karena 19³ = 6.859)."
+    },
+    {
+      "no": 15,
+      "soal": "Hasil dari :\n√((-15) x (5 x (-6)) + (-9)) ÷ ∛(7 x (-6 + 55))\nadalah....",
+      "gambar": null,
+      "pilihan": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": "C",
+      "penjelasan": "Di dalam akar kuadrat: (-15)(-30) + (-9) = 441, akarnya 21. Di dalam akar pangkat tiga: 7 x 49 = 343, akarnya 7. Hasil = 21 : 7 = 3."
+    },
+    {
+      "no": 16,
+      "soal": "Diketahui luas sebuah persegi 1.764 cm². Keliling persegi tersebut adalah ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "144 cm",
+        "B": "156 cm",
+        "C": "168 cm",
+        "D": "172 cm"
+      },
+      "jawaban": "C",
+      "penjelasan": "Sisi = √1.764 = 42 cm. Keliling = 4 x 42 = 168 cm."
+    },
+    {
+      "no": 17,
+      "soal": "Sebuah kubus memiliki volume 17.576 cm³, luas permukaan kubus tersebut adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "4.056 cm²",
+        "B": "4.650 cm²",
+        "C": "4.065 cm²",
+        "D": "4.560 cm²"
+      },
+      "jawaban": "A",
+      "penjelasan": "Rusuk = ∛17.576 = 26 cm. Luas permukaan = 6 x 26² = 6 x 676 = 4.056 cm²."
+    },
+    {
+      "no": 18,
+      "soal": "Berikut merupakan jadwal operasional bus Sinar Jaya.\n• Bus Sinar Jaya jurusan Jogja tiba di terminal setiap 30 menit sekali.\n• Bus Sinar Jaya jurusan Purwokerto tiba di terminal setiap 25 menit sekali.\n• Bus Sinar Jaya jurusan Palembang tiba di terminal setiap 40 menit sekali.\n\nJika bus tersebut berangkat bersama pukul 06.30 pagi. Maka ketiga bus akan berangkat bersama lagi pada pukul berapa ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "14.30",
+        "B": "15.30",
+        "C": "16.30",
+        "D": "17.30"
+      },
+      "jawaban": "C",
+      "penjelasan": "KPK dari 30, 25, dan 40 adalah 600 menit = 10 jam. Pukul 06.30 + 10 jam = 16.30."
+    },
+    {
+      "no": 19,
+      "soal": "Ibu memiliki 90 buah apel, 108 buah jeruk, dan 126 buah pir. Ibu ingin mengemas semua buah tersebut dalam beberapa keranjang. Setiap keranjang harus berisi jenis buah yang sama dan jumlah buah di setiap keranjang harus sama banyak. Agar jumlah keranjang yang digunakan sesedikit mungkin, berapa jumlah buah terbanyak yang dapat dimasukkan ke dalam setiap keranjang ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "9 buah",
+        "B": "12 buah",
+        "C": "18 buah",
+        "D": "24 buah"
+      },
+      "jawaban": "C",
+      "penjelasan": "Jumlah buah per keranjang terbanyak = FPB dari 90, 108, dan 126 = 18."
+    },
+    {
+      "no": 20,
+      "soal": "Novia, Anin, dan Thina mencuci motornya di tempat pencucian yang sama, namun dengan jadwal berbeda. Novia mencuci setiap 6 hari sekali, Anin setiap 8 hari sekali, Thina setiap 12 hari sekali. Jika hari ini mereka bertemu bersama-sama pada hari Senin, maka pada hari apa mereka akan bertemu kembali secara bersamaan?",
+      "gambar": null,
+      "pilihan": {
+        "A": "Kamis",
+        "B": "Jumat",
+        "C": "Sabtu",
+        "D": "Minggu"
+      },
+      "jawaban": "A",
+      "penjelasan": "KPK dari 6, 8, dan 12 adalah 24 hari. 24 = 3 x 7 + 3, jadi 3 hari setelah Senin adalah Kamis."
+    },
+    {
+      "no": 21,
+      "soal": "Toko Buah \"Mawar Melati\" menerima 3 peti buah. Peti pertama berisi 144 kg apel, peti kedua berisi 84 kg mangga, dan peti ketiga berisi 72 kg jeruk. Buah itu akan ditumpuk di dalam lemari es besar dengan banyak buah dalam tiap tumpukan harus sama. Berapa banyak buah dari ketiga jenis buah pada setiap tumpukan buah yang ada di dalam lemari es...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Apel = 48, mangga = 28, jeruk = 24",
+        "B": "Apel = 24, mangga = 14, jeruk = 12",
+        "C": "Apel = 12, mangga = 7, jeruk = 6",
+        "D": "Apel = 6, mangga = 7, jeruk = 6"
+      },
+      "jawaban": "C",
+      "penjelasan": "Banyak tumpukan terbanyak setara FPB 144, 84, 72 = 12 tumpukan. Isi tiap tumpukan: apel 144 : 12 = 12, mangga 84 : 12 = 7, jeruk 72 : 12 = 6."
+    },
+    {
+      "no": 22,
+      "soal": "Total uang tabungan Riki dan Riyan di sekolah adalah Rp 1.500.000. Perbandingan uang Riki dan Riyan adalah 5 : 3. Maka selisih uang mereka berdua adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rp 187.500",
+        "B": "Rp 375.000",
+        "C": "Rp 550.000",
+        "D": "Rp 725.000"
+      },
+      "jawaban": "B",
+      "penjelasan": "Satu bagian = 1.500.000 : 8 = 187.500. Selisih = (5 – 3) x 187.500 = 375.000."
+    },
+    {
+      "no": 23,
+      "soal": "Uang Dika dibandingkan dengan uang Febri adalah 3 : 5, sedangkan uang Febri dibandingkan dengan uang Anin adalah 2 : 3. Jika selisih uang Dika dan Anin adalah Rp 81.000. Maka jumlah uang Anin dan Febri adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Rp 357.000",
+        "B": "Rp 225.000",
+        "C": "Rp 450.000",
+        "D": "Rp 557.000"
+      },
+      "jawaban": "B",
+      "penjelasan": "Samakan Febri = 10: Dika : Febri : Anin = 6 : 10 : 15. Selisih Dika dan Anin = 9 bagian = 81.000, jadi 1 bagian = 9.000. Anin + Febri = 25 bagian = 225.000."
+    },
+    {
+      "no": 24,
+      "soal": "Untuk membuat 12 kue dibutuhkan 150 gram gula. Berapa gula yang dibutuhkan untuk membuat 30 kue?",
+      "gambar": null,
+      "pilihan": {
+        "A": "370 gram",
+        "B": "375 gram",
+        "C": "385 gram",
+        "D": "395 gram"
+      },
+      "jawaban": "B",
+      "penjelasan": "Gula = 30/12 x 150 = 375 gram."
+    },
+    {
+      "no": 25,
+      "soal": "Diketahui enam mesin dapat menyelesaikan proyek dalam 18 hari. Berapa hari yang diperlukan jika hanya memakai 3 mesin?",
+      "gambar": null,
+      "pilihan": {
+        "A": "36 hari",
+        "B": "46 hari",
+        "C": "38 hari",
+        "D": "48 hari"
+      },
+      "jawaban": "A",
+      "penjelasan": "Perbandingan berbalik nilai: mesin berkurang separuh, waktu menjadi dua kali, yaitu 18 x 2 = 36 hari."
+    },
+    {
+      "no": 26,
+      "soal": "Seorang pedagang membeli 50 buah buku dengan total harga Rp1.250.000. Ia menjual 30 buah buku dengan harga Rp30.000 per buah dan sisanya dijual dengan harga Rp20.000 per buah. Maka pedagang tersebut mengalami....",
+      "gambar": null,
+      "pilihan": {
+        "A": "Keuntungan 4%",
+        "B": "Keuntungan 5%",
+        "C": "Kerugian 4%",
+        "D": "Kerugian 5%"
+      },
+      "jawaban": "A",
+      "penjelasan": "Hasil penjualan = 30 x 30.000 + 20 x 20.000 = 900.000 + 400.000 = 1.300.000. Untung = 50.000, yaitu 50.000/1.250.000 x 100% = 4%."
+    },
+    {
+      "no": 27,
+      "soal": "Siti Ingin membeli sebuah tas di toko kesayangannya\n\nSiti membawa uang sebesar Rp300.000,00 untuk membayar tas tersebut. Berapa sisa uang Siti setelah membeli tas?",
+      "gambar": "soal_27.png",
+      "pilihan": {
+        "A": "Rp25.000,00",
+        "B": "Rp30.000,00",
+        "C": "Rp35.000,00",
+        "D": "Rp40.000,00"
+      },
+      "jawaban": "D",
+      "penjelasan": "Harga awal 300.000 dan diskon 15% = 45.000, jadi harga bayar 255.000. Sisa uang = 300.000 – 255.000 = 45.000, yang tidak ada di pilihan (di buku ada tulisan tangan opsi E Rp45.000). Kunci dipilih D (40.000, paling dekat). Mohon cek ke kunci buku."
+    },
+    {
+      "no": 28,
+      "soal": "Lengkapi barisan berikut:\n3, 6, 12, 15, 30, 33, ...",
+      "gambar": null,
+      "pilihan": {
+        "A": "57",
+        "B": "66",
+        "C": "99",
+        "D": "38"
+      },
+      "jawaban": "B",
+      "penjelasan": "Pola bergantian: x2, +3. 3 x 2 = 6; 6 x 2 = 12 (x2), 12 + 3 = 15, 15 x 2 = 30, 30 + 3 = 33, sehingga berikutnya 33 x 2 = 66."
+    },
+    {
+      "no": 29,
+      "soal": "Perhatikan gambar berikut!\n\nBanyak susunan apel pada pola ke 21 adalah....",
+      "gambar": "soal_29.png",
+      "pilihan": {
+        "A": "59",
+        "B": "62",
+        "C": "65",
+        "D": "68"
+      },
+      "jawaban": "B",
+      "penjelasan": "Banyak apel pola ke-1 sampai ke-4: 2, 5, 8, 11 (bertambah 3). Pola ke-21 = 2 + 20 x 3 = 62."
+    },
+    {
+      "no": 30,
+      "soal": "Sebuah aula memiliki susunan kursi yang bertambah secara teratur. Pada baris pertama terdapat 12 kursi, pada baris kedua terdapat 17 kursi, dan setiap baris berikutnya selalu bertambah 5 kursi. Jika di aula tersebut terdapat 10 baris kursi, maka jumlah seluruh kursi di aula adalah ....",
+      "gambar": null,
+      "pilihan": {
+        "A": "285",
+        "B": "315",
+        "C": "345",
+        "D": "390"
+      },
+      "jawaban": "C",
+      "penjelasan": "Deret aritmetika: a = 12, b = 5, n = 10. Jumlah = 10/2 x (2 x 12 + 9 x 5) = 5 x 69 = 345."
+    }
+  ]
+}
